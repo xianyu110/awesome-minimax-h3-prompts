@@ -1,5 +1,7 @@
 # Awesome MiniMax H3 Prompts
 
+[TryMiniMax](https://tryminimax.asia/)
+
 [![Gallery](https://img.shields.io/badge/Browse%20224%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
 [![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
 [![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
