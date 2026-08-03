@@ -2,6 +2,9 @@
 
 [TryMiniMax](https://tryminimax.asia/)
 
+这是一个 **MiniMax H3**（海螺 3.0）视频提示词合集。每条提示词都配有实际生成的视频，
+并标注作者信息和原始帖子链接，方便浏览、学习和复用。
+
 [![画廊](https://img.shields.io/badge/224%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
 [![统一 API](https://img.shields.io/badge/一个%20API-85%2B%20模型-3158E8)](https://tryminimax.asia/zh/models)
 [![价格](https://img.shields.io/badge/图片%20%240.01%20起%20%C2%B7%20视频%20%240.044%2F秒起-1f9e5f)](https://tryminimax.asia/zh/pricing)
