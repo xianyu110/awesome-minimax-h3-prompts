@@ -1,15 +1,15 @@
-# Stunning MiniMax H3 Prompts
+# Awesome MiniMax H3 Prompts
 
-[![Gallery](https://img.shields.io/badge/Browse%20224%20prompts%20with%20video-F5FF60?labelColor=111)](https://apimodels.app/minimax-h3-prompts)
-[![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://apimodels.app/models)
-[![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://apimodels.app/pricing)
+[![Gallery](https://img.shields.io/badge/Browse%20224%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
+[![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
+[![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 Curated **MiniMax H3** (Hailuo 3.0) video prompts — every one shown next to the clip it
 actually produced, with credit and a link to the creator's original post.
 
 **[中文说明](./README.zh-CN.md)** · **[Browse all 222 prompts](./prompts/GALLERY.md)** ·
-**[Watch them with sound](https://apimodels.app/minimax-h3-prompts)**
+**[Watch them with sound](https://tryminimax.asia/minimax-h3-prompts)**
 
 ---
 
@@ -31,69 +31,13 @@ generative editing.
 
 ---
 
-## Run these prompts
-
-**[MiniMax H3 is live on our API](https://apimodels.app/models/minimax-h3)** — $0.145 per
-second of output, native 2K with synchronized audio, 5–15s, and the full multimodal
-reference set (up to 9 images + 3 videos + 3 audio clips). Same endpoint and key as
-everything else below: pay as you go, **$1 free on sign-up**, no subscription.
-
-So you can take any prompt from this repo and run it without signing up anywhere else.
-
-### Image models — from **$0.01** per image
-
-| Model | From | vs official list | What it is |
-|---|---|---|---|
-| **[GPT Image 2](https://apimodels.app/models/gpt-image-2)** | **$0.025** / image (1K) | **−53%** | Native 1K / 2K / 4K, accurate on-image text |
-| [GPT Image 2 (all tiers)](https://apimodels.app/models/gpt-image-2-all) | **$0.01** / image | **−53%** | Every resolution × quality tier on one model string |
-| **[Nano Banana 2](https://apimodels.app/models/nanobanana2)** | **$0.05** / image (1K–2K) | **−25%** | Gemini 3.1 Flash Image — fast and cheap |
-| [Nano Banana 2 Lite](https://apimodels.app/models/nanobanana-2-lite) | **$0.025** / image (flat) | **−62%** | Cheapest tier, 1K output |
-| **[Nano Banana Pro](https://apimodels.app/models/nanobananapro)** | **$0.06** / image | **−55%** | Gemini 3 Pro — best fidelity, 99% success rate |
-| [Nano Banana Pro Lite](https://apimodels.app/models/nanobananapro-lite) | **$0.06** / image | **−55%** | Pro quality, lighter tier, 97% success rate |
-| [Gemini 3 Pro Image](https://apimodels.app/models/gemini-3-pro-image) | **$0.10** / image (1K–2K) | **−25%** | GA release, advanced reasoning |
-| [Gemini 3.1 Flash Image](https://apimodels.app/models/gemini-3.1-flash-image) | **$0.04** / image (512px) | **−40%** | Low latency, conversational editing |
-
-**[957 GPT Image 2 prompts →](https://apimodels.app/gpt-image-2-prompts)** — a second
-library, same idea: every prompt with the image it rendered, browsable by category.
-
-### Video models — from **$0.044** per second · **MiniMax H3 $0.145/s**
-
-| Model | From | vs official list | What it is |
-|---|---|---|---|
-| **[MiniMax H3](https://apimodels.app/models/minimax-h3)** | **$0.145** / s | — | Native 2K + synced audio, 9 ref images + 3 videos + 3 audio |
-| **[Seedance 2.0](https://apimodels.app/models/seedance-2.0)** | **$0.092** / s | — | ByteDance official Ark: 9 reference images + reference video + audio |
-| [Seedance 2.0 Fast](https://apimodels.app/models/seedance-2.0-fast) | **$0.071** / s | — | Same capability, speed/cost tier |
-| [Seedance 2.0 Mini](https://apimodels.app/models/seedance-2.0-mini) | **$0.044** / s | — | Cheapest Seedance tier |
-| **[Kling V3](https://apimodels.app/models/kling-v3)** | **$0.12** / s | — | 3–15s, text- and image-to-video, optional audio |
-| **[VEO 3.1 Fast](https://apimodels.app/models/veo-3.1-fast-fhd)** | **$0.07** / 8s clip (1080p) | **−90%** | Budget VEO, full HD |
-| [VEO 3.1](https://apimodels.app/models/veo-3.1) | **$1.00** / 8s clip (1080p) | — | Premium standard tier |
-
-Seedance and Kling are billed per second of output; there is no discount column because we
-price them off the upstream token cost rather than against a list price. All prices are
-pay-as-you-go — no subscription, no monthly minimum, **$1 free on sign-up**.
-
-Full list: **[apimodels.app/models](https://apimodels.app/models)** ·
-API docs: **[apimodels.app/docs](https://apimodels.app/docs)** ·
-Code examples: **[apimodels-api-demo](https://github.com/stimQQ/apimodels-api-demo)**
-
-### 30-second start
-
-One endpoint, one key, and the model name is the only thing that changes between models:
-
-```bash
-curl -X POST https://apimodels.app/api/v1/images/generations-sync \
-  -H "Authorization: Bearer $APIMODELS_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"model":"gpt-image-2-all","prompt":"a frosted glass serum bottle on wet travertine, soft daylight","aspect_ratio":"4:5","resolution":"1K"}'
-```
-
 ---
 
 ## Two kinds of prompt, kept clearly apart
 
 | | Count | What it is |
 |---|---|---|
-| **Author-written** | 150 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://apimodels.app/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
+| **Author-written** | 150 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
 | **Reconstructed** | 72 | For clips whose creator never published a prompt, we sample 8 frames, hand them to a vision model, and write the prompt that would most plausibly reproduce the clip. **MIT, full text in this repo.** |
 
 A reconstruction describes the *output*. It cannot recover negative constraints, exact
@@ -121,156 +65,156 @@ The twelve longest author-written prompts in the library. **[See all 222 →](./
 
 ### 1. Concrete-Plaza Kickflip Drop
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsboram6001z04kzkda7f0i4.webp" alt="Concrete-Plaza Kickflip Drop" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsboram6001z04kzkda7f0i4.webp" alt="Concrete-Plaza Kickflip Drop" width="700" /></a>
 
 <strong>Prompt</strong> — プロンプト SCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skateboarder rolls along the raised upper deck to its edge and launches off the TOP of a 10-step stair set with a kick…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4) (7004 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4) (7004 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4)
 
 **Source:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 2. Y2K K-Pop Candy Typography Music Video
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsbor5eu001q04kz1zhzjtoi.webp" alt="Y2K K-Pop Candy Typography Music Video" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsbor5eu001q04kz1zhzjtoi.webp" alt="Y2K K-Pop Candy Typography Music Video" width="700" /></a>
 
 <strong>Prompt</strong> — Soft cute Y2K crush K-pop girl group rap MV. High fashion performance film mixed with inflated 3D candy typography graphic system. Three female idols wearing pink, blue and purple luxury Y2K stage out…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi) (6989 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi) (6989 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi)
 
 **Source:** [@LeoCreaIA](https://x.com/LeoCreaIA/status/2083240416166748313) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 3. Cyberpunk Ice-Blue Character Awakening
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsboqaem000j04kz9ysbqup1.webp" alt="Cyberpunk Ice-Blue Character Awakening" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsboqaem000j04kz9ysbqup1.webp" alt="Cyberpunk Ice-Blue Character Awakening" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded image as the exact source image and first frame. Preserve the original character design, composition, face, pale skin, glowing icy blue eyes, braided black hair, cybernetic head impla…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1) (6975 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1) (6975 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1)
 
 **Source:** [@ainextastro](https://x.com/ainextastro/status/2082830892209221921) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 4. Infinite Cycle of the Blade
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsb2bmyp00010akoxbpa7b9m.webp" alt="Infinite Cycle of the Blade" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsb2bmyp00010akoxbpa7b9m.webp" alt="Infinite Cycle of the Blade" width="700" /></a>
 
 <strong>Prompt</strong> — @image1 15s | 16:9 | 1440p | 24fps | SEAMLESS LOOP [LOCK] Render exactly as @image1. Do not alter hair, bangs, eye color, coat silhouette, sash, hilt ornament, or blade proportion. [LOOP] A perfect cy…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m) (6602 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m) (6602 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 5. Desert Buggy Combat Chase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsboq2ab000904kzun2m0c72.webp" alt="Desert Buggy Combat Chase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsboq2ab000904kzun2m0c72.webp" alt="Desert Buggy Combat Chase" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second, 16:9 photoreal cinematic action sequence with native stereo audio. Treat the five images as coordinated multimodal references for identity, vehicle design, environment, performance…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72) (6412 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72) (6412 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72)
 
 **Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2083039412506743096) · 15s · 21:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 6. Mona Lisa Character Selection Screen
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsb20d0h000004l9pu7c8r0i.webp" alt="Mona Lisa Character Selection Screen" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsb20d0h000004l9pu7c8r0i.webp" alt="Mona Lisa Character Selection Screen" width="700" /></a>
 
 <strong>Prompt</strong> — Use @Image 1 for the character and the menu interface style. Use @Image 2 for the game world and the in-game HUD style. Use @Image 3 as the source for every item thumbnail shown inside the panels — it…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i) (6301 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i) (6301 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i)
 
 **Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2083555429758464203) · 15s · 16:9 · VFX & Transitions
 
 ---
 ### 7. Desert Standoff — 15s single take
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsabne9r000204la2ozvzj4z.webp" alt="Desert Standoff — 15s single take" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsabne9r000204la2ozvzj4z.webp" alt="Desert Standoff — 15s single take" width="700" /></a>
 
 <strong>Prompt</strong> — SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by name, and warns them not …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z) (6078 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z) (6078 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z)
 
 **Source:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · 15s · 16:9 · Dialogue & Sound
 
 ---
 ### 8. Seamless-loop cinematic warrior blade reconstruction
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsboq6wq000e04kz9dl0yo7y.webp" alt="Seamless-loop cinematic warrior blade reconstruction" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsboq6wq000e04kz9dl0yo7y.webp" alt="Seamless-loop cinematic warrior blade reconstruction" width="700" /></a>
 
 <strong>Prompt</strong> — @Image1 15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of he…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y) (5826 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y) (5826 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y)
 
 **Source:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 9. KALDR cold perfume commercial multi-reference
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsboqtzf001b04kzcll6fe7k.webp" alt="KALDR cold perfume commercial multi-reference" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsboqtzf001b04kzcll6fe7k.webp" alt="KALDR cold perfume commercial multi-reference" width="700" /></a>
 
 <strong>Prompt</strong> — REFERENCE USAGE: Image 1 — the KALDR bottle. Preserve the smoked charcoal glass, bevelled edges, pale blue liquid, brushed gunmetal cap and the etched silver KALDR mark exactly. Image 2 — the closing …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k) (5465 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k) (5465 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k)
 
 **Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 10. Fantasy MMORPG Gameplay Reveal
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsb4xgx4000d04l10xty7iwb.webp" alt="Fantasy MMORPG Gameplay Reveal" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsb4xgx4000d04l10xty7iwb.webp" alt="Fantasy MMORPG Gameplay Reveal" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] Exactly 15 seconds, horizontal 16:9, photorealistic AAA fantasy MMORPG gameplay reveal with native synchronized game audio and music. [OMNI REFERENCES] [Image1] = Kael Ardyn, the exact playab…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb) (4443 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb) (4443 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083085328710238400) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 11. Sitcom Game Show Choice
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsb47v5o000304l1j6q1veqt.webp" alt="Sitcom Game Show Choice" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsb47v5o000304l1j6q1veqt.webp" alt="Sitcom Game Show Choice" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] Exactly 15 seconds, horizontal 16:9, photorealistic multi-camera television sitcom with native synchronized dialogue, audience reactions, SFX and music. [OMNI REFERENCES — [Image1] [Image2] […
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt) (4399 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt) (4399 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083130683183255894) · 15s · 16:9 · Character & Performance
 
 ---
 ### 12. Divine Ascension Web Interface
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://raw.githubusercontent.com/stimQQ/stunning-minimax-h3-prompts/main/assets/previews/cmsb2guus00000ajfae9hxtax.webp" alt="Divine Ascension Web Interface" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://raw.githubusercontent.com/xianyu110/awesome-minimax-h3-prompts/main/assets/previews/cmsb2guus00000ajfae9hxtax.webp" alt="Divine Ascension Web Interface" width="700" /></a>
 
 <strong>Prompt</strong> — 15秒 | 16:9 | 1440p | 24fps | 无缝循环 | 网页首屏动画 [人物锁定 · @image1] 完全按照该参考图呈现，不进行任何重新设计。金色卷发、闭合的双眼、仰起的面容与安详神情；象牙色垂坠长袍；左右两枚金色玫瑰花章肩甲，含中心宝石与放射浮雕；金丝胸饰、十字垂饰、多层珠链；水晶巨剑，含金色巴洛克护手与剑柄头、缠绕剑柄，双臂高举过头横持，金色火柱自上贯入；白色大理石圆台；下…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax) (4269 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax) (4269 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · Reference & Consistency
 
@@ -278,9 +222,9 @@ The twelve longest author-written prompts in the library. **[See all 222 →](./
 ---
 
 > **Liked these?** Run the same prompts yourself —
-> **[MiniMax H3 is live at $0.145/s](https://apimodels.app/models/minimax-h3)**, alongside
-> [GPT Image 2, Nano Banana Pro, Seedance 2.0, Kling V3 and 85+ more](https://apimodels.app/models)
-> on one API key at **[apimodels.app](https://apimodels.app)**. $1 free to start.
+> **[MiniMax H3 is live at $0.145/s](https://tryminimax.asia/models/minimax-h3)**, alongside
+> [GPT Image 2, Nano Banana Pro, Seedance 2.0, Kling V3 and 85+ more](https://tryminimax.asia/models)
+> on one API key at **[tryminimax.asia](https://tryminimax.asia)**. $1 free to start.
 
 ---
 

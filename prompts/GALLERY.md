@@ -4,202 +4,202 @@
 
 ### 1. Desert Buggy Combat Chase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72"><img src="https://pbs.twimg.com/amplify_video_thumb/2083039329493135360/img/G2Jr6XxTw8dP-SZ3.jpg" alt="Desert Buggy Combat Chase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72"><img src="https://pbs.twimg.com/amplify_video_thumb/2083039329493135360/img/G2Jr6XxTw8dP-SZ3.jpg" alt="Desert Buggy Combat Chase" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second, 16:9 photoreal cinematic action sequence with native stereo audio. Treat the five images as coordinated multimodal references for identity, vehicle design, environment, performance…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72) (6412 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72) (6412 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq2ab000904kzun2m0c72)
 
 **Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2083039412506743096) · 15s · 21:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 2. Radio operator evacuation bridge
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6"><img src="https://pbs.twimg.com/amplify_video_thumb/2082769960955498496/img/bc4LSx9Usd7HKCiT.jpg" alt="Radio operator evacuation bridge" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6"><img src="https://pbs.twimg.com/amplify_video_thumb/2082769960955498496/img/bc4LSx9Usd7HKCiT.jpg" alt="Radio operator evacuation bridge" width="700" /></a>
 
 <strong>Prompt</strong> — FORMAT 15 seconds | 16:9 | photoreal live-action war thriller Fictional Sahelian city at blue-hour dawn. Urgent, human, suspenseful, non-graphic. REFERENCE CONTROL Image 1 = locked AMINA identity and …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6) (3526 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6) (3526 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopu4c000004kz93pxu3x6)
 
 **Source:** [@Diplomeme](https://x.com/Diplomeme/status/2082770042630943156) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 3. Sci-fi explorer approaches dark gateway mystery
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082782131005333504/img/VZRSpwGRCnPRgN7t.jpg" alt="Sci-fi explorer approaches dark gateway mystery" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082782131005333504/img/VZRSpwGRCnPRgN7t.jpg" alt="Sci-fi explorer approaches dark gateway mystery" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second, 16:9 photoreal cinematic sci-fi mystery sequence with native stereo audio. Use Image 1 as the strict anchor reference for the explorer’s identity, face, short dark hair, charcoal h…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa) (3416 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa) (3416 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqcdg000m04kzf0k1l4oa)
 
 **Source:** [@beginnersblog1](https://x.com/beginnersblog1/status/2082782535252410508) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 4. Storm-Lit Pirate Galleon Battle
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah"><img src="https://pbs.twimg.com/amplify_video_thumb/2083582601852334080/img/PnR3-B9hFjI4kErv.jpg" alt="Storm-Lit Pirate Galleon Battle" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah"><img src="https://pbs.twimg.com/amplify_video_thumb/2083582601852334080/img/PnR3-B9hFjI4kErv.jpg" alt="Storm-Lit Pirate Galleon Battle" width="700" /></a>
 
 <strong>Prompt</strong> — Open ocean, storm-lit sky, two massive wooden galleons broadside to broadside, cannons blazing, sails torn and smoking. LOCATION: towering waves, rain-slicked decks, splintering wood, the ships as loo…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah) (3404 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah) (3404 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor4cq001p04kz8ghc6eah)
 
 **Source:** [@seirdotmk](https://x.com/seirdotmk/status/2083582886280561048) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 5. Chilling Creature Horror Sequences
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082759082411253760/img/ASy0atW22QDD7S-U.jpg" alt="Chilling Creature Horror Sequences" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082759082411253760/img/ASy0atW22QDD7S-U.jpg" alt="Chilling Creature Horror Sequences" width="700" /></a>
 
 <strong>Prompt</strong> — Four 15-second 6-shot creature-horror sequences. — THE BASEMENT THING — Shot 1 (0–2.5s): Close-up of a man's hand slowly pushing open a wooden basement door. Dim light spills in. He whispers: "Is some…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2) (3393 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2) (3393 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nbo00000ajdti5nw0h2)
 
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082760158296313960) · 15s · 16:9 · Cinematic
 
 ---
 ### 6. 1998 Seoul Hi8 Home Video
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082747028283719680/img/2ZOpzhqz3Lu8DZko.jpg" alt="1998 Seoul Hi8 Home Video" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082747028283719680/img/2ZOpzhqz3Lu8DZko.jpg" alt="1998 Seoul Hi8 Home Video" width="700" /></a>
 
 <strong>Prompt</strong> — Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The camcorder is never vi…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c) (3225 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c) (3225 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc7l5000104jw52pg0x2c)
 
 **Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082747126497300930) · 15s · 16:9 · Cinematic
 
 ---
 ### 7. Live Concert Documentary Film
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082561639182921728/img/4NWux38pSVfMz_F9.jpg" alt="Live Concert Documentary Film" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082561639182921728/img/4NWux38pSVfMz_F9.jpg" alt="Live Concert Documentary Film" width="700" /></a>
 
 <strong>Prompt</strong> — Style: Real Concert Documentary Film, handheld camera energy, practical stage lighting, gritty realism, shot on Sony A7S3, 35mm lens, high energy modern live concert performance. Duration: 15s. [Globa…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz) (2745 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz) (2745 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbwu000g0akm8lbdc0cz)
 
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2082561712914567207) · 15s · 16:9 · Cinematic
 
 ---
 ### 8. Blue-Haired Hero and Spirit Fox Escape
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083553589390442496/img/Q3x6wUfXau-Lxldr.jpg" alt="Blue-Haired Hero and Spirit Fox Escape" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083553589390442496/img/Q3x6wUfXau-Lxldr.jpg" alt="Blue-Haired Hero and Spirit Fox Escape" width="700" /></a>
 
 <strong>Prompt</strong> — Use the reference @ image for the exact character design, clothing, proportions, blue hair, pointed ears and glowing cyan spirit fox. Preserve the cinematic stylized 3D look, saturated teal jungle pal…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb) (2536 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb) (2536 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopwe0000304kz29g713tb)
 
 **Source:** [@HBCoop_](https://x.com/HBCoop_/status/2083553619413209379) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 9. Camcorder Tent Cat Encounter
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082740658297810944/img/Qi0658uHNg0GFgoz.jpg" alt="Camcorder Tent Cat Encounter" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082740658297810944/img/Qi0658uHNg0GFgoz.jpg" alt="Camcorder Tent Cat Encounter" width="700" /></a>
 
 <strong>Prompt</strong> — POV from a static camcorder inside a pink outdoor camping tent during a foggy mountain night. VHS found-footage aesthetic, timestamp "MAY 27 2026 00:02:59", REC icon, subtle analog noise, authentic 20…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m) (2334 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m) (2334 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47x3n000604l137t81j5m)
 
 **Source:** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2082740763008606410) · 15s · 16:9 · Cinematic
 
 ---
 ### 10. Mechanical bull charge The Beasts Are Coming
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033181276827648/img/6mkJTPB3eXS15D0z.jpg" alt="Mechanical bull charge The Beasts Are Coming" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033181276827648/img/6mkJTPB3eXS15D0z.jpg" alt="Mechanical bull charge The Beasts Are Coming" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded mechanical bull image as the primary reference for the bull, and use Rahul’s image as the character reference for the rider. Create a 15-second ultra-realistic cinematic fantasy-sci-f…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t) (2261 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t) (2261 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq35m000a04kz87jjgp4t)
 
 **Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083033635364720815) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 11. Nighttime Motorcycle Chase Synced to Music
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4"><img src="https://pbs.twimg.com/amplify_video_thumb/2083282552979435521/img/RNngUIdefbIqxO3Q.jpg" alt="Nighttime Motorcycle Chase Synced to Music" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4"><img src="https://pbs.twimg.com/amplify_video_thumb/2083282552979435521/img/RNngUIdefbIqxO3Q.jpg" alt="Nighttime Motorcycle Chase Synced to Music" width="700" /></a>
 
 <strong>Prompt</strong> — Use @ image1 as the opening frame and exact visual reference. Preserve the rider’s face, short curly hair, round glasses, black leather jacket, gloves, motorcycle, and realistic nighttime city environ…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4) (2081 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4) (2081 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopx31000404kz3j8hb4z4)
 
 **Source:** [@HBCoop_](https://x.com/HBCoop_/status/2083282581450375367) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 12. Lightning God at a Shaolin Monastery
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5"><img src="https://pbs.twimg.com/amplify_video_thumb/2082714902532173824/img/Xv_Z1R_9po1b8fNT.jpg" alt="Lightning God at a Shaolin Monastery" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5"><img src="https://pbs.twimg.com/amplify_video_thumb/2082714902532173824/img/Xv_Z1R_9po1b8fNT.jpg" alt="Lightning God at a Shaolin Monastery" width="700" /></a>
 
 <strong>Prompt</strong> — Buddhist monastery courtyard at dawn, mist drifting between stone pillars. Wide shot, shallow depth of field: a row of Shaolin priests kneeling in prayer, hands pressed together, saffron and grey robe…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5) (2000 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5) (2000 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqgju000s04kz9eafued5)
 
 **Source:** [@seirdotmk](https://x.com/seirdotmk/status/2082718662482411584) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 13. Cyber Warrior vs. Primordial Fighter
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207474140622849/img/n5apj4YEMLYgGxHi.jpg" alt="Cyber Warrior vs. Primordial Fighter" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207474140622849/img/n5apj4YEMLYgGxHi.jpg" alt="Cyber Warrior vs. Primordial Fighter" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second cinematic showdown between the most technologically advanced human and the most primordial warrior. The technological fighter wears adaptive nano-armor, holographic interfaces, ener…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp) (1982 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp) (1982 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor63l001r04kzavqkwknp)
 
 **Source:** [@alex_bagnuoli89](https://x.com/alex_bagnuoli89/status/2083207597025354071) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 14. 80s Sci-Fi Comedy Robot Scene
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082529032613289984/img/-q_TsLKRep1jNzwV.jpg" alt="80s Sci-Fi Comedy Robot Scene" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082529032613289984/img/-q_TsLKRep1jNzwV.jpg" alt="80s Sci-Fi Comedy Robot Scene" width="700" /></a>
 
 <strong>Prompt</strong> — LATE-1980s SCI-FI COMEDY Use the supplied image as the exact opening frame. Preserve the same woman, practical robot, costumes, lighting, physical control-room set, and camera-facing geography. Photog…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1) (1973 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1) (1973 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20etu00020bkyx6hi7dk1)
 
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2082529099646722299) · 15s · 16:9 · Cinematic
 
 ---
 ### 15. Wake up We Hunt mechanical bull mount
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032496724430848/img/xE6VEIrmDpG25qoN.jpg" alt="Wake up We Hunt mechanical bull mount" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032496724430848/img/xE6VEIrmDpG25qoN.jpg" alt="Wake up We Hunt mechanical bull mount" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded mechanical bull image as the main creature reference and Rahul’s image as the human character reference. Create a 15-second ultra-realistic cinematic sequence set in The Harvester uni…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703) (1856 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703) (1856 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq46y000b04kzkh3yw703)
 
 **Source:** [@rahulnanda86](https://x.com/rahulnanda86/status/2083032575908700581) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 16. Warehouse Struggle — Gritty Thriller `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2xpf000304lavasj973b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796637852676096/img/jsOx1QvUrpv5m0M6.jpg" alt="Warehouse Struggle — Gritty Thriller" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2xpf000304lavasj973b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796637852676096/img/jsOx1QvUrpv5m0M6.jpg" alt="Warehouse Struggle — Gritty Thriller" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic gritty thriller action SCENE Dilapidated industrial warehouse. Rusty orange metal shelvin…</summary>
@@ -231,40 +231,40 @@ Bright key lighting, clean pristine environments, static tripod shots, cheerful 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2xpf000304lavasj973b)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2xpf000304lavasj973b)
 
 **Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2082796703762256256) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 17. Containment Breach in a Sterile Lab
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7"><img src="https://pbs.twimg.com/amplify_video_thumb/2082659211901558784/img/B5lPekT9GPXPDuhW.jpg" alt="Containment Breach in a Sterile Lab" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7"><img src="https://pbs.twimg.com/amplify_video_thumb/2082659211901558784/img/B5lPekT9GPXPDuhW.jpg" alt="Containment Breach in a Sterile Lab" width="700" /></a>
 
 <strong>Prompt</strong> — Slow-motion handheld close-up, 16:9. Shaky organic handheld shot shoving in close on a researcher in a pressurized white hazmat suit, faceplate fogged and cracking, stumbling backward across a gleamin…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7) (1837 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7) (1837 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqhzu000u04kz02wmy4s7)
 
 **Source:** [@plasm0](https://x.com/plasm0/status/2082659300090994748) · 15s · 21:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 18. Dragon in Broken Palace
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726451036774400/img/K5ccgaMHloZlrqkK.jpg" alt="Dragon in Broken Palace" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726451036774400/img/K5ccgaMHloZlrqkK.jpg" alt="Dragon in Broken Palace" width="700" /></a>
 
 <strong>Prompt</strong> — Fire-Breathing Dragon in a Broken Palace** A colossal fire-breathing dragon with obsidian-black scales streaked by glowing molten cracks stalks through the ruins of a shattered royal palace during a v…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c) (1827 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c) (1827 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5q95z000004l1tseh8t6c)
 
 **Source:** [@dreamydigiarts](https://x.com/dreamydigiarts/status/2082745513573831106) · 15s · 16:9 · Cinematic
 
 ---
 ### 19. Pastel Desert Sprint With Rhino `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63k2d000604jxoslrrea8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790418941456384/img/wWPrAnyGTx4F7lT5.jpg" alt="Pastel Desert Sprint With Rhino" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63k2d000604jxoslrrea8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790418941456384/img/wWPrAnyGTx4F7lT5.jpg" alt="Pastel Desert Sprint With Rhino" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Surreal high-fashion fantasy, photorealistic 3D SCENE A humanoid figure wearing a white knit mask w…</summary>
@@ -296,14 +296,14 @@ Modern technology, trees, vegetation, text, watermarks, morphing geometry, motio
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63k2d000604jxoslrrea8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63k2d000604jxoslrrea8)
 
 **Source:** [@os_orabi](https://x.com/os_orabi/status/2082790482380255268) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 20. Ethereal Realms of High Fashion `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63owd000g04jx3nu1m5ny"><img src="https://pbs.twimg.com/amplify_video_thumb/2082576719530135554/img/-9odO-pZmjHt4s8x.jpg" alt="Ethereal Realms of High Fashion" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63owd000g04jx3nu1m5ny"><img src="https://pbs.twimg.com/amplify_video_thumb/2082576719530135554/img/-9odO-pZmjHt4s8x.jpg" alt="Ethereal Realms of High Fashion" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic surreal fantasy, high-fashion editorial SCENE Female subject, elaborate metallic headpiec…</summary>
@@ -335,14 +335,14 @@ Modern clothing, urban elements, handheld camera shake, shallow depth of field i
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63owd000g04jx3nu1m5ny)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63owd000g04jx3nu1m5ny)
 
 **Source:** [@astronomerozge1](https://x.com/astronomerozge1/status/2082576796592017482) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 21. Path of the Falling Dominoes `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57"><img src="https://pbs.twimg.com/amplify_video_thumb/2082901253613613056/img/w2IawEkuCKeqlJFS.jpg" alt="Path of the Falling Dominoes" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57"><img src="https://pbs.twimg.com/amplify_video_thumb/2082901253613613056/img/w2IawEkuCKeqlJFS.jpg" alt="Path of the Falling Dominoes" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic, surreal architectural transition SCENE Black monolithic dominoes, polished marble hall, …</summary>
@@ -374,14 +374,14 @@ Cuts, camera shake, people, vehicles, on-screen text, harsh midday lighting, vis
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57)
 
 **Source:** [@altfortomorrow](https://x.com/altfortomorrow/status/2082902357269184803) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 22. Golden Hour Coastal Drive `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6"><img src="https://pbs.twimg.com/amplify_video_thumb/2082906006057799681/img/GeT5EWzQA2sX4jGs.jpg" alt="Golden Hour Coastal Drive" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6"><img src="https://pbs.twimg.com/amplify_video_thumb/2082906006057799681/img/GeT5EWzQA2sX4jGs.jpg" alt="Golden Hour Coastal Drive" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic lifestyle commercial SCENE Red-haired young woman in a white tank top reading "miu miu", …</summary>
@@ -413,14 +413,14 @@ Static camera, closed-roof modern vehicles, cloudy skies, heavy traffic, muted o
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6)
 
 **Source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2082906286094696742) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 23. Intense Live Rock Performance `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63rch000m04jxxt3vt52u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082605723347824640/img/eSb8gjn3ZRL8TjK2.jpg" alt="Intense Live Rock Performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63rch000m04jxxt3vt52u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082605723347824640/img/eSb8gjn3ZRL8TjK2.jpg" alt="Intense Live Rock Performance" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Cinematic live music performance SCENE Muscular Caucasian man, prominent neck veins, short dark hai…</summary>
@@ -452,14 +452,14 @@ Modern microphones, fully buttoned shirts, flat studio lighting, daylight, stati
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63rch000m04jxxt3vt52u)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63rch000m04jxxt3vt52u)
 
 **Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2082605878679609528) · 15s · 9:16 · Cinematic · prompt reconstructed by us
 
 ---
 ### 24. Dark Fantasy Dragon's Shadow `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco"><img src="https://pbs.twimg.com/amplify_video_thumb/2082589648275095552/img/sSC5fNqGp0sXvkAj.jpg" alt="Dark Fantasy Dragon's Shadow" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco"><img src="https://pbs.twimg.com/amplify_video_thumb/2082589648275095552/img/sSC5fNqGp0sXvkAj.jpg" alt="Dark Fantasy Dragon's Shadow" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 1:1 | Style: 1980s dark fantasy cinematic SCENE Blonde female warrior in leather armor, male swordsman in a beige…</summary>
@@ -491,14 +491,14 @@ Modern clothing, digital artifacts, visible wires, anachronistic items, contempo
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco)
 
 **Source:** [@Dustfinger2077](https://x.com/Dustfinger2077/status/2082591632302485764) · 15s · 1:1 · Cinematic · prompt reconstructed by us
 
 ---
 ### 25. Miniature Skater vs Giant Baby `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb229mt00000bjbbyxxumj6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083021861265563648/img/CJ3HxTub7Q95DDrB.jpg" alt="Miniature Skater vs Giant Baby" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb229mt00000bjbbyxxumj6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083021861265563648/img/CJ3HxTub7Q95DDrB.jpg" alt="Miniature Skater vs Giant Baby" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic hyper-realistic miniature action fantasy SCENE A miniature man in a white t-shirt and blu…</summary>
@@ -530,27 +530,27 @@ Normal-scale skateboarder, static camera, dark or gloomy lighting, CGI distortio
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb229mt00000bjbbyxxumj6)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb229mt00000bjbbyxxumj6)
 
 **Source:** [@Taaruk_](https://x.com/Taaruk_/status/2083021893565862048) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 26. When Paint Becomes Reality
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni"><img src="https://pbs.twimg.com/amplify_video_thumb/2082604942003478528/img/QMVSkpqc2URVhhP9.jpg" alt="When Paint Becomes Reality" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni"><img src="https://pbs.twimg.com/amplify_video_thumb/2082604942003478528/img/QMVSkpqc2URVhhP9.jpg" alt="When Paint Becomes Reality" width="700" /></a>
 
 <strong>Prompt</strong> — Hyper-realistic cinematic fantasy spectacle, 15 seconds, 16:9, IMAX quality, ultra-detailed, vibrant realism, breathtaking scale, seamless transformations, no dialogue. The first frame: a street artis…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni) (1391 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni) (1391 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0jr000104jpu29x0jni)
 
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2082605010588778527) · 15s · 16:9 · Cinematic
 
 ---
 ### 27. The Jester's Deadly Dance `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63lod000a04jxicjvj2ws"><img src="https://pbs.twimg.com/amplify_video_thumb/2082606072385220608/img/zcbqFANkSAy6lIrd.jpg" alt="The Jester's Deadly Dance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63lod000a04jxicjvj2ws"><img src="https://pbs.twimg.com/amplify_video_thumb/2082606072385220608/img/zcbqFANkSAy6lIrd.jpg" alt="The Jester's Deadly Dance" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic action fantasy, photorealistic SCENE Pale woman in a red, gold, and purple striped jester…</summary>
@@ -582,14 +582,14 @@ Slow motion, weapons, taking off the blindfold, shifting room layout, changing t
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63lod000a04jxicjvj2ws)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63lod000a04jxicjvj2ws)
 
 **Source:** [@VxRender](https://x.com/VxRender/status/2082607063214035191) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 28. Summoning the Forest Werewolf `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63mk9000c04jxa5h75wa4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082639549432287233/img/K-0FRMxtw7rPX1Q2.jpg" alt="Summoning the Forest Werewolf" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mk9000c04jxa5h75wa4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082639549432287233/img/K-0FRMxtw7rPX1Q2.jpg" alt="Summoning the Forest Werewolf" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Dark fantasy cinematic realism SCENE Horned humanoid summoner, crimson robes, skull chain adornment…</summary>
@@ -621,202 +621,202 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63mk9000c04jxa5h75wa4)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mk9000c04jxa5h75wa4)
 
 **Source:** [@GlitterPixely](https://x.com/GlitterPixely/status/2082639614490165636) · 15s · 16:9 · Cinematic · prompt reconstructed by us
 
 ---
 ### 29. Cinematic Swimming Strokes Showcase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="Cinematic Swimming Strokes Showcase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798728948125696/img/cgvj4miYM0jtq8zu.jpg" alt="Cinematic Swimming Strokes Showcase" width="700" /></a>
 
 <strong>Prompt</strong> — 【风格】游泳姿态美学展示（Swimming Strokes Showcase），电影感写真质感（16:9 Cinematic, Photorealistic），高速摄影升格（Super Slow-mo），阳光泳池通透水蓝影调，长发水中飘动的唯美运动风 【时长】15秒 【场景】一条极长的泳道，向远处延伸看不到尽头，阳光透过玻璃顶棚斜射入水，在池底投下晃动的光网，水质通透碧蓝，画面里没有出发台、记分屏…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne) (1308 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne) (1308 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20f3w00030bkyj1kwrfne)
 
 **Source:** [@johnAGI168](https://x.com/johnAGI168/status/2082798969499832514) · 15s · 16:9 · Cinematic
 
 ---
 ### 30. Cinematic Wuxia Bamboo Forest Mystery
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0"><img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="Cinematic Wuxia Bamboo Forest Mystery" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0"><img src="https://pbs.twimg.com/amplify_video_thumb/2083131917797556224/img/7PDZpzJGurMtyH6Q.jpg" alt="Cinematic Wuxia Bamboo Forest Mystery" width="700" /></a>
 
 <strong>Prompt</strong> — A 16:9 cinematic wuxia mystery set in a bamboo forest at night. Use a low-saturation palette of cold blue, ink green, charcoal, and gray. Thin mist fills the forest and fine snow drifts through the ai…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0) (1116 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0) (1116 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6y900040akms0ay95z0)
 
 **Source:** [@AIwithAliya](https://x.com/AIwithAliya/status/2083132770650571041) · 15s · 16:9 · Cinematic
 
 ---
 ### 31. 1970s Shibuya Urban-Legend Horror
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="1970s Shibuya Urban-Legend Horror" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082668962203230208/img/qTeIl8rcO_BopQxq.jpg" alt="1970s Shibuya Urban-Legend Horror" width="700" /></a>
 
 <strong>Prompt</strong> — 😱👇 【風格】 1970年代日本都市傳說恐怖電影（Japanese Urban Legend Horror Movie），經典日系恐怖片風格，昭和時代澀谷街景，高密度群眾演出，電影級分鏡，強烈戲劇張力，歡樂復古流行音樂逐漸扭曲變調為詭異恐怖配樂，緊湊快節奏剪輯，陰森都市怪談氛圍，9:16直式畫面。 【音樂】 開場：歡樂復古1970年代日本流行樂。 中段：音樂逐漸失真、降速、出現不和諧音。 結尾…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq) (1070 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq) (1070 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqh3t000t04kzkg9psgjq)
 
 **Source:** [@drjoetw](https://x.com/drjoetw/status/2082669221222207488) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 32. Throne of Fire and Steel
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t"><img src="https://pbs.twimg.com/amplify_video_thumb/2083530375125774336/img/P7A-BmW8Pup3cBDO.jpg" alt="Throne of Fire and Steel" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t"><img src="https://pbs.twimg.com/amplify_video_thumb/2083530375125774336/img/P7A-BmW8Pup3cBDO.jpg" alt="Throne of Fire and Steel" width="700" /></a>
 
 <strong>Prompt</strong> — A powerful young warrior queen with long black hair tied in a high ponytail, piercing eyes, wearing elegant black-and-gold royal armor with a flowing crimson cape, walks confidently through a massive …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t) (1025 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t) (1025 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdtb000j0akmi7hh4u8t)
 
 **Source:** [@nusratsid1](https://x.com/nusratsid1/status/2083531062697664672) · 15s · 9:16 · Cinematic
 
 ---
 ### 33. Skyship Through the Storm
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki"><img src="https://pbs.twimg.com/amplify_video_thumb/2082711760029822977/img/J6Lg5HDyhy0z79Sc.jpg" alt="Skyship Through the Storm" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki"><img src="https://pbs.twimg.com/amplify_video_thumb/2082711760029822977/img/J6Lg5HDyhy0z79Sc.jpg" alt="Skyship Through the Storm" width="700" /></a>
 
 <strong>Prompt</strong> — Skyship flight across a floating kingdom (single continuous shot) From above a sea of endless clouds, the camera dives toward a majestic skyship soaring between gigantic floating islands. Lock-on: the…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki) (952 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki) (952 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58agg000204l1taebq8ki)
 
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2082712692159344891) · 15s · 16:9 · Cinematic
 
 ---
 ### 34. Luminous Creature in a Dusk Kitchen
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849664173539328/img/YpLlIlqh6MOzNf25.jpg" alt="Luminous Creature in a Dusk Kitchen" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849664173539328/img/YpLlIlqh6MOzNf25.jpg" alt="Luminous Creature in a Dusk Kitchen" width="700" /></a>
 
 <strong>Prompt</strong> — 15 seconds, 16:9 landscape. Blend live-action footage of a small kitchen at dusk with hand-drawn luminous animation. The last sunset light lingers at the window. The lived-in kitchen contains an old w…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3) (880 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3) (880 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8yq000h04kziv186te3)
 
 **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082850740603867462) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 35. Cinematic Tactical Agent Teaser
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082818710436454401/img/jQr7WgVVlHdHCZU6.jpg" alt="Cinematic Tactical Agent Teaser" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082818710436454401/img/jQr7WgVVlHdHCZU6.jpg" alt="Cinematic Tactical Agent Teaser" width="700" /></a>
 
 <strong>Prompt</strong> — 15-second cinematic Hollywood-style teaser. Nighttime in Washington, D.C.. Rain falls as a black tactical SUV stops near a government building. Four elite intelligence agents in realistic tactical gea…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y) (657 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y) (657 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gh000080bkyq01pc35y)
 
 **Source:** [@navi_Ai2](https://x.com/navi_Ai2/status/2082819036182917160) · 15s · 16:9 · Cinematic
 
 ---
 ### 36. Cyber Grunge Rap Music Video
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg"><img src="https://pbs.twimg.com/amplify_video_thumb/2082710677236703232/img/vrShOLVqmbVPIngR.jpg" alt="Cyber Grunge Rap Music Video" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg"><img src="https://pbs.twimg.com/amplify_video_thumb/2082710677236703232/img/vrShOLVqmbVPIngR.jpg" alt="Cyber Grunge Rap Music Video" width="700" /></a>
 
 <strong>Prompt</strong> — Style: dark-pop / cyber-grunge / rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. Reference late-1990s to early-2000s …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg) (539 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg) (539 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20g7f00070bkyblevdrfg)
 
 **Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2082711476347998615) · 15s · 16:9 · Cinematic
 
 ---
 ### 37. Train Station Farewell — 3-shot narrative
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754624239591424/img/JADTZ8XoqH5kvp2y.jpg" alt="Train Station Farewell — 3-shot narrative" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754624239591424/img/JADTZ8XoqH5kvp2y.jpg" alt="Train Station Farewell — 3-shot narrative" width="700" /></a>
 
 <strong>Prompt</strong> — A 15-second multi-frame narrative sequence from an emotional drama. Shot 1 (0-5s): Wide shot of a misty, quiet train station platform at dawn, steam rising from a vintage train. Shot 2 (5-10s): Cut to…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr) (530 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr) (530 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2vln000104i9zcs44cmr)
 
 **Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082754764736008309) · 15s · 16:9 · Cinematic
 
 ---
 ### 38. Exorcism in a Stormy Cemetery
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy"><img src="https://pbs.twimg.com/amplify_video_thumb/2083834951888175104/img/U8BhPl4znI8pzi-x.jpg" alt="Exorcism in a Stormy Cemetery" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy"><img src="https://pbs.twimg.com/amplify_video_thumb/2083834951888175104/img/U8BhPl4znI8pzi-x.jpg" alt="Exorcism in a Stormy Cemetery" width="700" /></a>
 
 <strong>Prompt</strong> — Heavy rain. Lightning. An abandoned cemetery. Fresh graves begin opening one by one. A priest walks between ancient tombstones holding a glowing crucifix. Fog thickens. A corpse suddenly rises. Then a…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy) (467 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy) (467 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbmkp47000004l8jjii4loy)
 
 **Source:** [@Shinebynous](https://x.com/Shinebynous/status/2083835251017564411) · 15s · 16:9 · Cinematic
 
 ---
 ### 39. Little Robot Cyberpunk Escape
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl"><img src="https://pbs.twimg.com/amplify_video_thumb/2082522530787831808/img/R3Sy47vUgypGeuRA.jpg" alt="Little Robot Cyberpunk Escape" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl"><img src="https://pbs.twimg.com/amplify_video_thumb/2082522530787831808/img/R3Sy47vUgypGeuRA.jpg" alt="Little Robot Cyberpunk Escape" width="700" /></a>
 
 <strong>Prompt</strong> — A stunning action packed scene following a little robot running away from soldiers, drones and other things that are trying to get him. Chase cam, dystopian futuristic cyberpunk environment, cinematic…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl) (354 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl) (354 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqkmq000y04kzq3lgmukl)
 
 **Source:** [@AIandDesign](https://x.com/AIandDesign/status/2082522979339288619) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 40. Dorian Vane Stops Time
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a"><img src="https://pbs.twimg.com/amplify_video_thumb/2082639821269504000/img/0TbFKvQ45NjR1FFx.jpg" alt="Dorian Vane Stops Time" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a"><img src="https://pbs.twimg.com/amplify_video_thumb/2082639821269504000/img/0TbFKvQ45NjR1FFx.jpg" alt="Dorian Vane Stops Time" width="700" /></a>
 
 <strong>Prompt</strong> — Dorian Vane stopping time in the middle of a crowded bar. One snap freezes everything. Dorian fixes the accident, says “Solved,” and walks away like nothing happened.
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a) (166 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a) (166 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbdn000e0akm66p68d7a)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082639848360579080) · 15s · 16:9 · Cinematic
 
 ---
 ### 41. Fire dragon and rider over scorched world
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p"><img src="https://pbs.twimg.com/amplify_video_thumb/2082970336920838144/img/ZxYmbzCr4GxBPaht.jpg" alt="Fire dragon and rider over scorched world" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p"><img src="https://pbs.twimg.com/amplify_video_thumb/2082970336920838144/img/ZxYmbzCr4GxBPaht.jpg" alt="Fire dragon and rider over scorched world" width="700" /></a>
 
 <strong>Prompt</strong> — fire dragon and his rider of living flame, rising over a scorched world, cutting through smoke and sunset.
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p) (106 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p) (106 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq4qk000c04kzfw9d9t7p)
 
 **Source:** [@kulufly](https://x.com/kulufly/status/2082970376745726278) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 42. Theme Park Memory Montage
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p"><img src="https://pbs.twimg.com/amplify_video_thumb/2083217877340172288/img/MKGYmh7fl1Rd3RE8.jpg" alt="Theme Park Memory Montage" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p"><img src="https://pbs.twimg.com/amplify_video_thumb/2083217877340172288/img/MKGYmh7fl1Rd3RE8.jpg" alt="Theme Park Memory Montage" width="700" /></a>
 
 <strong>Prompt</strong> — Nostalgic montage of different clips. Graphic motion layouts of friends having fun in a theme park.
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p) (99 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p) (99 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopxn5000504kz45n89m7p)
 
 **Source:** [@magnific](https://x.com/magnific/status/2083217899540586917) · 15s · 16:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 43. Most cinematic scenes challenge
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082916349689339904/img/65aUHAECoMfknyXL.jpg" alt="Most cinematic scenes challenge" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082916349689339904/img/65aUHAECoMfknyXL.jpg" alt="Most cinematic scenes challenge" width="700" /></a>
 
 <strong>Prompt</strong> — The most cinematic scenes you can make.
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3) (39 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3) (39 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq7iw000f04kz6d6xwsp3)
 
 **Source:** [@JamianGerard](https://x.com/JamianGerard/status/2082916440403742779) · 15s · 21:9 · Cinematic · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -825,163 +825,163 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 
 ### 44. Infinite Cycle of the Blade
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082772865410338816/img/wQZjhenyhl6nJlWM.jpg" alt="Infinite Cycle of the Blade" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082772865410338816/img/wQZjhenyhl6nJlWM.jpg" alt="Infinite Cycle of the Blade" width="700" /></a>
 
 <strong>Prompt</strong> — @image1 15s | 16:9 | 1440p | 24fps | SEAMLESS LOOP [LOCK] Render exactly as @image1. Do not alter hair, bangs, eye color, coat silhouette, sash, hilt ornament, or blade proportion. [LOOP] A perfect cy…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m) (6602 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m) (6602 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 45. Explorer and Cat in a Floating Eco-City
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082936673462095872/img/fHRjLaD3agFnGWZW.jpg" alt="Explorer and Cat in a Floating Eco-City" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082936673462095872/img/fHRjLaD3agFnGWZW.jpg" alt="Explorer and Cat in a Floating Eco-City" width="700" /></a>
 
 <strong>Prompt</strong> — Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot, Unreal Engine 5 quality, hyper realistic, 60 FPS, cinematic lighting, premium animation, realistic physics, smooth tran…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx) (3797 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx) (3797 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx)
 
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082937573559722460) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 46. Dark-Fantasy Tavern Fight
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082658121625788416/img/nLwZ1WrlRjqOUlBo.jpg" alt="Dark-Fantasy Tavern Fight" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082658121625788416/img/nLwZ1WrlRjqOUlBo.jpg" alt="Dark-Fantasy Tavern Fight" width="700" /></a>
 
 <strong>Prompt</strong> — Style: Hyper-realistic dark fantasy tavern cinematic, grounded physical combat, realistic body momentum, medieval atmosphere, gritty lighting, practical effects, handheld cinematic camera, physically …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr) (3398 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr) (3398 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr)
 
 **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082658222247137433) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 47. Greenhouse tea isekai anime
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798918262550528/img/lu7BdCU3X0FrX9ar.jpg" alt="Greenhouse tea isekai anime" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798918262550528/img/lu7BdCU3X0FrX9ar.jpg" alt="Greenhouse tea isekai anime" width="700" /></a>
 
 <strong>Prompt</strong> — 高品質アニメ映像。 作品トーンと世界観は、透明感のある夏のガラス温室から、紅茶の渦の内側に存在するオリジナルの小さな不思議の国へ連続する、上品で夢幻的な叙情ファンタジー。澄んだ白、水色、琥珀色、淡い金色を主役にし、怖さや混沌ではなく、好奇心、浮遊感、静かな高揚を描く。今回は1枚のソース参照画像image1のみを使用し、image1をキャラクター、衣装、2D手描き画風、配色、現実側のガラス温室背景の…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z) (3199 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z) (3199 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z)
 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 48. Dreamlike Summer Greenhouse Anime
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082707002850197504/img/mtA5zNkhhQw1Gnk2.jpg" alt="Dreamlike Summer Greenhouse Anime" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082707002850197504/img/mtA5zNkhhQw1Gnk2.jpg" alt="Dreamlike Summer Greenhouse Anime" width="700" /></a>
 
 <strong>Prompt</strong> — 高品質アニメ映像。 【作品トーン】 透明感のある夏のガラス温室を舞台にした、上品で夢のような午後の叙情アニメ。映像全体は高密度な2D手描きアニメとして統一し、静かな呼吸、光の移動、素材ごとの反射と透過、繊細な表情変化を中心に描く。 【参照画像の役割】 画像1のみを使用する。画像1は登場する一人のキャラクターの参照として扱い、顔立ち、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、全身シルエット、雰囲…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq) (3166 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq) (3166 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq)
 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082707037256056852) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 49. Kintsugi Sword Reborn
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083520887723360256/img/u845oB7aCkvkyBMi.jpg" alt="Kintsugi Sword Reborn" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083520887723360256/img/u845oB7aCkvkyBMi.jpg" alt="Kintsugi Sword Reborn" width="700" /></a>
 
 <strong>Prompt</strong> — 15秒 | 16:9 | 1440p | 24fps | 无缝循环 [角色锁定] 完全按照 @image1 呈现，不进行任何重新设计。蓬松的蓝灰色波浪短发，刘海垂落遮住上半张脸；面容清秀，唇色偏暖；珊瑚朱红色宽袖长袍，腰间层层缠绕的宽腰带，深色内衬；持剑手戴深色手套。长剑：华丽的银金巴洛克护手与柄头，镜面剑身映出真实的天空与云。全片不得改动发量与卷曲走向、刘海遮眼的方式、袍身轮廓、腰带缠法、手套、…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1) (2999 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1) (2999 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083525563491524882) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 50. Giant Kitchen Spider Comedy Short
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082840335546568704/img/TUvX2JTrFbPQ-j1X.jpg" alt="Giant Kitchen Spider Comedy Short" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082840335546568704/img/TUvX2JTrFbPQ-j1X.jpg" alt="Giant Kitchen Spider Comedy Short" width="700" /></a>
 
 <strong>Prompt</strong> — 3D Pixar-style animated comedy short film, ultra-premium feature film quality, highly expressive facial animation, cinematic storytelling, cozy modern kitchen, warm golden lighting, realistic global i…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj) (2936 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj) (2936 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj)
 
 **Source:** [@Ciri_ai](https://x.com/Ciri_ai/status/2082840410268057697) · 15s · 21:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 51. Fantasy Academy Bread-Sharing Scene
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082652014715215872/img/hTOfKimFG5UVYkwM.jpg" alt="Fantasy Academy Bread-Sharing Scene" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082652014715215872/img/hTOfKimFG5UVYkwM.jpg" alt="Fantasy Academy Bread-Sharing Scene" width="700" /></a>
 
 <strong>Prompt</strong> — 高品質アニメ映像。世界観は、上品な現代ファンタジー学園を舞台にした2D手描きの日常会話アニメ。表情設計は必ず、目 → 眉 → まぶた → 口 → 視線、の順で行う。 【参照画像と人物固定】 画像1は人物Aの参照画像。画像1に描かれたキャラクターを、全編で同じ人物として維持する。画像1は、人物Aの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラーの参照にのみ使用…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz) (2716 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz) (2716 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz)
 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082652041709773075) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 52. Watercolor anime fetish montage rapid cuts
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h"><img src="https://pbs.twimg.com/amplify_video_thumb/2082797849155084288/img/JZFI1PZc91bdhQuZ.jpg" alt="Watercolor anime fetish montage rapid cuts" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h"><img src="https://pbs.twimg.com/amplify_video_thumb/2082797849155084288/img/JZFI1PZc91bdhQuZ.jpg" alt="Watercolor anime fetish montage rapid cuts" width="700" /></a>
 
 <strong>Prompt</strong> — style: visual: "日本の水彩画風フルカラーアニメ" editing: "0.5秒おきの高速カット割り" animation: "作画枚数多め、滑らかな24fps" tone: "官能的だが直接的にはせず、温度・湿度・心拍を映像化する" project: id: "fetish_montage_v3_with_broll" format: "vertical_9x16" fps: 24…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h) (2529 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h) (2529 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h)
 
 **Source:** [@yachimat_manga](https://x.com/yachimat_manga/status/2082799648528335119) · 15s · 9:16 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 53. Handcrafted paper-cut stop-motion short
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082963352699953152/img/Vtr2UJB4tDbYEeRF.jpg" alt="Handcrafted paper-cut stop-motion short" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082963352699953152/img/Vtr2UJB4tDbYEeRF.jpg" alt="Handcrafted paper-cut stop-motion short" width="700" /></a>
 
 <strong>Prompt</strong> — 15-second cinematic stop motion animation in handcrafted paper cut style. Everything is physically assembled by invisible hands, one element at a time. Every object appears with authentic stop motion …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn) (2424 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn) (2424 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn)
 
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · 15s · 4:3 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 54. Lava Blade Anime Action
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082690605277409280/img/4Ki6w_u-XiRpkOUW.jpg" alt="Lava Blade Anime Action" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082690605277409280/img/4Ki6w_u-XiRpkOUW.jpg" alt="Lava Blade Anime Action" width="700" /></a>
 
 <strong>Prompt</strong> — @image1 完全按照参考图呈现，不重新设计角色。面部五官比例、金色浮雕铠甲纹样、服装剪裁与巨剑造型，全片保持严格一致，不因动作幅度、镜头角度或光线变化产生偏差。 武器锁定：全片只使用这把巨剑，不出现任何其他武器或道具。 场景：高处开阔的灰白岩石台地，四周散布着大小不一的巨岩，最远处矗立一块屋子大小的黑色巨岩。天空是清透的灰蓝色，浮着几片白云。侧向强光在岩石上投下长影。空气中悬浮着细小浮尘，被光…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz) (2169 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz) (2169 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082693906224009447) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 55. Jazz-Noir Anime Title Sequence
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9"><img src="https://pbs.twimg.com/amplify_video_thumb/2083045791871221761/img/Cncr1Eg5UOn82RkR.jpg" alt="Jazz-Noir Anime Title Sequence" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9"><img src="https://pbs.twimg.com/amplify_video_thumb/2083045791871221761/img/Cncr1Eg5UOn82RkR.jpg" alt="Jazz-Noir Anime Title Sequence" width="700" /></a>
 
 <strong>Prompt</strong> — @Arcane_Aii Using the attached reference image for the character and the attached audio track for timing, generate a jazz-noir anime title sequence in a stylized pop-art style. Every cut must land exa…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9) (2001 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9) (2001 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9)
 
 **Source:** [@AIWarper](https://x.com/AIWarper/status/2083045838377652641) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 56. Midnight Neon Motorcycle Ride `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y"><img src="https://pbs.twimg.com/amplify_video_thumb/2083140471149453312/img/N-Uoz-NEXXsgBu1i.jpg" alt="Midnight Neon Motorcycle Ride" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y"><img src="https://pbs.twimg.com/amplify_video_thumb/2083140471149453312/img/N-Uoz-NEXXsgBu1i.jpg" alt="Midnight Neon Motorcycle Ride" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Angular stylized 2D animation with sharp geometric shapes and vibrant cel-shaded rendering SCENE An…</summary>
@@ -1013,14 +1013,14 @@ Photorealism, live-action footage, soft gradient shading, anatomical warping, ba
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y)
 
 **Source:** [@0xbisc](https://x.com/0xbisc/status/2083144389845508218) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 57. Retro Pop Anime Beats `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d"><img src="https://pbs.twimg.com/amplify_video_thumb/2083450573706366977/img/A8buYXNf0HTexm2q.jpg" alt="Retro Pop Anime Beats" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d"><img src="https://pbs.twimg.com/amplify_video_thumb/2083450573706366977/img/A8buYXNf0HTexm2q.jpg" alt="Retro Pop Anime Beats" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Anime pop-art illustration, graphic design aesthetic with halftone shading and kinetic typography S…</summary>
@@ -1052,14 +1052,14 @@ Photorealism, 3D rendering, complex gradients, cinematic depth of field, illegib
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d)
 
 **Source:** [@manaimovie](https://x.com/manaimovie/status/2083452257992143357) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 58. Voxel Campfire Cooking `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083176432356974592/img/QQfTesJaSnurNr0Q.jpg" alt="Voxel Campfire Cooking" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083176432356974592/img/QQfTesJaSnurNr0Q.jpg" alt="Voxel Campfire Cooking" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Voxel-based 3D animation, blocky pixel art aesthetic with realistic lighting SCENE First-person cha…</summary>
@@ -1091,53 +1091,53 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj)
 
 **Source:** [@Caden_Flux](https://x.com/Caden_Flux/status/2083177108105241073) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 59. Pixar-style mouse adventure 3D animation
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i"><img src="https://pbs.twimg.com/amplify_video_thumb/2082872957668397056/img/1HFQyAEVNNRR3LDB.jpg" alt="Pixar-style mouse adventure 3D animation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i"><img src="https://pbs.twimg.com/amplify_video_thumb/2082872957668397056/img/1HFQyAEVNNRR3LDB.jpg" alt="Pixar-style mouse adventure 3D animation" width="700" /></a>
 
 <strong>Prompt</strong> — { "clip_id": "animated_adventure", "genre": "3D Animation / Pixar Style", "total_duration": "15s", "aspect_ratio": "16:9", "style_keywords": "Pixar-style 3D animation, vibrant colors, expressive chara…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i) (1851 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i) (1851 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i)
 
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082873433478582726) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 60. Magical Fan Bag Idol Performance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083365571396308992/img/bLkDMcQBsIlammO-.jpg" alt="Magical Fan Bag Idol Performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083365571396308992/img/bLkDMcQBsIlammO-.jpg" alt="Magical Fan Bag Idol Performance" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second 16:9 horizontal photorealistic and 3D-anime hybrid video with native dialogue, singing, original music, and sound effects. References: Reference 1 = Japanese schoolgirl. Reference 2…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl) (1834 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl) (1834 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl)
 
 **Source:** [@si1verPEGA](https://x.com/si1verPEGA/status/2083368267675222244) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 61. Empty Suit Stop-Motion Assembly
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi"><img src="https://pbs.twimg.com/amplify_video_thumb/2082725788206456832/img/HXT2Zxl_6ESWJ3Oe.jpg" alt="Empty Suit Stop-Motion Assembly" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi"><img src="https://pbs.twimg.com/amplify_video_thumb/2082725788206456832/img/HXT2Zxl_6ESWJ3Oe.jpg" alt="Empty Suit Stop-Motion Assembly" width="700" /></a>
 
 <strong>Prompt</strong> — Static locked-off camera, no zoom, no pan, no handheld drift. The frame never moves. Open on an empty landscape: flat azure sky, six soft cumulus clouds drifting slowly, a band of ochre and green erod…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi) (1791 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi) (1791 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi)
 
 **Source:** [@lukasersil](https://x.com/lukasersil/status/2082727329390854152) · 15s · 3:4 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 62. Clash of the Superpowered Rivals `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh"><img src="https://pbs.twimg.com/amplify_video_thumb/2082892829312077824/img/h2nJFQ3ZPnC_j7D5.jpg" alt="Clash of the Superpowered Rivals" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh"><img src="https://pbs.twimg.com/amplify_video_thumb/2082892829312077824/img/h2nJFQ3ZPnC_j7D5.jpg" alt="Clash of the Superpowered Rivals" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D animated cinematic action anime SCENE Two superpowered martial artists. Fighter One wears an ope…</summary>
@@ -1169,14 +1169,14 @@ Watermarks, on-screen text, cel-shading, slow pacing, static camerawork.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh)
 
 **Source:** [@itsshara_ai](https://x.com/itsshara_ai/status/2082892924694712509) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 63. Magenta Warrior's Lightning Strike `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew"><img src="https://pbs.twimg.com/amplify_video_thumb/2082670735353581568/img/sns_DtYWoAaPV73C.jpg" alt="Magenta Warrior's Lightning Strike" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew"><img src="https://pbs.twimg.com/amplify_video_thumb/2082670735353581568/img/sns_DtYWoAaPV73C.jpg" alt="Magenta Warrior's Lightning Strike" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 2D anime animation, high-octane action SCENE Female anime warrior, deep magenta hair in a high pony…</summary>
@@ -1208,14 +1208,14 @@ Photorealism, live-action humans, bright daylight, modern urban settings, slow p
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew)
 
 **Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2082672010682118545) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 64. Echoes of the Neon City `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082743617924255744/img/NV1c9stMTkCSGDmJ.jpg" alt="Echoes of the Neon City" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082743617924255744/img/NV1c9stMTkCSGDmJ.jpg" alt="Echoes of the Neon City" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 21:9 | Style: 2D anime-style animation, cyberpunk aesthetic SCENE Young woman, black high ponytail, oversized ora…</summary>
@@ -1247,14 +1247,14 @@ Photorealism, 3D CGI rendering, muted colors, pastel palettes, static cinematogr
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c)
 
 **Source:** [@astronomerozge1](https://x.com/astronomerozge1/status/2082743744177008874) · 15s · 21:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 65. Anime Passenger, Live-Action Driver `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082542989189218305/img/edzk-7eJRat_5WFv.jpg" alt="Anime Passenger, Live-Action Driver" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082542989189218305/img/edzk-7eJRat_5WFv.jpg" alt="Anime Passenger, Live-Action Driver" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Mixed media, live-action with 2D anime character integration SCENE Car interior. Passenger: 2D anim…</summary>
@@ -1286,14 +1286,14 @@ Lighting mismatches between 2D and live-action elements, motion blur on the anim
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k)
 
 **Source:** [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru/status/2082558386441461989) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 66. Traveler in the Mystic Forest `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049993754271744/img/em8p7VQybaSQUBqE.jpg" alt="Traveler in the Mystic Forest" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049993754271744/img/em8p7VQybaSQUBqE.jpg" alt="Traveler in the Mystic Forest" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Surreal fantasy animation blending stylized 3D environments with 2D character illustration SCENE A …</summary>
@@ -1325,14 +1325,14 @@ Photorealism, urban elements, modern machinery, harsh neon lighting, rapid shaky
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd)
 
 **Source:** [@luji_xie](https://x.com/luji_xie/status/2083050315314876656) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 67. Cyberpunk Mech Assault `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083047920509566976/img/GtQtE0IIOBvB1dwO.jpg" alt="Cyberpunk Mech Assault" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083047920509566976/img/GtQtE0IIOBvB1dwO.jpg" alt="Cyberpunk Mech Assault" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 2D anime animation, sci-fi cyberpunk action SCENE Giant green combat mech featuring orange safety s…</summary>
@@ -1364,14 +1364,14 @@ Photorealism, static framing, clean pristine environments, completely biological
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd)
 
 **Source:** [@Hacknaut](https://x.com/Hacknaut/status/2083048000687923529) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 68. Cartoon Skater on Fiery Wheels `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869890592190469/img/4YUjm4nYmIKFuMZY.jpg" alt="Cartoon Skater on Fiery Wheels" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869890592190469/img/4YUjm4nYmIKFuMZY.jpg" alt="Cartoon Skater on Fiery Wheels" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 2D animated cartoon, vibrant flat colors, thick outlines, comic book style SCENE Red-haired man wit…</summary>
@@ -1403,14 +1403,14 @@ Photorealism, 3D rendering, CGI shading, muted tones, static camera, soft edges,
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898)
 
 **Source:** [@whorange__](https://x.com/whorange__/status/2082870195845275923) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 69. Clash of Neon and Shadow `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32"><img src="https://pbs.twimg.com/amplify_video_thumb/2082808203583291392/img/sOgoV4mlHKwcMq98.jpg" alt="Clash of Neon and Shadow" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32"><img src="https://pbs.twimg.com/amplify_video_thumb/2082808203583291392/img/sOgoV4mlHKwcMq98.jpg" alt="Clash of Neon and Shadow" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D anime cel-shaded animation, high-octane action sequence SCENE Blonde female warrior in a bright …</summary>
@@ -1442,14 +1442,14 @@ Photorealism, slow pacing, static camera, soft focus, text, watermarks.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32)
 
 **Source:** [@mito_ai_la](https://x.com/mito_ai_la/status/2082808886919336080) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 70. Clash of Fire and Water `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf"><img src="https://pbs.twimg.com/amplify_video_thumb/2082763740106428416/img/FTyhG59RujxEo2Ur.jpg" alt="Clash of Fire and Water" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf"><img src="https://pbs.twimg.com/amplify_video_thumb/2082763740106428416/img/FTyhG59RujxEo2Ur.jpg" alt="Clash of Fire and Water" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D fantasy CGI animation, cinematic video game trailer SCENE Male warrior in a blue tunic and silve…</summary>
@@ -1481,14 +1481,14 @@ Text, watermarks, modern clothing, photorealism, shaky camera, modern architectu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf)
 
 **Source:** [@harboriis](https://x.com/harboriis/status/2082763939453239615) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 71. Curious Clay Sheep's Adventure `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083193056455794688/img/A8qpz7eJqWF_w6Uk.jpg" alt="Curious Clay Sheep's Adventure" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083193056455794688/img/A8qpz7eJqWF_w6Uk.jpg" alt="Curious Clay Sheep's Adventure" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Claymation stop-motion animation SCENE Anthropomorphic sheep, smooth black clay face and limbs, tex…</summary>
@@ -1520,14 +1520,14 @@ Photorealism, flat 2D animation, smooth 60fps CGI motion, human subjects, clean 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz)
 
 **Source:** [@ThissSophie](https://x.com/ThissSophie/status/2083194363446694308) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 72. Flight of the Neon Sprite `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082541813768892416/img/ZAJG157w6Z13GWZ6.jpg" alt="Flight of the Neon Sprite" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082541813768892416/img/ZAJG157w6Z13GWZ6.jpg" alt="Flight of the Neon Sprite" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: 3D animated sci-fi fantasy SCENE Small, furry red creature with a feline face, glowing cyan horns, …</summary>
@@ -1559,14 +1559,14 @@ Daylight, jagged architecture, human figures, typography, realistic animals, sta
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0)
 
 **Source:** [@aiIgnatius](https://x.com/aiIgnatius/status/2082542123149119593) · 15s · 9:16 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 73. Midnight Train Terror `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293"><img src="https://pbs.twimg.com/amplify_video_thumb/2082811888618901506/img/mjXOOD5m0Cm3xS-q.jpg" alt="Midnight Train Terror" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293"><img src="https://pbs.twimg.com/amplify_video_thumb/2082811888618901506/img/mjXOOD5m0Cm3xS-q.jpg" alt="Midnight Train Terror" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 21:9 | Style: 2D anime, dark supernatural thriller SCENE Man in grey suit and tie with briefcase. Pale woman with…</summary>
@@ -1598,27 +1598,27 @@ Daylight, warm color grading, 3D rendering, realistic textures, slow-motion acti
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293)
 
 **Source:** [@StevieMac03](https://x.com/StevieMac03/status/2082812281881055742) · 15s · 21:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 74. Stop-Motion Natural Dragon Assembly
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg" alt="Stop-Motion Natural Dragon Assembly" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg" alt="Stop-Motion Natural Dragon Assembly" width="700" /></a>
 
 <strong>Prompt</strong> — A top-down stop-motion style video of four hands assembling a detailed dragon head sculpture on a clean white surface using only natural materials. Start with four hands holding and positioning bare b…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1) (1528 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1) (1528 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1)
 
 **Source:** [@Maercihh](https://x.com/Maercihh/status/2082704405619679353) · 15s · 4:3 · Animation & Anime
 
 ---
 ### 75. Glowing Magic in the Kitchen `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827164181778432/img/PvGUYgughXnyMGd3.jpg" alt="Glowing Magic in the Kitchen" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827164181778432/img/PvGUYgughXnyMGd3.jpg" alt="Glowing Magic in the Kitchen" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Mixed media, photorealistic live-action blended with glowing 2D vector animation SCENE Human hands,…</summary>
@@ -1650,14 +1650,14 @@ Photorealistic CGI creatures, fully animated backgrounds, flat lighting, sterile
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp)
 
 **Source:** [@lexx_aura](https://x.com/lexx_aura/status/2082827360970199464) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 76. Huntress Confronts the White Beast `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796446575927297/img/MI6QlX-9KIpfHDc_.jpg" alt="Huntress Confronts the White Beast" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796446575927297/img/MI6QlX-9KIpfHDc_.jpg" alt="Huntress Confronts the White Beast" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 2D anime fantasy, detailed cel-shaded animation SCENE Tribal huntress with fiery red-orange hair, b…</summary>
@@ -1689,14 +1689,14 @@ Photorealism, 3D render style, modern elements, on-screen text, sluggish pacing.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da)
 
 **Source:** [@akakuma0219](https://x.com/akakuma0219/status/2082796505417801823) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 77. Felt Anglerfish Ocean Adventure `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q"><img src="https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg" alt="Felt Anglerfish Ocean Adventure" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q"><img src="https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg" alt="Felt Anglerfish Ocean Adventure" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D needle-felt stop-motion animation, diorama SCENE Round orange plush anglerfish with blue spots, …</summary>
@@ -1728,14 +1728,14 @@ Photorealism, sharp CGI edges, human characters, camera shake, text.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q)
 
 **Source:** [@NVTDanh](https://x.com/NVTDanh/status/2083011011519627554) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 78. Chibi's Magical Cherry Blossom Adventure `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci"><img src="https://pbs.twimg.com/amplify_video_thumb/2082546454275747840/img/v3L9BU1kZ0gHAGNc.jpg" alt="Chibi's Magical Cherry Blossom Adventure" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci"><img src="https://pbs.twimg.com/amplify_video_thumb/2082546454275747840/img/v3L9BU1kZ0gHAGNc.jpg" alt="Chibi's Magical Cherry Blossom Adventure" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D animated anime fantasy SCENE Chibi anime character wearing a brown capybara costume, a green pin…</summary>
@@ -1767,14 +1767,14 @@ Photorealism, muted colors, low lighting, slow pacing, urban elements.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci)
 
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2082546598320767233) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 79. Joyful Dance on Flying Whale `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082839094409998336/img/8SRi6k4fZjwyyrq_.jpg" alt="Joyful Dance on Flying Whale" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082839094409998336/img/8SRi6k4fZjwyyrq_.jpg" alt="Joyful Dance on Flying Whale" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: 2D anime animation, vibrant fantasy adventure SCENE Anime female character, red hair with an orange…</summary>
@@ -1806,27 +1806,27 @@ Photorealism, dark lighting, modern clothing, erratic camera shake, visible text
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b)
 
 **Source:** [@akakuma0219](https://x.com/akakuma0219/status/2082839158327054631) · 15s · 9:16 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 80. ASMR multi-cut overseas snack unboxing anime
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082752049545093121/img/D_xhD-SJmyyg4IkT.jpg" alt="ASMR multi-cut overseas snack unboxing anime" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082752049545093121/img/D_xhD-SJmyyg4IkT.jpg" alt="ASMR multi-cut overseas snack unboxing anime" width="700" /></a>
 
 <strong>Prompt</strong> — 日本のフルカラーアニメ映画風、シネマティックな高品質映像。BGMなし、セリフなし、字幕なし、文字なし、環境音のみ。 # 映像スタイル 添付イラストのキャラクター本人感を最優先。 過度な写実化・厚塗り・複雑な陰影は禁止。 キャラクターの顔立ち、髪型、体型、衣装、アクセは変えない。 # 制約 全カットで画角とアングルを変えて単調にしない。 文字・ロゴは入れない。自然な生活感のある仕草にする。各カットは…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz) (1419 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz) (1419 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz)
 
 **Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082768164413428159) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 81. Chibi RPG Card Battle Showdown `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083201618963771393/img/UT1kgqxmHuXSeP8J.jpg" alt="Chibi RPG Card Battle Showdown" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083201618963771393/img/UT1kgqxmHuXSeP8J.jpg" alt="Chibi RPG Card Battle Showdown" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D anime chibi fantasy RPG video game SCENE Floating circular stone arena above clouds. UI overlays…</summary>
@@ -1858,14 +1858,14 @@ Photorealism, live-action, shaky camera, dramatic shadows, dynamic camera tracki
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq)
 
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2083203352402543027) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 82. Chibi Lovers in the Rain `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082863768258940928/img/JT57blakdb1GXDXH.jpg" alt="Chibi Lovers in the Rain" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082863768258940928/img/JT57blakdb1GXDXH.jpg" alt="Chibi Lovers in the Rain" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D stylized chibi animation, monochromatic cinematic realism. SCENE Rainy Parisian street at night.…</summary>
@@ -1897,85 +1897,85 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b)
 
 **Source:** [@craftcapitallab](https://x.com/craftcapitallab/status/2082934258092659025) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
 ### 83. Stormy Claymation Whale Breach
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l"><img src="https://pbs.twimg.com/amplify_video_thumb/2083503785083588608/img/jbadXIE0eDBJ-oB1.jpg" alt="Stormy Claymation Whale Breach" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l"><img src="https://pbs.twimg.com/amplify_video_thumb/2083503785083588608/img/jbadXIE0eDBJ-oB1.jpg" alt="Stormy Claymation Whale Breach" width="700" /></a>
 
 <strong>Prompt</strong> — Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion arc above the waves, body fully extended, water sheeting off its flanks. At the top of the arc it rolls onto one flank, h…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l) (855 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l) (855 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l)
 
 **Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083555537912729607) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 84. Four Seasons Anime Boarding Ride
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082834833290747904/img/krKPTVc6EVDlIITv.jpg" alt="Four Seasons Anime Boarding Ride" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082834833290747904/img/krKPTVc6EVDlIITv.jpg" alt="Four Seasons Anime Boarding Ride" width="700" /></a>
 
 <strong>Prompt</strong> — 背景音乐节奏与滑板/滑雪动作速度完全匹配，背景音乐音量低于实景音效，不掩盖滑板与滑雪音效 第一人称滑板后仰视视角，超广角强透视，镜头微晃模拟跟滑体感，一镜到底无切镜、无转场、无断切，人物动作标准流畅，无动作畸变，无多余360度转身，人体结构正常 。 春季：二次元COS小姐姐，穿春季轻薄运动衣，低速入弯快速提速，豚跳压弯，路边嫩绿草木鲜花，海面波光，车轮轻微残影 。 春转夏：小姐姐做出高难度豚跳，瞬…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk) (757 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk) (757 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk)
 
 **Source:** [@liyue_ai](https://x.com/liyue_ai/status/2082835339820097539) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 85. The World's Unluckiest Superhero
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853029133312000/img/Upi7gJ0Ds1xeK9ne.jpg" alt="The World's Unluckiest Superhero" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853029133312000/img/Upi7gJ0Ds1xeK9ne.jpg" alt="The World's Unluckiest Superhero" width="700" /></a>
 
 <strong>Prompt</strong> — A documentary about a superhero who has extremely bad luck and ends up saving people by accident through the destruction caused by his own misfortune. Dialogue in English. Scene direction with unique …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa) (519 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa) (519 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa)
 
 **Source:** [@NACHOS2D_](https://x.com/NACHOS2D_/status/2082853567543615837) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 86. Hand-Drawn Ginger Pork Cooking Anime
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082826179753697281/img/h3J3psiaTa6yg7A1.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082826179753697281/img/h3J3psiaTa6yg7A1.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime" width="700" /></a>
 
 <strong>Prompt</strong> — 手描きの日本の2Dアニメ、温かみのあるセルシェーディング、居心地のいい町の定食屋の厨房。15秒、ゆっくり見せる6カット、各約2.5秒。寄りのクローズアップ中心で、食欲をそそる濃厚な演出：脂、照り、湯気、たっぷりの量。 1 まな板を真上から：包丁が厚切りの豚ロースを切る、白い脂の霜降り。 2 斜め45度：熱々の鉄のフライパンに肉を並べ入れる、油が弾け、縁が反り返る。 3 マクロ：脂が溶け出し、深い焼…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8) (401 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8) (401 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8)
 
 **Source:** [@ozuozuai99](https://x.com/ozuozuai99/status/2082828444484960451) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 87. Untitled
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082491822627229696/img/7wWNx9vHTh7etd7i.jpg" alt="Untitled" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082491822627229696/img/7wWNx9vHTh7etd7i.jpg" alt="Untitled" width="700" /></a>
 
 <strong>Prompt</strong> — #MiniMaxH3 Hailuoの新モデルMiniMaxH3の早期アクセスをさせていただいたので早速試してみました❣️ 悪くはないけどもう少し激しく躍らせてみたいな✨ 色々試してみます☺️ @Hailuo_AI https://t.co/ib0fff7mmZ
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0) (132 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0) (132 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0)
 
 **Source:** [@mugi_AI_Art](https://x.com/mugi_AI_Art/status/2082492072989519989?s=20) · 15s · 16:9 · Animation & Anime
 
 ---
 ### 88. 8-bit black and white San Francisco animation
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al"><img src="https://pbs.twimg.com/amplify_video_thumb/2083007126612692992/img/lyVle1Lrmrzt6PbR.jpg" alt="8-bit black and white San Francisco animation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al"><img src="https://pbs.twimg.com/amplify_video_thumb/2083007126612692992/img/lyVle1Lrmrzt6PbR.jpg" alt="8-bit black and white San Francisco animation" width="700" /></a>
 
 <strong>Prompt</strong> — 𝟾-𝚋𝚒𝚝, 𝚋𝚕𝚊𝚌𝚔 𝚊𝚗𝚍 𝚠𝚑𝚒𝚝𝚎 𝚊𝚗𝚒𝚖𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚜𝚊𝚗 𝚏𝚛𝚊𝚗𝚌𝚒𝚜𝚌𝚘
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al) (89 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al) (89 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al)
 
 **Source:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -1984,150 +1984,150 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 
 ### 89. KALDR cold perfume commercial multi-reference
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082918243002695680/img/a7ztEfHR51KLKlzI.jpg" alt="KALDR cold perfume commercial multi-reference" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082918243002695680/img/a7ztEfHR51KLKlzI.jpg" alt="KALDR cold perfume commercial multi-reference" width="700" /></a>
 
 <strong>Prompt</strong> — REFERENCE USAGE: Image 1 — the KALDR bottle. Preserve the smoked charcoal glass, bevelled edges, pale blue liquid, brushed gunmetal cap and the etched silver KALDR mark exactly. Image 2 — the closing …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k) (5465 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k) (5465 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k)
 
 **Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 90. H3 Energy Drink Showcase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082912615052050432/img/4kFMxx1VdMeuLzMU.jpg" alt="H3 Energy Drink Showcase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082912615052050432/img/4kFMxx1VdMeuLzMU.jpg" alt="H3 Energy Drink Showcase" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] 15-second vertical 9:16 photorealistic commercial product showcase with native synchronized stereo audio. [OMNI REFERENCE — [Image1]] [Image1] is the strict multi-angle product reference for …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd) (4178 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd) (4178 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082912639647465647) · 15s · 9:16 · Product & Ads
 
 ---
 ### 91. Luxury Watch Time Freeze Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w"><img src="https://pbs.twimg.com/amplify_video_thumb/2082831827216343040/img/Z0an-oRSY3_N7DFO.jpg" alt="Luxury Watch Time Freeze Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w"><img src="https://pbs.twimg.com/amplify_video_thumb/2082831827216343040/img/Z0an-oRSY3_N7DFO.jpg" alt="Luxury Watch Time Freeze Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] 15-second vertical 9:16 photorealistic luxury-watch commercial with native synchronized stereo audio. [REFERENCES] [Image1] is the strict identity and wardrobe reference for Dorian Vane. Pres…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w) (3142 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w) (3142 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082831848238186868) · 15s · 9:16 · Product & Ads
 
 ---
 ### 92. Golden Hour Luxury Fragrance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082873923130236928/img/PfzGp0C5LkrMrvem.jpg" alt="Golden Hour Luxury Fragrance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082873923130236928/img/PfzGp0C5LkrMrvem.jpg" alt="Golden Hour Luxury Fragrance" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] 15-second vertical 9:16 photorealistic luxury-fragrance commercial with native synchronized stereo audio. [REFERENCES] [Image1] is the strict multi-angle identity and wardrobe reference for t…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw) (3122 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw) (3122 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082873944575815861) · 15s · 9:16 · Product & Ads
 
 ---
 ### 93. Sushi Night Smartphone UGC Vlog
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of"><img src="https://pbs.twimg.com/amplify_video_thumb/2082837356198146048/img/iZ-78X9o-m0QQy_d.jpg" alt="Sushi Night Smartphone UGC Vlog" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of"><img src="https://pbs.twimg.com/amplify_video_thumb/2082837356198146048/img/iZ-78X9o-m0QQy_d.jpg" alt="Sushi Night Smartphone UGC Vlog" width="700" /></a>
 
 <strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic, NOT overly polished. Feels like…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of) (2943 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of) (2943 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of)
 
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2082837405812613617) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 94. Luxury Skincare Cinematic Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft"><img src="https://pbs.twimg.com/amplify_video_thumb/2083407918704316416/img/SZQ8c68DLAovAq25.jpg" alt="Luxury Skincare Cinematic Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft"><img src="https://pbs.twimg.com/amplify_video_thumb/2083407918704316416/img/SZQ8c68DLAovAq25.jpg" alt="Luxury Skincare Cinematic Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded storyboard as the camera guide. Follow all 8 frames in order with smooth cinematic continuity. The same woman, outfit, hairstyle, makeup, room and product must remain perfectly consis…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft) (2934 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft) (2934 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft)
 
 **Source:** [@Maercihh](https://x.com/Maercihh/status/2083407991114805571) · 15s · 16:9 · Product & Ads
 
 ---
 ### 95. Premium cinematic fashion campaign outfit reveal
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083024654567112705/img/-MpDPkPOzIkiKwDi.jpg" alt="Premium cinematic fashion campaign outfit reveal" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083024654567112705/img/-MpDPkPOzIkiKwDi.jpg" alt="Premium cinematic fashion campaign outfit reveal" width="700" /></a>
 
 <strong>Prompt</strong> — Create a premium cinematic fashion campaign video using the five uploaded apparel images as strict product references. The video should introduce each outfit one by one, while maintaining the exact or…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq) (2863 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq) (2863 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq)
 
 **Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 96. UGC Style Soda Product Promo
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083135932472143872/img/CEB4kJT9ey1QoFfq.jpg" alt="UGC Style Soda Product Promo" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083135932472143872/img/CEB4kJT9ey1QoFfq.jpg" alt="UGC Style Soda Product Promo" width="700" /></a>
 
 <strong>Prompt</strong> — CHARACTER & WORLD LOCK + FULL 15-SEC MASTER PROMPT A 15-second continuous UGC-style vlog in 9:16 vertical format. Jessy, a woman in her mid-20s — use her facial features exactly as shown in her refere…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7) (2749 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7) (2749 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083136052638998714) · 15s · 16:9 · Product & Ads
 
 ---
 ### 97. Vertical car transformation street-culture film
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix"><img src="https://pbs.twimg.com/amplify_video_thumb/2082783021636161536/img/HayifMvKqD8RJZ2h.jpg" alt="Vertical car transformation street-culture film" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix"><img src="https://pbs.twimg.com/amplify_video_thumb/2082783021636161536/img/HayifMvKqD8RJZ2h.jpg" alt="Vertical car transformation street-culture film" width="700" /></a>
 
 <strong>Prompt</strong> — FORMAT: 15-second cinematic vertical car transformation film 9:16 aspect ratio Ultra-realistic automotive commercial aesthetic Japanese street culture + luxury cinematic realism High-energy transforma…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix) (2637 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix) (2637 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix)
 
 **Source:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 98. Ultra-premium cinematic luxury perfume commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g"><img src="https://pbs.twimg.com/amplify_video_thumb/2082775806666002432/img/fdFy_tI03kIixAwt.jpg" alt="Ultra-premium cinematic luxury perfume commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g"><img src="https://pbs.twimg.com/amplify_video_thumb/2082775806666002432/img/fdFy_tI03kIixAwt.jpg" alt="Ultra-premium cinematic luxury perfume commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second ultra-premium cinematic luxury perfume commercial designed to fully showcase MiniMax H3's multimodal capabilities. Output Settings: • Duration: 15 seconds • Resolution: 2K (1440p) •…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g) (2450 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g) (2450 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g)
 
 **Source:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 99. Surreal Blue Studio Dance with a Horse
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="Surreal Blue Studio Dance with a Horse" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="Surreal Blue Studio Dance with a Horse" width="700" /></a>
 
 <strong>Prompt</strong> — Use @ Image1 as the man reference. Use @ Image2 as the woman reference. Use @ Image3 as the horse reference. Create a surreal 15-second fashion-film sequence inside a minimalist monochrome blue studio…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto) (2247 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto) (2247 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto)
 
 **Source:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 100. Velvet Crimson Luxury Lipstick `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033643392372736/img/goYVPzJiWeOqOJI3.jpg" alt="Velvet Crimson Luxury Lipstick" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033643392372736/img/goYVPzJiWeOqOJI3.jpg" alt="Velvet Crimson Luxury Lipstick" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end cosmetics commercial, macro beauty photography, elegant cinematic realism SCENE Matte blac…</summary>
@@ -2159,40 +2159,40 @@ Smudged makeup, uneven skin textures, dull colors, naturalistic documentary ligh
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8)
 
 **Source:** [@Aneeza__S](https://x.com/Aneeza__S/status/2083033717384380919) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 101. Luxury Sports Car Landing Page Motion
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife"><img src="https://pbs.twimg.com/amplify_video_thumb/2082999549371809792/img/R-05d_1cnYweCszn.jpg" alt="Luxury Sports Car Landing Page Motion" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife"><img src="https://pbs.twimg.com/amplify_video_thumb/2082999549371809792/img/R-05d_1cnYweCszn.jpg" alt="Luxury Sports Car Landing Page Motion" width="700" /></a>
 
 <strong>Prompt</strong> — A UI/UX motion showcase video for a high-performance luxury sports car brand landing page, created as an image-to-video project based on Product Image 1, with the car in the image remaining the core s…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife) (2032 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife) (2032 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife)
 
 **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2082999806948229386) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 102. Yellow Sunglasses in a Black Studio
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083210378759098368/img/wwUOVkeDWwXwQIfr.jpg" alt="Yellow Sunglasses in a Black Studio" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083210378759098368/img/wwUOVkeDWwXwQIfr.jpg" alt="Yellow Sunglasses in a Black Studio" width="700" /></a>
 
 <strong>Prompt</strong> — [Upload reference ] + Use la ragazza in reference as a strict identity reference for the model and her yellow sunglasses. Preserve face, hair, and the exact frame shape and colour throughout. 15 secon…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1) (2031 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1) (2031 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1)
 
 **Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083225662316265763) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 103. The Future of Precision Motion `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58"><img src="https://pbs.twimg.com/amplify_video_thumb/2082692156666568704/img/uaA9RKuIuQ2zLaM_.jpg" alt="The Future of Precision Motion" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58"><img src="https://pbs.twimg.com/amplify_video_thumb/2082692156666568704/img/uaA9RKuIuQ2zLaM_.jpg" alt="The Future of Precision Motion" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end technology commercial, hyper-realistic 3D rendering. SCENE Male subject, clean-shaven, bla…</summary>
@@ -2224,40 +2224,40 @@ Amateur lighting, shaky handheld camera, low resolution, dull muted colors, natu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58)
 
 **Source:** [@iamrealsnow](https://x.com/iamrealsnow/status/2082692346651767244) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 104. Luxury checkered sports-coupe night-to-dawn commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko"><img src="https://pbs.twimg.com/amplify_video_thumb/2082854597698207744/img/JucBtXsYhQijvL7f.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko"><img src="https://pbs.twimg.com/amplify_video_thumb/2082854597698207744/img/JucBtXsYhQijvL7f.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial" width="700" /></a>
 
 <strong>Prompt</strong> — High-end luxury auto commercial, cinematic night-to-dawn lighting, wet reflective surfaces, anamorphic lens flares, rich emerald green and deep black color grade, heavy film grain. Use @Audio1 for bac…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko) (1999 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko) (1999 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko)
 
 **Source:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 105. Elegant Minimalist Fashion Showcase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082745515326738432/pu/img/uz7nIzKtvxckfWIt.jpg" alt="Elegant Minimalist Fashion Showcase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082745515326738432/pu/img/uz7nIzKtvxckfWIt.jpg" alt="Elegant Minimalist Fashion Showcase" width="700" /></a>
 
 <strong>Prompt</strong> — Use @Image1 as the strict first frame and primary visual reference. Preserve the model's face, messy updo with soft bangs, gold hoop earrings, pendant necklace, chocolate-brown draped strapless top wi…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3) (1920 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3) (1920 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082745557085241351) · 15s · 9:16 · Product & Ads
 
 ---
 ### 106. The Futuristic Ogee One E-Bike `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l"><img src="https://pbs.twimg.com/amplify_video_thumb/2082896876802609152/img/eCvfCkOa1nQ-NsIu.jpg" alt="The Futuristic Ogee One E-Bike" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l"><img src="https://pbs.twimg.com/amplify_video_thumb/2082896876802609152/img/eCvfCkOa1nQ-NsIu.jpg" alt="The Futuristic Ogee One E-Bike" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-energy kinetic product commercial SCENE Glossy red futuristic electric bicycle featuring a con…</summary>
@@ -2289,27 +2289,27 @@ Human riders, outdoor settings, traditional metal bike chains, straight frame ge
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l)
 
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082897903501148322) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 107. Luxury Emerald Necklace Storyboard
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg" alt="Luxury Emerald Necklace Storyboard" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg" alt="Luxury Emerald Necklace Storyboard" width="700" /></a>
 
 <strong>Prompt</strong> — TITLE: Luxury Emerald Necklace Commercial Storyboard FORMAT: • Single-page premium storyboard • 3:4 portrait ratio • Editorial presentation board • 8 cinematic frames arranged in a clean luxury grid •…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06) (1783 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06) (1783 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06)
 
 **Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082667261718872509) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 108. Steal The Shine Lip Oil `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3"><img src="https://pbs.twimg.com/amplify_video_thumb/2083026240370532352/img/va6iwEuk0e6iFJh2.jpg" alt="Steal The Shine Lip Oil" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3"><img src="https://pbs.twimg.com/amplify_video_thumb/2083026240370532352/img/va6iwEuk0e6iFJh2.jpg" alt="Steal The Shine Lip Oil" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: High-end cosmetics commercial, photorealistic beauty photography. SCENE Female model with slicked-b…</summary>
@@ -2341,27 +2341,27 @@ Matte finishes, cluttered backgrounds, unkempt hair, muted colors, flat lighting
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3)
 
 **Source:** [@frametheory058](https://x.com/frametheory058/status/2083026293529125308) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 109. SparkRush Ultra Fizz beach soft-drink commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027608263102464/img/Uf_r7K2AuTU-GQ3y.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027608263102464/img/Uf_r7K2AuTU-GQ3y.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial" width="700" /></a>
 
 <strong>Prompt</strong> — （16:9 / 15秒 / 8カット / 日本語セリフ版） @ ImageA＝採用済みイメージボード。 （以降、イメージボードと記述） イメージボードは 登場人物2人の雰囲気、水着、ビーチ環境、商品ボトルデザイン、色、爽快感、映像トーンの参考資料 としてのみ使用する。 重要：イメージボードのレイアウトや構成そのものは絶対に映像内へ描写しない。 イメージボード、8分割グリッド、コマ割り、番号、説明文…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn) (1743 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn) (1743 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn)
 
 **Source:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 110. Fresh Picks Food Commercial `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw"><img src="https://pbs.twimg.com/amplify_video_thumb/2083194069178875904/img/NIixRt3u30ZFH2Xo.jpg" alt="Fresh Picks Food Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw"><img src="https://pbs.twimg.com/amplify_video_thumb/2083194069178875904/img/NIixRt3u30ZFH2Xo.jpg" alt="Fresh Picks Food Commercial" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Dynamic studio food commercial SCENE Assorted styled food items (loaded fries, tomato mozzarella to…</summary>
@@ -2393,14 +2393,14 @@ Messy plating, soft lighting, muted colors, camera panning, handheld movement, c
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw)
 
 **Source:** [@thisismariaa25](https://x.com/thisismariaa25/status/2083194269867663690) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 111. Pink Grace in Golden Hour `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207009852411905/img/6riNYByo0h0kqq3s.jpg" alt="Pink Grace in Golden Hour" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207009852411905/img/6riNYByo0h0kqq3s.jpg" alt="Pink Grace in Golden Hour" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end fashion commercial SCENE Elegant woman in a monochromatic pink tailored suit, pink stilett…</summary>
@@ -2432,14 +2432,14 @@ Cluttered backgrounds, harsh fluorescent lighting, fast handheld camera shaking,
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80)
 
 **Source:** [@KaiteeShiks](https://x.com/KaiteeShiks/status/2083207031281127803) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 112. NOIRLIFT Lash Lift Tutorial `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083447666487463936/img/RVsRnL68UlpR5BM1.jpg" alt="NOIRLIFT Lash Lift Tutorial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083447666487463936/img/RVsRnL68UlpR5BM1.jpg" alt="NOIRLIFT Lash Lift Tutorial" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Clean UGC beauty tutorial and product demonstration. SCENE Young woman, icy blonde hair, tanned ski…</summary>
@@ -2471,27 +2471,27 @@ Text morphing, inconsistent nail polish, distorted mirror reflections, unnatural
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083447690885829102) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 113. Strawberry Drink Transformation Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083189657689309184/img/0QRnAmUguoG3eCns.jpg" alt="Strawberry Drink Transformation Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083189657689309184/img/0QRnAmUguoG3eCns.jpg" alt="Strawberry Drink Transformation Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — { "shots": [ { "shot_id": "1", "start_time": "00:00", "end_time": "00:02", "camera_angle": "Close-up", "subject": "Strawberry", "action": "A single, dull strawberry transforms into a vibrant, ripe str…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex) (1728 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex) (1728 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex)
 
 **Source:** [@GumVue](https://x.com/GumVue/status/2083189719827878083) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 114. Luxury Mascara Beauty Application `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726198329933825/img/AoFwAnbE0YQ6DBfy.jpg" alt="Luxury Mascara Beauty Application" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726198329933825/img/AoFwAnbE0YQ6DBfy.jpg" alt="Luxury Mascara Beauty Application" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end beauty commercial SCENE Young Asian woman, long wavy brown hair, cream silk tie-neck blous…</summary>
@@ -2523,14 +2523,14 @@ Handheld camera shake, harsh shadows, cluttered backgrounds, unnatural eye track
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx)
 
 **Source:** [@AIwithAliya](https://x.com/AIwithAliya/status/2082727204501283226) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 115. Reflections of Urban Style `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082812199731675137/pu/img/XqJeZkBR_XlraiGl.jpg" alt="Reflections of Urban Style" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082812199731675137/pu/img/XqJeZkBR_XlraiGl.jpg" alt="Reflections of Urban Style" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 21:9 | Style: Cinematic fashion eyewear commercial, photorealistic SCENE Young man, dark wavy hair, beard, gradie…</summary>
@@ -2562,14 +2562,14 @@ Mismatched reflections, distorted sunglasses frames, extra fingers during the ad
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j)
 
 **Source:** [@Itswsm105f](https://x.com/Itswsm105f/status/2082812240588353997) · 15s · 21:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 116. Prada Neon Luxury Perfume `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849469339422720/img/3o4i2kVPntSlhKQ4.jpg" alt="Prada Neon Luxury Perfume" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849469339422720/img/3o4i2kVPntSlhKQ4.jpg" alt="Prada Neon Luxury Perfume" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end luxury fashion commercial SCENE Red-haired female model, black leather jacket, pink metall…</summary>
@@ -2601,27 +2601,27 @@ Daylight, natural settings, flat lighting, cluttered backgrounds, casual streetw
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00)
 
 **Source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2082849737510678554) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 117. Luxury perfume commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083059373665116160/img/c1dXdYscwDPj7IWe.jpg" alt="Luxury perfume commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083059373665116160/img/c1dXdYscwDPj7IWe.jpg" alt="Luxury perfume commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Scene 1 (0–3s) – Luxury Reveal A luxury perfume bottle slowly emerges from darkness, standing on a glossy black pedestal. Soft golden light beams gradually reveal the crystal-clear glass, while subtle…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl) (1573 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl) (1573 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl)
 
 **Source:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 118. Dove Pure Softness Commercial `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr"><img src="https://pbs.twimg.com/amplify_video_thumb/2083606254367215616/img/Zd1jb7r8xhgKNGz1.jpg" alt="Dove Pure Softness Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr"><img src="https://pbs.twimg.com/amplify_video_thumb/2083606254367215616/img/Zd1jb7r8xhgKNGz1.jpg" alt="Dove Pure Softness Commercial" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end beauty commercial, photorealistic SCENE Black woman, natural hair updo, white plush bathro…</summary>
@@ -2653,79 +2653,79 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr)
 
 **Source:** [@IsabellaHan_](https://x.com/IsabellaHan_/status/2083606664209424824) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 119. Late-Night Ramen UGC Selfie-Vlog
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s"><img src="https://pbs.twimg.com/amplify_video_thumb/2083461177083117568/img/vVytFY0M5qIjt1lZ.jpg" alt="Late-Night Ramen UGC Selfie-Vlog" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s"><img src="https://pbs.twimg.com/amplify_video_thumb/2083461177083117568/img/vVytFY0M5qIjt1lZ.jpg" alt="Late-Night Ramen UGC Selfie-Vlog" width="700" /></a>
 
 <strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels energy — NOT cinematic. Product Reference: Use the uplo…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s) (1516 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s) (1516 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s)
 
 **Source:** [@Taaruk_](https://x.com/Taaruk_/status/2083461207919612348) · 15s · 21:9 · Product & Ads
 
 ---
 ### 120. Luxury Watch Storyboard Campaign
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo"><img src="https://pbs.twimg.com/amplify_video_thumb/2083051589032660992/img/iWJaoMFiOxD8Biqv.jpg" alt="Luxury Watch Storyboard Campaign" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo"><img src="https://pbs.twimg.com/amplify_video_thumb/2083051589032660992/img/iWJaoMFiOxD8Biqv.jpg" alt="Luxury Watch Storyboard Campaign" width="700" /></a>
 
 <strong>Prompt</strong> — Here`s the storyboard TITLE: Luxury Watch Commercial Storyboard Create a premium single-page storyboard for a luxury watch commercial. Editorial presentation board. 3:4 portrait. Eight cinematic story…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo) (1498 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo) (1498 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo)
 
 **Source:** [@I_amShiti](https://x.com/I_amShiti/status/2083051609953903017) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 121. UGC Lip Oil Selfie Ad
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5"><img src="https://pbs.twimg.com/amplify_video_thumb/2083075159360196608/img/8qyuXc9A-wgcu6Sr.jpg" alt="UGC Lip Oil Selfie Ad" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5"><img src="https://pbs.twimg.com/amplify_video_thumb/2083075159360196608/img/8qyuXc9A-wgcu6Sr.jpg" alt="UGC Lip Oil Selfie Ad" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, and facial consistency throughout every shot. Create…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5) (1454 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5) (1454 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5)
 
 **Source:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2083075282186256521) · 15s · 16:9 · Product & Ads
 
 ---
 ### 122. Black-and-Gold Perfume Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083079175674417152/img/JIvzhVgjb7giBggC.jpg" alt="Black-and-Gold Perfume Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083079175674417152/img/JIvzhVgjb7giBggC.jpg" alt="Black-and-Gold Perfume Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second ultra-premium luxury perfume commercial in cinematic 16:9. A crystal perfume bottle with a sleek black-and-gold design stands on a glossy reflective surface inside a dark luxury stu…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8) (1436 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8) (1436 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8)
 
 **Source:** [@kingofdairyque](https://x.com/kingofdairyque/status/2083079304632520833) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 123. UGC Style Burger Review Vlog
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083436762995826688/img/0yqQAGpWhYgdRrk3.jpg" alt="UGC Style Burger Review Vlog" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083436762995826688/img/0yqQAGpWhYgdRrk3.jpg" alt="UGC Style Burger Review Vlog" width="700" /></a>
 
 <strong>Prompt</strong> — Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Reference: Use the uploaded gourmet burger image as the …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8) (1430 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8) (1430 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8)
 
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2083436822085165289) · 15s · 21:9 · Product & Ads
 
 ---
 ### 124. Macro Beauty Routine Commercial `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027153755713536/img/HazN6Bo7AV158Ic9.jpg" alt="Macro Beauty Routine Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027153755713536/img/HazN6Bo7AV158Ic9.jpg" alt="Macro Beauty Routine Commercial" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-end cosmetics commercial, photorealistic SCENE East Asian woman, long dark hair, white silk ro…</summary>
@@ -2757,215 +2757,215 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl)
 
 **Source:** [@iamrealsnow](https://x.com/iamrealsnow/status/2083027203651178519) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
 ### 125. Luxury Headphone Product Showcase
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="Luxury Headphone Product Showcase" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="Luxury Headphone Product Showcase" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second luxury cinematic product showcase for premium wireless over-ear headphones. 0–4s: Begin with an extreme macro tracking shot moving across the soft memory-foam ear cushion, fine fabr…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy) (1386 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy) (1386 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · Product & Ads
 
 ---
 ### 126. Marble Staircase Lip Gloss Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya"><img src="https://pbs.twimg.com/amplify_video_thumb/2082845774287978496/img/hyJLSh1icnfaiLTv.jpg" alt="Marble Staircase Lip Gloss Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya"><img src="https://pbs.twimg.com/amplify_video_thumb/2082845774287978496/img/hyJLSh1icnfaiLTv.jpg" alt="Marble Staircase Lip Gloss Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, pearl necklace, rings, and facial consistenc…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya) (1363 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya) (1363 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya)
 
 **Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2082845923152150697) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 127. Vertical Skincare Serum Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083081494977986560/img/vgPZgorPhUF_xMEn.jpg" alt="Vertical Skincare Serum Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083081494977986560/img/vgPZgorPhUF_xMEn.jpg" alt="Vertical Skincare Serum Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A translucent emerald green glass dropper bottle of INVENTIKO Bio-Serum 38% Renderfeel 20,000, labeled "SERUM SKINCARE - SKIN R…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1) (1173 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1) (1173 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1)
 
 **Source:** [@noorlewisx](https://x.com/noorlewisx/status/2083081579262591469) · 15s · 9:16 · Product & Ads
 
 ---
 ### 128. Quiet Luxury Skincare Campaign
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="Quiet Luxury Skincare Campaign" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="Quiet Luxury Skincare Campaign" width="700" /></a>
 
 <strong>Prompt</strong> — The Brief: "Jessy x RadiantGlo" 15 seconds. One face, one mask, one ritual — quiet luxury skincare. Jessy stands at her mirror at night, cool blue light on her skin, studying her reflection before she…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf) (1058 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf) (1058 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · Product & Ads
 
 ---
 ### 129. NOVA X smartphone TVC
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083048789905162240/pu/img/82vr1KACJ7LLMRmV.jpg" alt="NOVA X smartphone TVC" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083048789905162240/pu/img/82vr1KACJ7LLMRmV.jpg" alt="NOVA X smartphone TVC" width="700" /></a>
 
 <strong>Prompt</strong> — Create a 15-second premium cinematic branding TVC for a futuristic smartphone brand called NOVA X. 0–5 seconds: Extreme close-up of a sleek futuristic smartphone resting on a glossy black surface. Dra…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml) (1021 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml) (1021 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml)
 
 **Source:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 130. Effortless Luxury Fashion Campaign
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082804376343826432/img/E-2r1ZZ7d3rVdzWm.jpg" alt="Effortless Luxury Fashion Campaign" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082804376343826432/img/E-2r1ZZ7d3rVdzWm.jpg" alt="Effortless Luxury Fashion Campaign" width="700" /></a>
 
 <strong>Prompt</strong> — "Jessica x The Bag" 15 seconds. One face, one bag, one mood — effortless luxury. Jessica walks into frame on a sun-warmed city street, the cognac leather bag with its hand-scribbled blue design swingi…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz) (868 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz) (868 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz)
 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2082804771220804089) · 15s · 16:9 · Product & Ads
 
 ---
 ### 131. Refreshing Summer Juice Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082533033853304832/img/Bfv_SKxmUN_cV_4i.jpg" alt="Refreshing Summer Juice Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082533033853304832/img/Bfv_SKxmUN_cV_4i.jpg" alt="Refreshing Summer Juice Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — A young person walks under the blazing summer sun, looking exhausted and sweating heavily. The road shimmers with heat waves, and everything appears dry and dull. Suddenly, they grab a chilled bottle …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da) (840 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da) (840 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da)
 
 **Source:** [@navi_Ai2](https://x.com/navi_Ai2/status/2082533116732674155) · 15s · 16:9 · Product & Ads
 
 ---
 ### 132. Strawberry seasonal match-cut food commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827810046128128/img/v8KnNNINBug8X4AJ.jpg" alt="Strawberry seasonal match-cut food commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827810046128128/img/v8KnNNINBug8X4AJ.jpg" alt="Strawberry seasonal match-cut food commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Premium food commercial. Extreme macro shot of a single ripe strawberry falling toward a white ceramic bowl. Before it lands, the environment changes through four seamless seasonal match cuts: a sunli…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc) (754 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc) (754 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc)
 
 **Source:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 133. White-Cyclorama Luxury Eyewear Campaign
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082820088584167424/img/w9No1fv9fd-hgj1C.jpg" alt="White-Cyclorama Luxury Eyewear Campaign" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082820088584167424/img/w9No1fv9fd-hgj1C.jpg" alt="White-Cyclorama Luxury Eyewear Campaign" width="700" /></a>
 
 <strong>Prompt</strong> — Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s shot rhythm, edit speed, white-cyclorama look, and severe fashion attitude. Use a seamless minimal white studio with clean…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx) (712 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx) (712 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx)
 
 **Source:** [@hey_leomartin](https://x.com/hey_leomartin/status/2082820121882665060) · 15s · 9:16 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 134. UGC Skincare Product Promo
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por"><img src="https://pbs.twimg.com/amplify_video_thumb/2083010639748882432/img/l0l1V9NgcetYyhCQ.jpg" alt="UGC Skincare Product Promo" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por"><img src="https://pbs.twimg.com/amplify_video_thumb/2083010639748882432/img/l0l1V9NgcetYyhCQ.jpg" alt="UGC Skincare Product Promo" width="700" /></a>
 
 <strong>Prompt</strong> — UGC-style skincare video featuring a realistic young woman speaking directly to the camera in front of a bathroom mirror while holding a premium facial serum bottle. She smiles naturally, talks about …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por) (680 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por) (680 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por)
 
 **Source:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2083011066800242986) · 15s · 16:9 · Product & Ads
 
 ---
 ### 135. Mecha Mobile Game Season Ad
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff"><img src="https://pbs.twimg.com/amplify_video_thumb/2083128170816192512/img/THKmP_Q75zOBaWYJ.jpg" alt="Mecha Mobile Game Season Ad" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff"><img src="https://pbs.twimg.com/amplify_video_thumb/2083128170816192512/img/THKmP_Q75zOBaWYJ.jpg" alt="Mecha Mobile Game Season Ad" width="700" /></a>
 
 <strong>Prompt</strong> — 生成一支15秒16:9横版科幻机甲手游新赛季商业广告。 虚构游戏品牌 MECHA FRONT，主角是银白与深蓝配色的限定机甲 AETHER-07，机体外形、装甲结构和配色在全片保持一致。 画面只允许出现以下文字，且必须拼写完全正确，MECHA FRONT、AETHER-07、限定机甲、攻击 920、机动 88、现在解锁。 0至4秒， 黑色未来机库中，一束冷白顶光依次扫过机甲头部、胸甲与机械关节，镜…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff) (586 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff) (586 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff)
 
 **Source:** [@liyue_ai](https://x.com/liyue_ai/status/2083128868668666020) · 15s · 16:9 · Product & Ads
 
 ---
 ### 136. Neon Nightmare Burger Commercial
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549359028076544/img/PMQJROMBjKOmhc0B.jpg" alt="Neon Nightmare Burger Commercial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549359028076544/img/PMQJROMBjKOmhc0B.jpg" alt="Neon Nightmare Burger Commercial" width="700" /></a>
 
 <strong>Prompt</strong> — Cinematic 15-second commercial shot, fast-paced editing, dark humor, creepy comedy style. Ultra-realistic, 8k resolution. A surreal hamburger restaurant with moody neon lighting (red and green). Close…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s) (556 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s) (556 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s)
 
 **Source:** [@xavier_mitjana](https://x.com/xavier_mitjana/status/2082549709240160587) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 137. Desert Runway Fashion Ad
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082897532448116736/img/qzCoyRxBb_3-ROlb.jpg" alt="Desert Runway Fashion Ad" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082897532448116736/img/qzCoyRxBb_3-ROlb.jpg" alt="Desert Runway Fashion Ad" width="700" /></a>
 
 <strong>Prompt</strong> — 12s cinematic luxury fashion ad, 4K, 24fps, ultra-photorealistic. A high-fashion model in a flowing iridescent metallic gown walks along a minimalist desert runway at golden hour. Cinematic aerial, tr…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8) (475 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8) (475 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8)
 
 **Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · 15s · 16:9 · Product & Ads
 
 ---
 ### 138. The Thief's Awkward Product Excuse
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv"><img src="https://pbs.twimg.com/amplify_video_thumb/2082644975087673344/img/VYxlEJjsozQUtXeM.jpg" alt="The Thief's Awkward Product Excuse" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv"><img src="https://pbs.twimg.com/amplify_video_thumb/2082644975087673344/img/VYxlEJjsozQUtXeM.jpg" alt="The Thief's Awkward Product Excuse" width="700" /></a>
 
 <strong>Prompt</strong> — 日本語での会話シーン。ピンクシャツを着た泥棒の男が、おばあさんに見つかり、こっぴどく叱られて立ちすくんでいる。男はそばにいる少女に向かって言い訳を始める。「別に盗むつもりじゃなかったんだ、ちょっと借りただけだったんだよ」と弁解していると、おばあさんがふと思い出したように話を遮り、「そういえば、はいるお スリーが出たんだって」と告知するように明るく言う。少女と男は一瞬きょとんとした表情を浮かべ、泥棒…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv) (442 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv) (442 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv)
 
 **Source:** [@ponzponz15](https://x.com/ponzponz15/status/2082646007444300101) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 139. High-Speed Sports Product Landing Page
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776318475665408/img/X_FKBjcy7t8wAHo1.jpg" alt="High-Speed Sports Product Landing Page" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776318475665408/img/X_FKBjcy7t8wAHo1.jpg" alt="High-Speed Sports Product Landing Page" width="700" /></a>
 
 <strong>Prompt</strong> — Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital language, built around the product in Image 1. Use oversized, bold, italicized sans-serif typography and backgrounds that co…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm) (423 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm) (423 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm)
 
 **Source:** [@Voxyz_ai](https://x.com/Voxyz_ai/status/2082777543824789559) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 140. Cyber-grunge fashion film with VHS glitch
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083021093393072128/pu/img/Xzgglq3gkGzUO3gf.jpg" alt="Cyber-grunge fashion film with VHS glitch" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083021093393072128/pu/img/Xzgglq3gkGzUO3gf.jpg" alt="Cyber-grunge fashion film with VHS glitch" width="700" /></a>
 
 <strong>Prompt</strong> — Platinum-blonde subject, black patent-leather trench, orange firelight across the coat. Nighttime blaze, black smoke. VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-to-…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r) (212 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r) (212 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r)
 
 **Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -2974,46 +2974,46 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 
 ### 141. Cyberpunk Ice-Blue Character Awakening
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082829859945095168/img/mZ8MZFbcc58C1feK.jpg" alt="Cyberpunk Ice-Blue Character Awakening" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082829859945095168/img/mZ8MZFbcc58C1feK.jpg" alt="Cyberpunk Ice-Blue Character Awakening" width="700" /></a>
 
 <strong>Prompt</strong> — Use the uploaded image as the exact source image and first frame. Preserve the original character design, composition, face, pale skin, glowing icy blue eyes, braided black hair, cybernetic head impla…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1) (6975 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1) (6975 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1)
 
 **Source:** [@ainextastro](https://x.com/ainextastro/status/2082830892209221921) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 142. Sitcom Game Show Choice
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://pbs.twimg.com/amplify_video_thumb/2083130633048694784/img/6bfTlMdE8iKutjpq.jpg" alt="Sitcom Game Show Choice" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://pbs.twimg.com/amplify_video_thumb/2083130633048694784/img/6bfTlMdE8iKutjpq.jpg" alt="Sitcom Game Show Choice" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] Exactly 15 seconds, horizontal 16:9, photorealistic multi-camera television sitcom with native synchronized dialogue, audience reactions, SFX and music. [OMNI REFERENCES — [Image1] [Image2] […
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt) (4399 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt) (4399 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083130683183255894) · 15s · 16:9 · Character & Performance
 
 ---
 ### 143. Pizza night UGC Domino’s vlog
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799495843295232/img/r2dr2vS7Z7fKbmY1.jpg" alt="Pizza night UGC Domino’s vlog" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799495843295232/img/r2dr2vS7Z7fKbmY1.jpg" alt="Pizza night UGC Domino’s vlog" width="700" /></a>
 
 <strong>Prompt</strong> — VIDEO PROMPT — "Pizza Night Vlog" (UGC iPhone Style) Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, slight motion blur, TikTok/Reels en…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9) (2976 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9) (2976 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9)
 
 **Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 144. Found Footage Ghoul Attack `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082493201869348864/img/1ON-XOrowJjDPQ26.jpg" alt="Found Footage Ghoul Attack" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082493201869348864/img/1ON-XOrowJjDPQ26.jpg" alt="Found Footage Ghoul Attack" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Found footage horror, VHS glitch aesthetic SCENE Young Asian woman wearing a bright yellow tank top…</summary>
@@ -3045,14 +3045,14 @@ Smooth camera stabilization, professional three-point lighting, cheerful atmosph
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x)
 
 **Source:** [@HauntedAI](https://x.com/HauntedAI/status/2082494343063928966) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 145. Elegant White Swimwear Studio Editorial `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083372215303831552/img/w6stuCBDrBGbR2aS.jpg" alt="Elegant White Swimwear Studio Editorial" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083372215303831552/img/w6stuCBDrBGbR2aS.jpg" alt="Elegant White Swimwear Studio Editorial" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: High-fashion swimwear studio editorial SCENE Young Asian female model, long flowing dark wavy hair,…</summary>
@@ -3084,14 +3084,14 @@ Cluttered backgrounds, colored wardrobe, messy hair, low-resolution artifacts, c
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb)
 
 **Source:** [@langohi](https://x.com/langohi/status/2083372251127369947) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 146. Classroom Acoustic Guitar Session `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083332470938963968/img/JBUZQBCQIzbeuptu.jpg" alt="Classroom Acoustic Guitar Session" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083332470938963968/img/JBUZQBCQIzbeuptu.jpg" alt="Classroom Acoustic Guitar Session" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Photorealistic, casual lifestyle portrait SCENE Young woman with long ash-blonde hair and straight …</summary>
@@ -3123,14 +3123,14 @@ Camera movement, quick cuts, heavy shadows, distorted fingers, electric guitars.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp)
 
 **Source:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083333106808098959) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 147. Anime Cat Girl's Morning Dash `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082677482504015873/img/DZ3GF350WWqNbZFF.jpg" alt="Anime Cat Girl's Morning Dash" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082677482504015873/img/DZ3GF350WWqNbZFF.jpg" alt="Anime Cat Girl's Morning Dash" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 2D anime character composited into live-action photorealistic environments SCENE Anime girl with gr…</summary>
@@ -3162,14 +3162,14 @@ AVOID
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9)
 
 **Source:** [@Ayu_AI_0912](https://x.com/Ayu_AI_0912/status/2082678536649965834) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 148. Janitor vs Mechanical Mouse `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082720255126777856/img/EZf6zNnIkKAS2hQ_.jpg" alt="Janitor vs Mechanical Mouse" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082720255126777856/img/EZf6zNnIkKAS2hQ_.jpg" alt="Janitor vs Mechanical Mouse" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Slapstick comedy commercial SCENE Janitor, blue jumpsuit, green rubber boots. Mechanical toy mouse,…</summary>
@@ -3201,14 +3201,14 @@ Dark shadows, slow motion, shallow depth of field, realistic violence, unlit bac
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1)
 
 **Source:** [@kingofdairyque](https://x.com/kingofdairyque/status/2082720442549182727) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 149. Neon Warehouse K-Pop Performance `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082823695522017280/img/fA4P2jZhVX1oXKBm.jpg" alt="Neon Warehouse K-Pop Performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082823695522017280/img/fA4P2jZhVX1oXKBm.jpg" alt="Neon Warehouse K-Pop Performance" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cyberpunk grunge music video SCENE Four East Asian women. Wardrobe: graphic crop tops, black leathe…</summary>
@@ -3240,14 +3240,14 @@ Natural sunlight, acoustic instruments, slow pacing, empty environments, vintage
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx)
 
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2082823980709560554) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 150. Cheers and Laughter at Izakaya `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082806540705345536/img/YL1GnG2Xz22kU8kz.jpg" alt="Cheers and Laughter at Izakaya" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082806540705345536/img/YL1GnG2Xz22kU8kz.jpg" alt="Cheers and Laughter at Izakaya" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Photorealistic lifestyle vlog SCENE Two young East Asian women at a wooden table in a Japanese izak…</summary>
@@ -3279,14 +3279,14 @@ Cuts, camera movement, zooming, serious expressions, daylight, empty glasses.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3)
 
 **Source:** [@foxyy4i](https://x.com/foxyy4i/status/2082807563842920724) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 151. Tropical Water Park Challenge `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou"><img src="https://pbs.twimg.com/amplify_video_thumb/2083364295791013888/img/vJKHlcTzBMOjGyB7.jpg" alt="Tropical Water Park Challenge" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou"><img src="https://pbs.twimg.com/amplify_video_thumb/2083364295791013888/img/vJKHlcTzBMOjGyB7.jpg" alt="Tropical Water Park Challenge" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Photorealistic sunny action commercial SCENE Young Asian woman with long dark hair wearing a white …</summary>
@@ -3318,14 +3318,14 @@ Overcast skies, slow motion, motion blur, distorted text, missing water reflecti
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou)
 
 **Source:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083365015034483139) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 152. Charming Portrait at Serenity Cafe `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083563998734397440/img/WomcENlmZMWlbq2W.jpg" alt="Charming Portrait at Serenity Cafe" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083563998734397440/img/WomcENlmZMWlbq2W.jpg" alt="Charming Portrait at Serenity Cafe" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic photorealism, modern lifestyle portrait SCENE Young East Asian woman, long straight black…</summary>
@@ -3357,14 +3357,14 @@ Harsh directional shadows, camera panning, extreme wide shots, distorted typogra
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf)
 
 **Source:** [@poruru_ai](https://x.com/poruru_ai/status/2083564736327913541) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 153. Vibrant Tennis Stadium Selfie `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083223801370697728/img/z6-x24ZUbY2ZqYPz.jpg" alt="Vibrant Tennis Stadium Selfie" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083223801370697728/img/z6-x24ZUbY2ZqYPz.jpg" alt="Vibrant Tennis Stadium Selfie" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Photorealistic selfie video SCENE Young woman, sleek black bob hair, tight pink cutout bodysuit wit…</summary>
@@ -3396,14 +3396,14 @@ Camera cuts, zooming, unnatural body proportions, distorted text, artificial stu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8)
 
 **Source:** [@KeorUnreal](https://x.com/KeorUnreal/status/2083224045504315549) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 154. Silent Echoes of Burgundy `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87"><img src="https://pbs.twimg.com/amplify_video_thumb/2083052507987881984/img/9JJTybOc7JJNmIIp.jpg" alt="Silent Echoes of Burgundy" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87"><img src="https://pbs.twimg.com/amplify_video_thumb/2083052507987881984/img/9JJTybOc7JJNmIIp.jpg" alt="Silent Echoes of Burgundy" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D anime, cinematic rendering, photorealistic lighting SCENE Anime girl with silver twin-tails, pal…</summary>
@@ -3435,14 +3435,14 @@ Other characters, dialogue, fast-paced action, on-screen text, harsh artificial 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87)
 
 **Source:** [@nbykos](https://x.com/nbykos/status/2083054699088163201) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 155. Street Style Dance in Shibuya `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082813119949340672/img/NnyJo_SERECOGvY4.jpg" alt="Street Style Dance in Shibuya" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082813119949340672/img/NnyJo_SERECOGvY4.jpg" alt="Street Style Dance in Shibuya" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Realistic social media dance video SCENE East Asian woman in her early twenties with long brown hai…</summary>
@@ -3474,111 +3474,111 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u)
 
 **Source:** [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/2082814238549229756) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
 ### 156. Joyful Fashion Walk in Alley
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583229815066624/img/RvMQMqCNGSEpPqbg.jpg" alt="Joyful Fashion Walk in Alley" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583229815066624/img/RvMQMqCNGSEpPqbg.jpg" alt="Joyful Fashion Walk in Alley" width="700" /></a>
 
 <strong>Prompt</strong> — Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natural daylight, photorealistic, looks like real footage filmed on location, high-end fashion film aesthetic, extreme detai…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50) (1223 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50) (1223 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50)
 
 **Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2083583963512062019) · 15s · 16:9 · Character & Performance
 
 ---
 ### 157. Korean Idol VHS Beauty Vlog
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg" alt="Korean Idol VHS Beauty Vlog" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg" alt="Korean Idol VHS Beauty Vlog" width="700" /></a>
 
 <strong>Prompt</strong> — DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mirror-mounted vanity shots. CHASE, a Korean idol in her 20s with long black hair and dewy skin, casually picks up the fict…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj) (605 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj) (605 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj)
 
 **Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2083043197937209852) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 158. CEO and Cleaning Lady Drama
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas"><img src="https://pbs.twimg.com/amplify_video_thumb/2082650435702448129/img/tc349pyDIc760PJh.jpg" alt="CEO and Cleaning Lady Drama" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas"><img src="https://pbs.twimg.com/amplify_video_thumb/2082650435702448129/img/tc349pyDIc760PJh.jpg" alt="CEO and Cleaning Lady Drama" width="700" /></a>
 
 <strong>Prompt</strong> — 電影感，現代奢華風場景：高端企業總裁辦公室，夜景落地窗，昏暗奢華燈光。 角色設定： 霸總 (參考 📷圖片1 )：35歲，劍眉星目，深邃冷峻，穿黑色襯衫領口敞開，深灰色合身西裝褲。 秘書 (參考 📷圖片2 )：28歲，瓜子臉，長直黑髮，白色修身襯衫＋黑色窄裙。 清潔婦 (參考 📷圖片3 )：60歲，白髮盤髻，細框老花眼鏡，深藍色清潔制服，乾淨溫和。 音樂風格：戲劇化的BGM，融合短劇的懸疑與浪…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas) (478 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas) (478 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas)
 
 **Source:** [@drjoetw](https://x.com/drjoetw/status/2082650526362333627) · 15s · 9:16 · Character & Performance
 
 ---
 ### 159. Dark Rap Fashion Zine Music Video
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n"><img src="https://pbs.twimg.com/amplify_video_thumb/2082817352001835008/img/Csp-Dx37Ynv9DbNe.jpg" alt="Dark Rap Fashion Zine Music Video" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n"><img src="https://pbs.twimg.com/amplify_video_thumb/2082817352001835008/img/Csp-Dx37Ynv9DbNe.jpg" alt="Dark Rap Fashion Zine Music Video" width="700" /></a>
 
 <strong>Prompt</strong> — Style: dark-rap -rap music video with photoreal high-fashion polish and the texture of a scanned film magazine—high contrast without looking cheap. film scans, underground-music posters, and zine coll…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n) (457 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n) (457 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n)
 
 **Source:** [@MO_IAI](https://x.com/MO_IAI/status/2082818054598066367) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 160. Beat-Synced K-Pop Multimodal MV
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg" alt="Beat-Synced K-Pop Multimodal MV" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg" alt="Beat-Synced K-Pop Multimodal MV" width="700" /></a>
 
 <strong>Prompt</strong> — Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing to the music. Add coarse grain, glitch effects, and grunge effects. Keep the edit fast and use hard cuts only—no fades …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8) (343 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8) (343 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8)
 
 **Source:** [@aisearchio](https://x.com/aisearchio/status/2082932693613043716) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 161. Hip-Hop Character Lip-Sync Performance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064633179467776/img/_q0bXQhlvvcFUIBq.jpg" alt="Hip-Hop Character Lip-Sync Performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064633179467776/img/_q0bXQhlvvcFUIBq.jpg" alt="Hip-Hop Character Lip-Sync Performance" width="700" /></a>
 
 <strong>Prompt</strong> — hip hop music video, make the character from @Video1 dance to the beat from music @Audio1 and he lip syncs in sync with @Audio1
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb) (127 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb) (127 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb)
 
 **Source:** [@bennash](https://x.com/bennash/status/2083065653104107776) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 162. Grimy hip-hop music video mood
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032212849692672/img/f7-vkPSjS3qIey-c.jpg" alt="Grimy hip-hop music video mood" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032212849692672/img/f7-vkPSjS3qIey-c.jpg" alt="Grimy hip-hop music video mood" width="700" /></a>
 
 <strong>Prompt</strong> — 洗練されているが汚れた質感のヒップホップMV。地下雑誌、コピー機、アナログスキャン、攻撃的なビート感。
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz) (51 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz) (51 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz)
 
 **Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2083032443226030578) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 163. Would you like to dance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082612219984896000/img/OVyGlOA7F8wNsxd1.jpg" alt="Would you like to dance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082612219984896000/img/OVyGlOA7F8wNsxd1.jpg" alt="Would you like to dance" width="700" /></a>
 
 <strong>Prompt</strong> — Would you like to dance?
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4) (24 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4) (24 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4)
 
 **Source:** [@OrctonAI](https://x.com/OrctonAI/status/2082612279866986858) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -3587,111 +3587,111 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 
 ### 164. Y2K K-Pop Candy Typography Music Video
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083240391483248640/img/h0WIFWLrpMCb16FL.jpg" alt="Y2K K-Pop Candy Typography Music Video" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083240391483248640/img/h0WIFWLrpMCb16FL.jpg" alt="Y2K K-Pop Candy Typography Music Video" width="700" /></a>
 
 <strong>Prompt</strong> — Soft cute Y2K crush K-pop girl group rap MV. High fashion performance film mixed with inflated 3D candy typography graphic system. Three female idols wearing pink, blue and purple luxury Y2K stage out…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi) (6989 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi) (6989 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi)
 
 **Source:** [@LeoCreaIA](https://x.com/LeoCreaIA/status/2083240416166748313) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 165. Mona Lisa Character Selection Screen
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://pbs.twimg.com/amplify_video_thumb/2083552730233114624/img/zZaVXYLxeHSBXpiF.jpg" alt="Mona Lisa Character Selection Screen" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://pbs.twimg.com/amplify_video_thumb/2083552730233114624/img/zZaVXYLxeHSBXpiF.jpg" alt="Mona Lisa Character Selection Screen" width="700" /></a>
 
 <strong>Prompt</strong> — Use @Image 1 for the character and the menu interface style. Use @Image 2 for the game world and the in-game HUD style. Use @Image 3 as the source for every item thumbnail shown inside the panels — it…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i) (6301 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i) (6301 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i)
 
 **Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2083555429758464203) · 15s · 16:9 · VFX & Transitions
 
 ---
 ### 166. Seamless-loop cinematic warrior blade reconstruction
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082933612463210497/img/kWpEnLDDmzRCZrKR.jpg" alt="Seamless-loop cinematic warrior blade reconstruction" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082933612463210497/img/kWpEnLDDmzRCZrKR.jpg" alt="Seamless-loop cinematic warrior blade reconstruction" width="700" /></a>
 
 <strong>Prompt</strong> — @Image1 15s | 16:9 | 1440p | 24fps | PERFECT SEAMLESS LOOP [REFERENCE LOCK] Render exactly as @image1. Preserve the character exactly as shown. Do not redesign, reinterpret, or modify any aspect of he…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y) (5826 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y) (5826 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y)
 
 **Source:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 167. Lilia Astra title sequence
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo"><img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Lilia Astra title sequence" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo"><img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Lilia Astra title sequence" width="700" /></a>
 
 <strong>Prompt</strong> — 高品質アニメ映像。 Expression progression: eyes -&gt; brows -&gt; eyelids -&gt; mouth -&gt; gaze. 【参照画像とキャラクター固定】 Same girl, same person, same identity in every shot. 画像1を、この少女の顔・目・髪型・髪色・衣装・装飾・体型・装備を含む唯一の最優先参照として使用する。 全カッ…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo) (3956 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo) (3956 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo)
 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 168. Glacia Ice UI Interactive Loop
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083178671440023552/img/VMAqXAYVXbVbBr_s.jpg" alt="Glacia Ice UI Interactive Loop" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083178671440023552/img/VMAqXAYVXbVbBr_s.jpg" alt="Glacia Ice UI Interactive Loop" width="700" /></a>
 
 <strong>Prompt</strong> — 无缝循环 | 网页首屏动画 [核心概念] 她的每一个动作都对应一种网页交互行为，她不是站在网页前，而是在演示这个网页如何运作。加载、悬停、点击、滚动、拖拽、轮播、提交、刷新——八种交互依次发生，每一种都有对应的冰质界面反馈。 [人物锁定 · @image1] 完全按照该参考图呈现，不进行任何重新设计。 容貌：年轻女性，薄荷绿齐颏短发，发丝随动作轻扬；锐利的浅青碧色双眼，青色指甲，水晶坠耳饰。 服装…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi) (3509 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi) (3509 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083180088775045626) · 15s · 16:9 · VFX & Transitions
 
 ---
 ### 169. Modern warfare FPS gameplay
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064240735502337/img/Q-HhsorV1hPAqQRR.jpg" alt="Modern warfare FPS gameplay" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064240735502337/img/Q-HhsorV1hPAqQRR.jpg" alt="Modern warfare FPS gameplay" width="700" /></a>
 
 <strong>Prompt</strong> — Camera: First-person perspective at eye level with authentic handheld player movement, as if recorded directly from a modern AAA military shooter. The player carries a highly detailed assault rifle wi…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7) (3303 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7) (3303 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7)
 
 **Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 170. Colorful Paint-Weapon Selection Screen
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082877570417033217/img/Z2pmB-iMgeryc30H.jpg" alt="Colorful Paint-Weapon Selection Screen" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082877570417033217/img/Z2pmB-iMgeryc30H.jpg" alt="Colorful Paint-Weapon Selection Screen" width="700" /></a>
 
 <strong>Prompt</strong> — Use Image 1 for the character, Image 2 for the UI style, and use the uploaded weapon selection image as the reference for all paint weapons. The selectable weapons should closely match the colorful in…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr) (3103 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr) (3103 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr)
 
 **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082893990995619967) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 171. 80s Sci-Fi Robot Transformation
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082795304978673664/img/ziSEtz-3uEN1E0Kg.jpg" alt="80s Sci-Fi Robot Transformation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082795304978673664/img/ziSEtz-3uEN1E0Kg.jpg" alt="80s Sci-Fi Robot Transformation" width="700" /></a>
 
 <strong>Prompt</strong> — Use the supplied image as the exact character, costume, scanning-chair, lighting, and production-design reference. Create a dramatic mid-1980s satirical sci-fi action-film sequence with the bold, glos…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc) (2730 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc) (2730 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc)
 
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2082795364793409884) · 15s · 16:9 · VFX & Transitions
 
 ---
 ### 172. Neon Magic in the Laundromat `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym"><img src="https://pbs.twimg.com/amplify_video_thumb/2082496011889725440/img/VCp2pslUtSOy3MDS.jpg" alt="Neon Magic in the Laundromat" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym"><img src="https://pbs.twimg.com/amplify_video_thumb/2082496011889725440/img/VCp2pslUtSOy3MDS.jpg" alt="Neon Magic in the Laundromat" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: First-person mixed-media magical realism blending live-action with glowing neon 2D animations. SCEN…</summary>
@@ -3723,14 +3723,14 @@ Third-person perspective, photorealistic CGI entities, natural daylight, static 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym)
 
 **Source:** [@RenLeanna](https://x.com/RenLeanna/status/2082496075773202796) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 173. One-Take Outfit Morph on a City Street `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c"><img src="https://pbs.twimg.com/amplify_video_thumb/2083346630175064064/img/gS_Uw79DU86aXpPc.jpg" alt="One-Take Outfit Morph on a City Street" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c"><img src="https://pbs.twimg.com/amplify_video_thumb/2083346630175064064/img/gS_Uw79DU86aXpPc.jpg" alt="One-Take Outfit Morph on a City Street" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Fashion editorial morphing sequence SCENE Female model with a buzz cut and gold hoop earrings, hold…</summary>
@@ -3762,14 +3762,14 @@ Cuts, camera shake, inconsistent facial identity, warped architecture, changing 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c)
 
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2083346766154318153) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 174. Neon Street Wardrobe Transformation `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082672128848228352/img/O_Sl2Mdbmyq-r2Q9.jpg" alt="Neon Street Wardrobe Transformation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082672128848228352/img/O_Sl2Mdbmyq-r2Q9.jpg" alt="Neon Street Wardrobe Transformation" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Photorealistic street fashion video SCENE Young Asian woman with long black hair, dynamic transform…</summary>
@@ -3801,14 +3801,14 @@ Motion blur, anatomical distortions, inconsistent background architecture, muted
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q)
 
 **Source:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2082672185437544729) · 15s · 9:16 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 175. Dynamic 3D Typography VFX Montage `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082911619546324992/pu/img/EWQEBeflj1yinINd.jpg" alt="Dynamic 3D Typography VFX Montage" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082911619546324992/pu/img/EWQEBeflj1yinINd.jpg" alt="Dynamic 3D Typography VFX Montage" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: 3D typography VFX montage SCENE A rapid sequence of diverse 3D environments where thematic words ph…</summary>
@@ -3840,14 +3840,14 @@ Misspelled text, flat 2D overlays, static framing, low contrast, soft focus.
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082911709296046099) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 176. Hear Beyond Reality `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083596375414165505/img/LmwpPreHadpBXb6z.jpg" alt="Hear Beyond Reality" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083596375414165505/img/LmwpPreHadpBXb6z.jpg" alt="Hear Beyond Reality" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic tech commercial with dynamic background transitions SCENE A blonde woman wearing large ov…</summary>
@@ -3879,14 +3879,14 @@ Visible brand logos, abrupt camera cuts, poorly lit faces, mismatched eyelines, 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg)
 
 **Source:** [@jasminekhan90_](https://x.com/jasminekhan90_/status/2083596412852601051) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 177. Dark Fashion Energy Trails `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082889085627043840/pu/img/P4MTIpmtp9zwlMGU.jpg" alt="Dark Fashion Energy Trails" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082889085627043840/pu/img/P4MTIpmtp9zwlMGU.jpg" alt="Dark Fashion Energy Trails" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 4:5 | Style: Dark fashion editorial music video SCENE Two women. First woman: dark bob, black turtleneck, black f…</summary>
@@ -3918,14 +3918,14 @@ Natural sunlight, smooth cinematic panning, slow pacing, pastel colors, acoustic
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk)
 
 **Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2082889113296916632) · 15s · 1:1 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 178. Y2K Typography Idol Cuts `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2082591265296879616/img/KUxIacXKgQagDkbV.jpg" alt="Y2K Typography Idol Cuts" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2082591265296879616/img/KUxIacXKgQagDkbV.jpg" alt="Y2K Typography Idol Cuts" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Y2K editorial music video with dynamic typography and graphic overlays SCENE Two young women. One h…</summary>
@@ -3957,27 +3957,27 @@ Camera shake, natural environments, shallow depth of field, slow pacing, 3D anim
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t)
 
 **Source:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI/status/2082592331451232271) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 179. Fantasy Deck-Builder Battle UI
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="Fantasy Deck-Builder Battle UI" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="Fantasy Deck-Builder Battle UI" width="700" /></a>
 
 <strong>Prompt</strong> — Use Image 1 for the board, art direction, and lighting. Use Image 2 for the exact UI style — preserve its card shape, filigree, colors, and iconography. [0–2s] Slow isometric drift across the courtyar…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2) (1608 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2) (1608 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2)
 
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2082909383424446745) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 180. Seamless Wardrobe Morph Journey `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082688053810987008/img/ezbFcwHOAOR8oHZj.jpg" alt="Seamless Wardrobe Morph Journey" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082688053810987008/img/ezbFcwHOAOR8oHZj.jpg" alt="Seamless Wardrobe Morph Journey" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic hyper-realistic montage SCENE Young Asian woman maintaining a steady forward walk and dir…</summary>
@@ -4009,14 +4009,14 @@ Camera pans, subject looking away, jagged transition cuts, facial distortion, le
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn)
 
 **Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2082688149470470241) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 181. Infinite Journey of Seamless Transformations `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776732008869889/img/dv6yYo940i929WgB.jpg" alt="Infinite Journey of Seamless Transformations" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776732008869889/img/dv6yYo940i929WgB.jpg" alt="Infinite Journey of Seamless Transformations" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 4:3 | Style: Cinematic match-cut transformation sequence, hyper-realistic SCENE Young woman, braided crown hairst…</summary>
@@ -4048,14 +4048,14 @@ Camera cuts, facial feature changes, breaking eye contact, jerky movements, inco
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x)
 
 **Source:** [@kathae909](https://x.com/kathae909/status/2082777211094835242) · 15s · 4:3 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 182. Urban Fantasy Armor Transformation `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh"><img src="https://pbs.twimg.com/amplify_video_thumb/2083409160759365632/img/NZBEMLMytSOS8zp1.jpg" alt="Urban Fantasy Armor Transformation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh"><img src="https://pbs.twimg.com/amplify_video_thumb/2083409160759365632/img/NZBEMLMytSOS8zp1.jpg" alt="Urban Fantasy Armor Transformation" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: Cinematic urban fantasy and superhero transformation sequence with realistic VFX. SCENE Young East …</summary>
@@ -4087,33 +4087,33 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh)
 
 **Source:** [@iX00AI](https://x.com/iX00AI/status/2083410197423485347) · 15s · 9:16 · VFX & Transitions · prompt reconstructed by us
 
 ---
 ### 183. Storm-Cliff Golf Physics Challenge
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799369359695872/img/kThOwGl2hm7YGIbu.jpg" alt="Storm-Cliff Golf Physics Challenge" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799369359695872/img/kThOwGl2hm7YGIbu.jpg" alt="Storm-Cliff Golf Physics Challenge" width="700" /></a>
 
 <strong>Prompt</strong> — Minimax H3 Prompt A dramatic sports sequence begins on a lush, windswept coastal cliff during a violent rainstorm. A golfer in bright yellow rain gear stands on the tee box, gripping a driver. His sta…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm) (1032 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm) (1032 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm)
 
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082799981426037151) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 184. Ink-wash shrimp leap into futuristic city
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" alt="Ink-wash shrimp leap into futuristic city" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" alt="Ink-wash shrimp leap into futuristic city" width="700" /></a>
 
 <strong>Prompt</strong> — 水墨虾跃入未来城市——一张宣纸在夜色摩天楼之间展开，八只黑白水墨虾从纸面跃出，身体仍保留飞白与墨晕，虾须化成发光城市轨道，墨滴变成霓虹雨；画面有巨大尺度反差、强烈纵深、电影级光影和一眼停留的奇观感，不要文字、不要水印。
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd) (109 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd) (109 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd)
 
 **Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082746108493848857) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -4122,33 +4122,33 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 
 ### 185. Concrete-Plaza Kickflip Drop
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082683540429586432/img/ygYWxxtzYyXfqa26.jpg" alt="Concrete-Plaza Kickflip Drop" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082683540429586432/img/ygYWxxtzYyXfqa26.jpg" alt="Concrete-Plaza Kickflip Drop" width="700" /></a>
 
 <strong>Prompt</strong> — プロンプト SCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skateboarder rolls along the raised upper deck to its edge and launches off the TOP of a 10-step stair set with a kick…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4) (7004 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4) (7004 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4)
 
 **Source:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 186. Mumbai monsoon FPV drone flight
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082737859489046528/img/dZcqqC0uYg7jfVgJ.jpg" alt="Mumbai monsoon FPV drone flight" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082737859489046528/img/dZcqqC0uYg7jfVgJ.jpg" alt="Mumbai monsoon FPV drone flight" width="700" /></a>
 
 <strong>Prompt</strong> — Reference: Use the attached @ Image1 1 as the exact first frame and environment reference. The green drawn line is only the camera flight-path guide. Do not show the green line in the final video. Cre…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw) (3219 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw) (3219 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw)
 
 **Source:** [@CurieuxExplorer](https://x.com/CurieuxExplorer/status/2082747871103942674) · 15s · 3:4 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 187. Dynamic Urban Parkour Flow `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082735950707195904/img/b9ybN1upIYdvWb_V.jpg" alt="Dynamic Urban Parkour Flow" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082735950707195904/img/b9ybN1upIYdvWb_V.jpg" alt="Dynamic Urban Parkour Flow" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Handheld action sports parkour videography SCENE Athletic young man, short black hair, black t-shir…</summary>
@@ -4180,111 +4180,111 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk)
 
 **Source:** [@HustleXR](https://x.com/HustleXR/status/2082735985864130911) · 15s · 16:9 · Camera Motion · prompt reconstructed by us
 
 ---
 ### 188. Nightclub Breakdance Camera Orbit
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg" alt="Nightclub Breakdance Camera Orbit" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg" alt="Nightclub Breakdance Camera Orbit" width="700" /></a>
 
 <strong>Prompt</strong> — Use @ image1 as the visual bible. The board is a 16-image 4x4 storyboard shot burst, not a first frame and not a production-board layout. Create one cohesive 15-second 16:9 multi-shot music-video b-ro…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1) (1499 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1) (1499 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1)
 
 **Source:** [@luisnomad](https://x.com/luisnomad/status/2082754694250717186) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 189. Cinematic Drone Flight Over Barcelona
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083056439854309376/img/DFzzmaMiGh2jLSVR.jpg" alt="Cinematic Drone Flight Over Barcelona" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083056439854309376/img/DFzzmaMiGh2jLSVR.jpg" alt="Cinematic Drone Flight Over Barcelona" width="700" /></a>
 
 <strong>Prompt</strong> — Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Bar…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb) (1308 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb) (1308 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb)
 
 **Source:** [@Diplomeme](https://x.com/Diplomeme/status/2083056488122380671) · 15s · 1:1 · Camera Motion
 
 ---
 ### 190. Sunrise Wingsuit Canyon Run
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg" alt="Sunrise Wingsuit Canyon Run" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg" alt="Sunrise Wingsuit Canyon Run" width="700" /></a>
 
 <strong>Prompt</strong> — CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible canyon route through ancient stone monuments during sunrise wind. Fear, precision, airspeed. LOOK BIBLE Ultra-wide cliff geo…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k) (1166 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k) (1166 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k)
 
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082731549707927857) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 191. Raw Ringside Boxing Match
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032979555639296/img/hP4q_CcPc9bRsQXn.jpg" alt="Raw Ringside Boxing Match" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032979555639296/img/hP4q_CcPc9bRsQXn.jpg" alt="Raw Ringside Boxing Match" width="700" /></a>
 
 <strong>Prompt</strong> — 【风格】UGC 拳赛现场实拍（Ringside Phone Footage），真实手机竖屏手持质感（9:16 Vertical, Handheld），现场生肉感：数码变焦、轻微失焦、运动模糊、闪光灯频闪，无滤镜无调色的直出画面 【时长】15 秒 【场景】室内拳击馆比赛之夜：正规拳台、四周围绳、台上顶灯直打，台下观众黑压压一片举着手机，闪光灯此起彼伏，拍摄者站在台边第二排人群里手持手机拍摄 【角色】…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6) (1166 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6) (1166 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6)
 
 **Source:** [@johnAGI168](https://x.com/johnAGI168/status/2083033353679221043) · 15s · 9:16 · Camera Motion
 
 ---
 ### 192. Jetpack Dive Through a Mountain Gorge
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs"><img src="https://pbs.twimg.com/amplify_video_thumb/2082793987266711552/img/7NTXdwjcZVFoOsbB.jpg" alt="Jetpack Dive Through a Mountain Gorge" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs"><img src="https://pbs.twimg.com/amplify_video_thumb/2082793987266711552/img/7NTXdwjcZVFoOsbB.jpg" alt="Jetpack Dive Through a Mountain Gorge" width="700" /></a>
 
 <strong>Prompt</strong> — Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit with advanced winged jetpack on his back, dramatic high-altitude jump from a towering cliff edge, immediately diving he…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs) (820 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs) (820 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs)
 
 **Source:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2082794108998078815) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 193. Speeder Chase Across Cliff City
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="Speeder Chase Across Cliff City" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="Speeder Chase Across Cliff City" width="700" /></a>
 
 <strong>Prompt</strong> — Speeder chase across a cliff city (single continuous shot) From a monumental cliffside city carved into stone, the camera dives toward a tiny streak of light ripping along a narrow ledge-road. Lock-on…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey) (793 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey) (793 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey)
 
 **Source:** [@umesh_ai](https://x.com/umesh_ai/status/2082499539735588916) · 15s · 16:9 · Camera Motion
 
 ---
 ### 194. Dramatic Cliff Overlook Shot
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg" alt="Dramatic Cliff Overlook Shot" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg" alt="Dramatic Cliff Overlook Shot" width="700" /></a>
 
 <strong>Prompt</strong> — The shot opens tight on a beautiful woman face, wind tearing at her coat as she stands on a jagged cliff. The camera eases over her shoulder and tilts down, following her line of sight. We descend pas…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu) (492 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu) (492 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu)
 
 **Source:** [@umesh_ai](https://x.com/umesh_ai/status/2082700637444452380) · 15s · 16:9 · Camera Motion
 
 ---
 ### 195. Cinematic Warrior Orbital Shot
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083532443408113665/img/t1N0rkwgcQwFkHae.jpg" alt="Cinematic Warrior Orbital Shot" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083532443408113665/img/t1N0rkwgcQwFkHae.jpg" alt="Cinematic Warrior Orbital Shot" width="700" /></a>
 
 <strong>Prompt</strong> — slow 180-degree orbital as she rises to face the third raider, khopesh raised, torchlight painting her profile in molten gold, incense smoke swirling around her bare shoulders. Extreme low-angle track…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1) (426 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1) (426 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1)
 
 **Source:** [@Malzahran2](https://x.com/Malzahran2/status/2083532686845497568) · 15s · 16:9 · Camera Motion
 
@@ -4293,117 +4293,117 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 
 ### 196. Fantasy MMORPG Gameplay Reveal
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083085291691319296/img/zEXiiVypelJy1CeR.jpg" alt="Fantasy MMORPG Gameplay Reveal" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083085291691319296/img/zEXiiVypelJy1CeR.jpg" alt="Fantasy MMORPG Gameplay Reveal" width="700" /></a>
 
 <strong>Prompt</strong> — [FORMAT] Exactly 15 seconds, horizontal 16:9, photorealistic AAA fantasy MMORPG gameplay reveal with native synchronized game audio and music. [OMNI REFERENCES] [Image1] = Kael Ardyn, the exact playab…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb) (4443 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb) (4443 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083085328710238400) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 197. Divine Ascension Web Interface
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://pbs.twimg.com/amplify_video_thumb/2083087808584101888/img/YJQUBTO4YrEgmQRA.jpg" alt="Divine Ascension Web Interface" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://pbs.twimg.com/amplify_video_thumb/2083087808584101888/img/YJQUBTO4YrEgmQRA.jpg" alt="Divine Ascension Web Interface" width="700" /></a>
 
 <strong>Prompt</strong> — 15秒 | 16:9 | 1440p | 24fps | 无缝循环 | 网页首屏动画 [人物锁定 · @image1] 完全按照该参考图呈现，不进行任何重新设计。金色卷发、闭合的双眼、仰起的面容与安详神情；象牙色垂坠长袍；左右两枚金色玫瑰花章肩甲，含中心宝石与放射浮雕；金丝胸饰、十字垂饰、多层珠链；水晶巨剑，含金色巴洛克护手与剑柄头、缠绕剑柄，双臂高举过头横持，金色火柱自上贯入；白色大理石圆台；下…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax) (4269 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax) (4269 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax)
 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 198. Chibi Card Battle Game Spot
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083200281681244160/img/HMoAH6bI63vla0DX.jpg" alt="Chibi Card Battle Game Spot" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083200281681244160/img/HMoAH6bI63vla0DX.jpg" alt="Chibi Card Battle Game Spot" width="700" /></a>
 
 <strong>Prompt</strong> — 【图像参考 · 唯一依据】 本镜头使用上传的八张参考图。Image1至Image6为六位角色的唯一角色参考，Image7为场景的唯一参考，Image8为游戏界面的唯一参考。 Image1＝Capychan：水豚毛绒头套，头顶菠萝冠，金发带绿色挑染，左眼翠绿右眼天蓝，亮黄色10号球衣。 Image2＝Lionchan：狮子毛绒头套，头顶白玫瑰，橙色麻花辫带蓝色挑染，左眼蓝宝石右眼红宝石，白色10号球…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg) (4053 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg) (4053 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg)
 
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2083203349739192726) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 199. Industrial Dark Pop Performance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853327927209984/img/kXZufT3tsmRomY-M.jpg" alt="Industrial Dark Pop Performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853327927209984/img/kXZufT3tsmRomY-M.jpg" alt="Industrial Dark Pop Performance" width="700" /></a>
 
 <strong>Prompt</strong> — 15 seconds, 16:9 dark-pop music video performance. Use @Image 1 as the strict identity reference for the three women — faces, hair and wardrobe unchanged in every shot. Use @Image 2 as the reference f…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y) (3222 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y) (3222 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y)
 
 **Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2082854898907931081) · 15s · 1:1 · Reference & Consistency
 
 ---
 ### 200. Surreal 3D Cartoon Traveler
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549060335226880/img/pfjp8U3C5-uRYLTS.jpg" alt="Surreal 3D Cartoon Traveler" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549060335226880/img/pfjp8U3C5-uRYLTS.jpg" alt="Surreal 3D Cartoon Traveler" width="700" /></a>
 
 <strong>Prompt</strong> — Use [Ref_Image1] as the strict character identity, design, wardrobe, color and multi-angle reference. Its six views depict the same traveler. Reconstruct one coherent 3D character without averaging or…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39) (2664 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39) (2664 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082549084381126957) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 201. Sci-Fi Cyborg Confrontation
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082519284975054848/img/ozktwMKlrP63V3TA.jpg" alt="Sci-Fi Cyborg Confrontation" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082519284975054848/img/ozktwMKlrP63V3TA.jpg" alt="Sci-Fi Cyborg Confrontation" width="700" /></a>
 
 <strong>Prompt</strong> — Use @Image1 as the cloaked avenger identity lock and wardrobe reference. Use @Image2 as the environment, lighting, and street layout reference. Use @Image3 as the cyborg executioner identity lock, arm…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk) (2151 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk) (2151 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk)
 
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082519983842595100) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 202. Seamless Character 360 Orbit
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01"><img src="https://pbs.twimg.com/amplify_video_thumb/2082534851224514560/img/I05cpv8kdt-8wE2x.jpg" alt="Seamless Character 360 Orbit" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01"><img src="https://pbs.twimg.com/amplify_video_thumb/2082534851224514560/img/I05cpv8kdt-8wE2x.jpg" alt="Seamless Character 360 Orbit" width="700" /></a>
 
 <strong>Prompt</strong> — 🖼️ OMNI REFERENCE — [Ref_Image1] Use [Ref_Image1] as the strict character identity, wardrobe and multi-angle reference. Preserve Freya’s exact face, blue eyes, long platinum-blonde hair with darker r…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01) (2010 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01) (2010 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01)
 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082534878139355561) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 203. Cozy Winter Cabin Memories
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082501768018366464/img/3UGFF4kJ7fukMPBn.jpg" alt="Cozy Winter Cabin Memories" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082501768018366464/img/3UGFF4kJ7fukMPBn.jpg" alt="Cozy Winter Cabin Memories" width="700" /></a>
 
 <strong>Prompt</strong> — Super casual real smartphone home video footage, cozy winter cabin gathering with snow visible outside, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q) (1614 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q) (1614 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q)
 
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2082502202539810991) · 15s · 16:9 · Reference & Consistency
 
 ---
 ### 204. Photoreal Character Turnaround Sheet
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499628524806144/img/RO3FacAydnwOLvMB.jpg" alt="Photoreal Character Turnaround Sheet" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499628524806144/img/RO3FacAydnwOLvMB.jpg" alt="Photoreal Character Turnaround Sheet" width="700" /></a>
 
 <strong>Prompt</strong> — ※実写ver。アニメキャラの場合はリプ参照（↓） ────────────────── 【スタイル指定】 - 添付画像のデザイン（衣装・髪型・体格・配色）を完全に維持したまま、実在の人物が衣装を着用して撮影したようなフォトリアルな実写に変換する - 生地・肌・髪・金属などの質感は写真として自然なリアリティで再現する - デザインそのものの変更（衣装や小物の追加・削除）はしない - スタジオ写真撮影…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2) (788 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2) (788 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2)
 
 **Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082501605803597837) · 15s · 16:9 · Reference & Consistency · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -4412,46 +4412,46 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 
 ### 205. Cyber Grunge K-Pop MV
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj"><img src="https://pbs.twimg.com/media/HOiNPd4bMAAp5fu.jpg" alt="Cyber Grunge K-Pop MV" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj"><img src="https://pbs.twimg.com/media/HOiNPd4bMAAp5fu.jpg" alt="Cyber Grunge K-Pop MV" width="700" /></a>
 
 <strong>Prompt</strong> — 15s K-pop 女团 MV 提示词 主体：三人 K-pop 女团，人物形象与当前角色设定一致。 SOL：黑色长直发，冷静强势，黑色结构短西装、低腰百褶短裙、黑色长靴。 LUNA：银灰色短狼尾，冷感疏离，银灰短款机能夹克、黑色连体内搭、不对称裙裤、厚底靴。 CORONA：深红棕长卷发，带细辫，叛逆锋利，红黑赛车短夹克、低腰裙裤、绑带长靴。 场景：白色无缝影棚被重新处理成地下音乐杂志拍摄现场。背景…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj) (3288 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj) (3288 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj)
 
 **Source:** [@liandeli2](https://x.com/liandeli2/status/2083070647660609837) · 15s · 16:9 · Video Editing
 
 ---
 ### 206. 3x3 contact sheet female rapper grid performance
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15"><img src="https://pbs.twimg.com/amplify_video_thumb/2082846410349703168/img/X1SVoW46ix7iEcMr.jpg" alt="3x3 contact sheet female rapper grid performance" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15"><img src="https://pbs.twimg.com/amplify_video_thumb/2082846410349703168/img/X1SVoW46ix7iEcMr.jpg" alt="3x3 contact sheet female rapper grid performance" width="700" /></a>
 
 <strong>Prompt</strong> — Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separate portraits of the same female rapper, each in a different location. Treat every panel as its own live video cell with…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15) (2306 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15) (2306 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15)
 
 **Source:** [@lukasersil](https://x.com/lukasersil/status/2082847686185672833) · 15s · 16:9 · Video Editing · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 207. Hard sci-fi desert 3x3 grid animation sequence
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479"><img src="https://pbs.twimg.com/amplify_video_thumb/2082610596818685952/img/atJYEAotpCKnNMEn.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479"><img src="https://pbs.twimg.com/amplify_video_thumb/2082610596818685952/img/atJYEAotpCKnNMEn.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence" width="700" /></a>
 
 <strong>Prompt</strong> — Epic desert sci-fi, harsh golden-hour light, volumetric sand haze, anamorphic lens flares, subtle handheld drift, heavy atmospheric particles, 35mm film texture. Use the provided 3x3 grid as the only …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479) (2054 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479) (2054 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479)
 
 **Source:** [@techhalla](https://x.com/techhalla/status/2082611421225845158) · 15s · 1:1 · Video Editing · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 208. Boundless Journey Across Surreal Worlds `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869570709417984/img/BhZa3fohdWz8mtzd.jpg" alt="Boundless Journey Across Surreal Worlds" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869570709417984/img/BhZa3fohdWz8mtzd.jpg" alt="Boundless Journey Across Surreal Worlds" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic surreal environment transition montage SCENE Young woman, dark wavy hair, white satin dre…</summary>
@@ -4483,14 +4483,14 @@ Wardrobe changes, character morphing, camera shake, shallow depth of field obscu
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj)
 
 **Source:** [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2082869776926552278) · 15s · 16:9 · Video Editing · prompt reconstructed by us
 
 ---
 ### 209. Avant-Garde Kinetic Fashion Lookbook `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083536033929416704/pu/img/wXY4DTske5TLJOYI.jpg" alt="Avant-Garde Kinetic Fashion Lookbook" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083536033929416704/pu/img/wXY4DTske5TLJOYI.jpg" alt="Avant-Garde Kinetic Fashion Lookbook" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: High-fashion editorial lookbook with bold kinetic typography SCENE Female model with sleek hair wea…</summary>
@@ -4522,14 +4522,14 @@ Soft focus, warm natural sunlight, organic environments, slow crossfades, shaky 
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil)
 
 **Source:** [@zahra4sure](https://x.com/zahra4sure/status/2083536105068966324) · 15s · 16:9 · Video Editing · prompt reconstructed by us
 
 ---
 ### 210. Surreal Crimson Sports Fusion `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082784127728656384/img/ORRA44iM270MVkTh.jpg" alt="Surreal Crimson Sports Fusion" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082784127728656384/img/ORRA44iM270MVkTh.jpg" alt="Surreal Crimson Sports Fusion" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 9:16 | Style: High-energy, surreal sports montage SCENE Multiple athletes including a female soccer player in a g…</summary>
@@ -4561,20 +4561,20 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8)
 
 **Source:** [@ibexdream](https://x.com/ibexdream/status/2082785689758826676) · 15s · 9:16 · Video Editing · prompt reconstructed by us
 
 ---
 ### 211. DV Camcorder Gym Vlog POV
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083048714990755840/img/DUZs0Q7QbrW1xq5v.jpg" alt="DV Camcorder Gym Vlog POV" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083048714990755840/img/DUZs0Q7QbrW1xq5v.jpg" alt="DV Camcorder Gym Vlog POV" width="700" /></a>
 
 <strong>Prompt</strong> — CAMERA: DV 16mm tape camcorder POV. CHASE films herself, occasionally propping the camera on a wall or gym bag. Natural handheld shake, imperfect framing, delayed focus, clumsy zooms, face occasionall…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp) (1257 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp) (1257 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp)
 
 **Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · 15s · 16:9 · Video Editing
 
@@ -4583,46 +4583,46 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 
 ### 212. Desert Standoff — 15s single take
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082560936645152769/img/1mJ8RYmFcQdGZZbA.jpg" alt="Desert Standoff — 15s single take" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082560936645152769/img/1mJ8RYmFcQdGZZbA.jpg" alt="Desert Standoff — 15s single take" width="700" /></a>
 
 <strong>Prompt</strong> — SCENE CONTEXT A middle-aged man stands in the middle of a dirt road in open desert and holds a pistol level at the person filming him. He gives an instruction, is answered by name, and warns them not …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z) (6078 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z) (6078 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z)
 
 **Source:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · 15s · 16:9 · Dialogue & Sound
 
 ---
 ### 213. 1980s open-source family comedy
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic"><img src="https://pbs.twimg.com/amplify_video_thumb/2083019948671303680/img/02M_fWKQOjMaBUCp.jpg" alt="1980s open-source family comedy" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic"><img src="https://pbs.twimg.com/amplify_video_thumb/2083019948671303680/img/02M_fWKQOjMaBUCp.jpg" alt="1980s open-source family comedy" width="700" /></a>
 
 <strong>Prompt</strong> — Use the supplied image as the exact opening frame. Create a hilarious, high-budget 1980s live-action family comedy movie scene, photographed on a real soundstage with practical robot costumes, animatr…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic) (1925 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic) (1925 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic)
 
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2083020024340693185) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 214. Live-action relationship confession drama scene
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082547031676014592/img/Z7cGjkHpS19_35ja.jpg" alt="Live-action relationship confession drama scene" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082547031676014592/img/Z7cGjkHpS19_35ja.jpg" alt="Live-action relationship confession drama scene" width="700" /></a>
 
 <strong>Prompt</strong> — Grounded photorealistic live-action relationship drama, natural 24fps motion. FORMAT Two connected 15-second clips, 16:9, grounded photorealistic live-action relationship drama, natural 24fps motion. …
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw) (1923 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw) (1923 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw)
 
 **Source:** [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA/status/2082548512286224793) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 215. Echoes of a Midnight Call `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083122565141372928/img/QYmtLqa12GSUy-LU.jpg" alt="Echoes of a Midnight Call" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083122565141372928/img/QYmtLqa12GSUy-LU.jpg" alt="Echoes of a Midnight Call" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Cinematic drama, emotional cross-cutting dialogue SCENE A distressed woman with an updo wearing a b…</summary>
@@ -4654,59 +4654,59 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi)
 
 **Source:** [@magnific](https://x.com/magnific/status/2083122600738521398) · 15s · 16:9 · Dialogue & Sound · prompt reconstructed by us
 
 ---
 ### 216. Korean Noir Crime Teaser
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790293515186176/img/dD0I_gut4aCMoCLt.jpg" alt="Korean Noir Crime Teaser" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790293515186176/img/dD0I_gut4aCMoCLt.jpg" alt="Korean Noir Crime Teaser" width="700" /></a>
 
 <strong>Prompt</strong> — 16:9, 15s, hyper-realistic Korean noir crime teaser. A rain-soaked Korean woman (late 20s, trench coat) enters an abandoned underground nightclub searching for her missing sister. A scarred crime boss…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr) (682 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr) (682 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr)
 
 **Source:** [@doctorwasif](https://x.com/doctorwasif/status/2082790356983447606) · 15s · 16:9 · Dialogue & Sound
 
 ---
 ### 217. Porto Francesinha Comedy Recipe
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083172712868880384/img/3SQKBDnjoOqfejd8.jpg" alt="Porto Francesinha Comedy Recipe" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083172712868880384/img/3SQKBDnjoOqfejd8.jpg" alt="Porto Francesinha Comedy Recipe" width="700" /></a>
 
 <strong>Prompt</strong> — Style: &lt;image_1&gt; (don't reproduce the image, use it only as aesthetic reference) Edit: Comedy, fast paced, mixing close ups, medium shots and wide shots from uncanny and tilted angles. Super-imposed t…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg) (397 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg) (397 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg)
 
 **Source:** [@imagineFERA](https://x.com/imagineFERA/status/2083172752790282615) · 15s · 21:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 218. Handheld Two-Person Argument
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek"><img src="https://pbs.twimg.com/amplify_video_thumb/2082770937364307968/img/usJDD_Eua58Y7FMu.jpg" alt="Handheld Two-Person Argument" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek"><img src="https://pbs.twimg.com/amplify_video_thumb/2082770937364307968/img/usJDD_Eua58Y7FMu.jpg" alt="Handheld Two-Person Argument" width="700" /></a>
 
 <strong>Prompt</strong> — Two characters arguing in English. Make the emotion feel very realistic angry, tense, the friction between them should be palpable. Shaky handheld camera. No music.
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek) (165 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek) (165 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek)
 
 **Source:** [@heydin_ai](https://x.com/heydin_ai/status/2082774662342377881) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 219. Condor Heroes characters teach English word dream
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082762661658517504/img/sWd3Bq-GgqUSxt1G.jpg" alt="Condor Heroes characters teach English word dream" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082762661658517504/img/sWd3Bq-GgqUSxt1G.jpg" alt="Condor Heroes characters teach English word dream" width="700" /></a>
 
 <strong>Prompt</strong> — 神雕侠侣主角趣味讲单词 dream 教程
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc) (20 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc) (20 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc)
 
 **Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082762739697815758) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
@@ -4715,33 +4715,33 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 
 ### 220. Giant koi park incident
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744154485075969/img/gJ5WCyroAu3j4rBJ.jpg" alt="Giant koi park incident" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744154485075969/img/gJ5WCyroAu3j4rBJ.jpg" alt="Giant koi park incident" width="700" /></a>
 
 <strong>Prompt</strong> — 15-second, 16:9 vertical, continuous single-take video that looks like authentic smartphone footage accidentally captured by a passerby in a city park. Overcast natural daylight, subtle handheld shake…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550) (2623 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550) (2623 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550)
 
 **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · 15s · 16:9 · Animals · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 221. Macaw Scream in Extreme Slow Motion
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083142442266583040/img/t7uwqkC_NFOB8M-D.jpg" alt="Macaw Scream in Extreme Slow Motion" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083142442266583040/img/t7uwqkC_NFOB8M-D.jpg" alt="Macaw Scream in Extreme Slow Motion" width="700" /></a>
 
 <strong>Prompt</strong> — /gen prompt: Cinematic wildlife documentary, vertical framing, subject centered, National Geographic award-winning cinematography, anamorphic lens, rich natural color, natural sunlight, natural motion…
 
-[**Read the full prompt →**](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn) (1768 chars, author's own)
+[**Read the full prompt →**](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn) (1768 chars, author's own)
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn)
 
 **Source:** [@yuvalav](https://x.com/yuvalav/status/2083143771508592938) · 15s · 21:9 · Animals · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
 ### 222. Giant Lizard on the Gate `reconstructed`
 
-<a href="https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui"><img src="https://pbs.twimg.com/amplify_video_thumb/2082548491986067456/img/arUSZ2oq0eQMm3qR.jpg" alt="Giant Lizard on the Gate" width="700" /></a>
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui"><img src="https://pbs.twimg.com/amplify_video_thumb/2082548491986067456/img/arUSZ2oq0eQMm3qR.jpg" alt="Giant Lizard on the Gate" width="700" /></a>
 
 <details>
 <summary><strong>Prompt</strong> — Duration: 15 seconds | Aspect ratio: 16:9 | Style: Realistic everyday vlog video SCENE Three young Asian women wearing casual summer clothes including…</summary>
@@ -4773,7 +4773,7 @@ Unrealistic CGI effects, studio lighting, cinematic color grading, distorted ana
 
 </details>
 
-[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui)
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui)
 
 **Source:** [@mxvdxn](https://x.com/mxvdxn/status/2082549668068966894) · 15s · 16:9 · Animals · prompt reconstructed by us
 

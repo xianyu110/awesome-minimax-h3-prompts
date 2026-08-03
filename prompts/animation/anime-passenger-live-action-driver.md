@@ -2,9 +2,9 @@
 
 - **Category:** Animation & Anime
 - **Aspect ratio:** 16:9
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru/status/2082558386441461989) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k
 
 ## Prompt
 

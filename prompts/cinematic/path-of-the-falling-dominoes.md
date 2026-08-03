@@ -2,9 +2,9 @@
 
 - **Category:** Cinematic
 - **Aspect ratio:** 16:9
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@altfortomorrow](https://x.com/altfortomorrow/status/2082902357269184803) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63p9e000h04jxuufyrl57
 
 ## Prompt
 

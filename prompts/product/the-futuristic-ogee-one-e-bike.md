@@ -2,9 +2,9 @@
 
 - **Category:** Product & Ads
 - **Aspect ratio:** 16:9
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082897903501148322) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l
 
 ## Prompt
 

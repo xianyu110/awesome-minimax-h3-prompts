@@ -2,9 +2,9 @@
 
 - **Category:** VFX & Transitions
 - **Aspect ratio:** 9:16
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@iX00AI](https://x.com/iX00AI/status/2083410197423485347) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh
 
 ## Prompt
 

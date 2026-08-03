@@ -2,9 +2,9 @@
 
 - **Category:** Video Editing
 - **Aspect ratio:** 16:9
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@zahra4sure](https://x.com/zahra4sure/status/2083536105068966324) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil
 
 ## Prompt
 

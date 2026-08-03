@@ -2,9 +2,9 @@
 
 - **Category:** Cinematic
 - **Aspect ratio:** 1:1
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@Dustfinger2077](https://x.com/Dustfinger2077/status/2082591632302485764) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63lba000904jxc8vnpqco
 
 ## Prompt
 

@@ -2,9 +2,9 @@
 
 - **Category:** Character & Performance
 - **Aspect ratio:** 9:16
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083333106808098959) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp
 
 ## Prompt
 

@@ -2,9 +2,9 @@
 
 - **Category:** Cinematic
 - **Aspect ratio:** 16:9
-- **Source:** reconstructed by apimodels.app from the finished clip — this is a writing reference, **not** the original author prompt.
+- **Source:** reconstructed by tryminimax.asia from the finished clip — this is a writing reference, **not** the original author prompt.
 - **Reference clip:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2082906286094696742) (video by its author, linked for reference only)
-- **In the gallery:** https://apimodels.app/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6
+- **In the gallery:** https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5xz000904jozhsvvnc6
 
 ## Prompt
 
