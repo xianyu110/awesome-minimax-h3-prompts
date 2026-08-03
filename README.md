@@ -2,13 +2,13 @@
 
 [TryMiniMax](https://tryminimax.asia/)
 
+A curated collection of **MiniMax H3** (Hailuo 3.0) video prompts. Each prompt is shown
+alongside the clip it produced, with creator credit and a link to the original post.
+
 [![Gallery](https://img.shields.io/badge/Browse%20224%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
 [![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
 [![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-
-Curated **MiniMax H3** (Hailuo 3.0) video prompts — every one shown next to the clip it
-actually produced, with credit and a link to the creator's original post.
 
 **[中文说明](./README.zh-CN.md)** · **[Browse all 222 prompts](./prompts/GALLERY.md)** ·
 **[Watch them with sound](https://tryminimax.asia/minimax-h3-prompts)**
