@@ -8,7 +8,7 @@
 
 所以我做了一个 MiniMax H3 视频提示词合集网站：
 
-**https://tryminimax.asia/**
+**https://tryminimax.asia/zh/minimax-h3-prompts**
 
 项目代码也已经开源：
 
@@ -97,7 +97,7 @@
 
 如果你正在使用 MiniMax H3，或者刚开始尝试 AI 视频生成，可以从这里开始：
 
-- 网站：https://tryminimax.asia/
+- 网站：https://tryminimax.asia/zh/minimax-h3-prompts
 - 开源仓库：https://github.com/xianyu110/awesome-minimax-h3-prompts
 
 希望这个合集能帮你少走一点弯路，也找到更多属于自己的视频创作方式。
