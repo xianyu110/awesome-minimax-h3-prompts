@@ -5,7 +5,7 @@
 这是一个 **MiniMax H3**（海螺 3.0）视频提示词合集。每条提示词都配有实际生成的视频，
 并标注作者信息和原始帖子链接，方便浏览、学习和复用。
 
-[![画廊](https://img.shields.io/badge/224%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
+[![画廊](https://img.shields.io/badge/236%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
 [![统一 API](https://img.shields.io/badge/一个%20API-85%2B%20模型-3158E8)](https://tryminimax.asia/zh/models)
 [![价格](https://img.shields.io/badge/图片%20%240.01%20起%20%C2%B7%20视频%20%240.044%2F秒起-1f9e5f)](https://tryminimax.asia/zh/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -13,7 +13,7 @@
 **MiniMax H3**（海螺 3.0）提示词库。每条提示词都配着它真正生成出来的那段视频，
 署名作者，链回原帖。
 
-**[English](./README.md)** · **[看全部 222 条](./prompts/GALLERY.zh-CN.md)** ·
+**[English](./README.md)** · **[看全部 236 条](./prompts/GALLERY.zh-CN.md)** ·
 **[到画廊里带声音看](https://tryminimax.asia/zh/minimax-h3-prompts)**
 
 ---
@@ -38,19 +38,19 @@
 
 | | 数量 | 是什么 |
 |---|---|---|
-| **作者原文** | 150 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
+| **作者原文** | 164 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
 | **AI 反推** | 72 | 作者没公开提示词的片子，我们抽 8 帧交给视觉模型，写出最可能复现这段画面的提示词。**MIT，全文就在这个仓库里。** |
 
 反推描述的是**成片**，恢复不了负面约束、准确台词和参考图工作流 —— 它是写法参考，不是作者的原稿，
 每一条都标了 `AI 反推`。
 
-**从哪找到的。** 135 条是我们自己在 X 上采的；另外 87 条是通过
+**从哪找到的。** 149 条是我们自己在 X 上采的；另外 87 条是通过
 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 找到的，他们先把这些整理了出来，这些条目的来源行上都带一个 `经` 的署名。
 不论哪种，提示词都归作者本人 —— 整理是叠在作者劳动之上的第二份劳动，两边都点名。
 所有视频都是我们自己从原帖重新采的，不占用别人的 CDN。
 
-**语言。** 提示词按作者写它时用的语言原样保存：英文 198 条、中文 13 条、日文 11 条。
+**语言。** 提示词按作者写它时用的语言原样保存：英文 210 条、中文 13 条、日文 13 条。
 我们不做翻译 —— 翻译过的提示词跑出来不是同一段片子。
 
 作者们：想撤下某一条，开个 issue 就行。
@@ -59,7 +59,7 @@
 
 ## 精选
 
-作者原文里最长的 12 条。**[看全部 222 条 →](./prompts/GALLERY.zh-CN.md)**
+作者原文里最长的 12 条。**[看全部 236 条 →](./prompts/GALLERY.zh-CN.md)**
 
 ### 1. 混凝土广场的滑板落地
 
@@ -217,6 +217,28 @@
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · 参考图与一致性
 
 ---
+
+## 本轮新增 —— 2026 年 9 月
+
+从 X 新采集的 14 条作者原文提示词（发布于 2026-09-12 至 09-27），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
+
+| # | 标题 | 分类 | 作者 | 时长/比例 | 互动 |
+|---|---|---|---|---|---|
+| 1 | [角色细节蒙太奇：20 个镜头后才露脸](https://x.com/aimikoda/status/2100258514132217859) · [提示词](https://x.com/aimikoda/status/2100258742059069739) | 参考图与一致性 | [@aimikoda](https://x.com/aimikoda) | 15s · 1:1 | 3266 赞 · 2738 收藏 |
+| 2 | [身后的镜头：雨夜楼梯悬疑短片](https://x.com/ou_zhen599/status/2101258477813584121) · [提示词](https://x.com/ou_zhen599/status/2101259032745201952) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 471 赞 · 386 收藏 |
+| 3 | [猫咪一个喷嚏打乱桌面图标](https://x.com/Strength04_X/status/2101868703482876376) · [提示词](https://x.com/Strength04_X/status/2101869064616542690) | 动物 | [@Strength04_X](https://x.com/Strength04_X) | 10s · 16:9 | 458 赞 · 159 收藏 |
+| 4 | [Q 版精灵图 16 帧跳舞（4×4 精灵图转视频）](https://x.com/shimotti_ai/status/2099792455902404977) · [提示词](https://x.com/shimotti_ai/status/2099792462042837259) | 动画与二次元 | [@shimotti_ai](https://x.com/shimotti_ai) | 10s · 1:1 | 415 赞 · 518 收藏 |
+| 5 | [巨型广告牌颜料飞出又回填](https://x.com/ai_lifehack55/status/2101177915849539729) · [提示词](https://x.com/ai_lifehack55/status/2101177915849539729) | 特效与转场 | [@ai_lifehack55](https://x.com/ai_lifehack55) | 15s · 1:1 | 184 赞 · 81 收藏 |
+| 6 | [机场接机：人潮与狗仔中保持人物一致](https://x.com/kentdhani/status/2104131439428247769) · [提示词](https://x.com/kentdhani/status/2104131443945533596) | 参考图与一致性 | [@kentdhani](https://x.com/kentdhani) | 8s · 16:9 | 165 赞 · 197 收藏 |
+| 7 | [一滴墨水生长成文字](https://x.com/azed_ai/status/2099135809316409686) · [提示词](https://x.com/azed_ai/status/2099135821848981686) | 特效与转场 | [@azed_ai](https://x.com/azed_ai) | 15s · 16:9 | 128 赞 · 69 收藏 |
+| 8 | [巴黎巨型章鱼：一段素材生成六个机位](https://x.com/steftranquillin/status/2102318276642553907) · [提示词](https://x.com/steftranquillin/status/2102318279863718257) | 视频编辑 | [@steftranquillin](https://x.com/steftranquillin) | 10s · 4:5 | 127 赞 · 156 收藏 |
+| 9 | [熔岩冲出影院银幕（手机 POV）](https://x.com/blizaine/status/2099267920706609585) · [提示词](https://x.com/blizaine/status/2099267925274177834) | 电影与叙事 | [@blizaine](https://x.com/blizaine) | 14s · 9:16 | 67 赞 · 29 收藏 |
+| 10 | [两指捏小毁灭陨石（日式动画喜剧）](https://x.com/tokyo_Valentine/status/2100189410646241626) · [提示词](https://x.com/tokyo_Valentine/status/2100189416492802079) | 对白与音效 | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 15s · 9:16 | 39 赞 · 18 收藏 |
+| 11 | [VOID：咒术回战风动态片头](https://x.com/TechieBySA/status/2100592890380439923) · [提示词](https://x.com/TechieBySA/status/2100592896491606152) | 动画与二次元 | [@TechieBySA](https://x.com/TechieBySA) | 15s · 16:9 | 36 赞 · 10 收藏 |
+| 12 | [赛博动漫 AMV：立体字与急推镜头](https://x.com/IqrasaifiAI/status/2100376185200947214) · [提示词](https://x.com/IqrasaifiAI/status/2100376186408858054) | 运镜 | [@IqrasaifiAI](https://x.com/IqrasaifiAI) | 15s · 16:9 | 36 赞 · 25 收藏 |
+| 13 | [金融科技动态图形：信用卡变金币](https://x.com/egeberkina/status/2100147377671655632) · [提示词](https://x.com/egeberkina/status/2100147380851024153) | 广告与产品 | [@egeberkina](https://x.com/egeberkina) | 14s · 16:9 | 27 赞 · 13 收藏 |
+| 14 | [拼贴画活起来：每一格独立运动](https://x.com/zeng_wt/status/2099103139068608933) · [提示词](https://x.com/zeng_wt/status/2099103146408583251) | 特效与转场 | [@zeng_wt](https://x.com/zeng_wt) | 15s · 16:9 | 11 赞 · 3 收藏 |
+
 ---
 
 > **喜欢这些片子？** 同样的提示词你可以自己跑 ——
@@ -230,7 +252,7 @@
 
 | 路径 | 内容 |
 |---|---|
-| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 222 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
+| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 236 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
 | [`prompts/GALLERY.md`](./prompts/GALLERY.md) | 同一份画廊的英文版 |
 | [`prompts/<分类>/`](./prompts) | 72 条 AI 反推提示词的单文件版本，按用途分目录，方便 grep，MIT |
 

@@ -5,12 +5,12 @@
 A curated collection of **MiniMax H3** (Hailuo 3.0) video prompts. Each prompt is shown
 alongside the clip it produced, with creator credit and a link to the original post.
 
-[![Gallery](https://img.shields.io/badge/Browse%20224%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
+[![Gallery](https://img.shields.io/badge/Browse%20236%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
 [![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
 [![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**[中文说明](./README.zh-CN.md)** · **[Browse all 222 prompts](./prompts/GALLERY.md)** ·
+**[中文说明](./README.zh-CN.md)** · **[Browse all 236 prompts](./prompts/GALLERY.md)** ·
 **[Watch them with sound](https://tryminimax.asia/minimax-h3-prompts)**
 
 ---
@@ -39,22 +39,22 @@ generative editing.
 
 | | Count | What it is |
 |---|---|---|
-| **Author-written** | 150 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
+| **Author-written** | 164 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
 | **Reconstructed** | 72 | For clips whose creator never published a prompt, we sample 8 frames, hand them to a vision model, and write the prompt that would most plausibly reproduce the clip. **MIT, full text in this repo.** |
 
 A reconstruction describes the *output*. It cannot recover negative constraints, exact
 dialogue or reference-image workflows — it is a writing reference, not the creator's
 prompt, and every one is labelled `reconstructed`.
 
-**Where we found them.** 135 entries we collected ourselves from X. The other 87 we found
+**Where we found them.** 149 entries we collected ourselves from X. The other 87 we found
 through [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts),
 whose maintainers indexed them first; each of those carries a `via` credit on its Source
 line. The prompts belong to the creators either way — a collection is a second piece of
 work on top of theirs, and both get named. Every video in this repo we re-collected from
 the original post ourselves, so nothing here leans on anyone else's CDN.
 
-**Languages.** Prompts are stored in the language their author wrote them in — 198 English,
-13 Chinese, 11 Japanese. We do not translate them: a translated prompt does not generate
+**Languages.** Prompts are stored in the language their author wrote them in — 210 English,
+13 Chinese, 13 Japanese. We do not translate them: a translated prompt does not generate
 the same clip.
 
 Creators: if you would like an entry removed, open an issue.
@@ -63,7 +63,7 @@ Creators: if you would like an entry removed, open an issue.
 
 ## Featured prompts
 
-The twelve longest author-written prompts in the library. **[See all 222 →](./prompts/GALLERY.md)**
+The twelve longest author-written prompts in the library. **[See all 236 →](./prompts/GALLERY.md)**
 
 ### 1. Concrete-Plaza Kickflip Drop
 
@@ -221,6 +221,28 @@ The twelve longest author-written prompts in the library. **[See all 222 →](./
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · Reference & Consistency
 
 ---
+
+## New this round — September 2026
+
+14 author-written prompts collected from X (posted 12–27 Sep 2026), all with a result video and the full prompt published by the creator. Each is also in the [gallery](./prompts/GALLERY.md) under its use case. Credit and copyright stay with the creators — click through to the original post for the full text.
+
+| # | Title | Category | Creator | Length | Engagement |
+|---|---|---|---|---|---|
+| 1 | [Character Detail Montage — 20-Shot Face Reveal](https://x.com/aimikoda/status/2100258514132217859) · [prompt](https://x.com/aimikoda/status/2100258742059069739) | Reference & Consistency | [@aimikoda](https://x.com/aimikoda) | 15s · 1:1 | 3266 likes · 2738 bookmarks |
+| 2 | [The Camera Behind Her — Rainy Stair Suspense](https://x.com/ou_zhen599/status/2101258477813584121) · [prompt](https://x.com/ou_zhen599/status/2101259032745201952) | Cinematic & Story | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 471 likes · 386 bookmarks |
+| 3 | [Cat Sneezes the Desktop Icons Loose](https://x.com/Strength04_X/status/2101868703482876376) · [prompt](https://x.com/Strength04_X/status/2101869064616542690) | Animals | [@Strength04_X](https://x.com/Strength04_X) | 10s · 16:9 | 458 likes · 159 bookmarks |
+| 4 | [Chibi Sprite-Sheet Dance (4×4 Sheet → Video)](https://x.com/shimotti_ai/status/2099792455902404977) · [prompt](https://x.com/shimotti_ai/status/2099792462042837259) | Animation & Anime | [@shimotti_ai](https://x.com/shimotti_ai) | 10s · 1:1 | 415 likes · 518 bookmarks |
+| 5 | [Paint Bursts Out of a Giant Billboard](https://x.com/ai_lifehack55/status/2101177915849539729) · [prompt](https://x.com/ai_lifehack55/status/2101177915849539729) | VFX & Transitions | [@ai_lifehack55](https://x.com/ai_lifehack55) | 15s · 1:1 | 184 likes · 81 bookmarks |
+| 6 | [Airport Arrival Through Fans & Paparazzi (Ref2V)](https://x.com/kentdhani/status/2104131439428247769) · [prompt](https://x.com/kentdhani/status/2104131443945533596) | Reference & Consistency | [@kentdhani](https://x.com/kentdhani) | 8s · 16:9 | 165 likes · 197 bookmarks |
+| 7 | [Ink-Drop Typography Reveal](https://x.com/azed_ai/status/2099135809316409686) · [prompt](https://x.com/azed_ai/status/2099135821848981686) | VFX & Transitions | [@azed_ai](https://x.com/azed_ai) | 15s · 16:9 | 128 likes · 69 bookmarks |
+| 8 | [Paris Octopus — Six Camera Angles From One Clip](https://x.com/steftranquillin/status/2102318276642553907) · [prompt](https://x.com/steftranquillin/status/2102318279863718257) | Video Editing | [@steftranquillin](https://x.com/steftranquillin) | 10s · 4:5 | 127 likes · 156 bookmarks |
+| 9 | [Lava Pours Out of the Cinema Screen (POV)](https://x.com/blizaine/status/2099267920706609585) · [prompt](https://x.com/blizaine/status/2099267925274177834) | Cinematic & Story | [@blizaine](https://x.com/blizaine) | 14s · 9:16 | 67 likes · 29 bookmarks |
+| 10 | [Pinch the Apocalypse — Anime Meteor Gag](https://x.com/tokyo_Valentine/status/2100189410646241626) · [prompt](https://x.com/tokyo_Valentine/status/2100189416492802079) | Dialogue & Sound | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 15s · 9:16 | 39 likes · 18 bookmarks |
+| 11 | [VOID — JJK-Style Kinetic Anime Title Sequence](https://x.com/TechieBySA/status/2100592890380439923) · [prompt](https://x.com/TechieBySA/status/2100592896491606152) | Animation & Anime | [@TechieBySA](https://x.com/TechieBySA) | 15s · 16:9 | 36 likes · 10 bookmarks |
+| 12 | [Cyber Anime AMV — Typography & Crash Zooms](https://x.com/IqrasaifiAI/status/2100376185200947214) · [prompt](https://x.com/IqrasaifiAI/status/2100376186408858054) | Camera Motion | [@IqrasaifiAI](https://x.com/IqrasaifiAI) | 15s · 16:9 | 36 likes · 25 bookmarks |
+| 13 | [Fintech Motion Graphics — Card to Coins](https://x.com/egeberkina/status/2100147377671655632) · [prompt](https://x.com/egeberkina/status/2100147380851024153) | Ads & Products | [@egeberkina](https://x.com/egeberkina) | 14s · 16:9 | 27 likes · 13 bookmarks |
+| 14 | [Living Collage — Every Grid Cell Moves](https://x.com/zeng_wt/status/2099103139068608933) · [prompt](https://x.com/zeng_wt/status/2099103146408583251) | VFX & Transitions | [@zeng_wt](https://x.com/zeng_wt) | 15s · 16:9 | 11 likes · 3 bookmarks |
+
 ---
 
 > **Liked these?** Run the same prompts yourself —
@@ -234,7 +256,7 @@ The twelve longest author-written prompts in the library. **[See all 222 →](./
 
 | Path | What is in it |
 |---|---|
-| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 222 entries with thumbnail, prompt and source — the full version of the featured section above |
+| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 236 entries with thumbnail, prompt and source — the full version of the featured section above |
 | [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | Same gallery in Chinese |
 | [`prompts/<category>/`](./prompts) | The 72 reconstructed prompts as individual `.md` files, grouped by use case — grep-friendly, MIT |
 
