@@ -5,12 +5,12 @@
 A curated collection of **MiniMax H3** (Hailuo 3.0) video prompts. Each prompt is shown
 alongside the clip it produced, with creator credit and a link to the original post.
 
-[![Gallery](https://img.shields.io/badge/Browse%20236%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
+[![Gallery](https://img.shields.io/badge/Browse%20240%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
 [![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
 [![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**[中文说明](./README.zh-CN.md)** · **[Browse all 236 prompts](./prompts/GALLERY.md)** ·
+**[中文说明](./README.zh-CN.md)** · **[Browse all 240 prompts](./prompts/GALLERY.md)** ·
 **[Watch them with sound](https://tryminimax.asia/minimax-h3-prompts)**
 
 ---
@@ -39,21 +39,21 @@ generative editing.
 
 | | Count | What it is |
 |---|---|---|
-| **Author-written** | 164 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
+| **Author-written** | 168 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
 | **Reconstructed** | 72 | For clips whose creator never published a prompt, we sample 8 frames, hand them to a vision model, and write the prompt that would most plausibly reproduce the clip. **MIT, full text in this repo.** |
 
 A reconstruction describes the *output*. It cannot recover negative constraints, exact
 dialogue or reference-image workflows — it is a writing reference, not the creator's
 prompt, and every one is labelled `reconstructed`.
 
-**Where we found them.** 149 entries we collected ourselves from X. The other 87 we found
+**Where we found them.** 153 entries we collected ourselves from X. The other 87 we found
 through [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts),
 whose maintainers indexed them first; each of those carries a `via` credit on its Source
 line. The prompts belong to the creators either way — a collection is a second piece of
 work on top of theirs, and both get named. Every video in this repo we re-collected from
 the original post ourselves, so nothing here leans on anyone else's CDN.
 
-**Languages.** Prompts are stored in the language their author wrote them in — 210 English,
+**Languages.** Prompts are stored in the language their author wrote them in — 214 English,
 13 Chinese, 13 Japanese. We do not translate them: a translated prompt does not generate
 the same clip.
 
@@ -63,7 +63,7 @@ Creators: if you would like an entry removed, open an issue.
 
 ## Featured prompts
 
-The twelve longest author-written prompts in the library. **[See all 236 →](./prompts/GALLERY.md)**
+The twelve longest author-written prompts in the library. **[See all 240 →](./prompts/GALLERY.md)**
 
 ### 1. Concrete-Plaza Kickflip Drop
 
@@ -222,7 +222,18 @@ The twelve longest author-written prompts in the library. **[See all 236 →](./
 
 ---
 
-## New this round — September 2026
+## New this round — early October 2026
+
+4 more author-written prompts collected from X (posted 30 Sep – 2 Oct 2026), each with a result video and the full prompt published by the creator. Each is also in the [gallery](./prompts/GALLERY.md) under its use case. Credit and copyright stay with the creators — click through to the original post for the full text.
+
+| # | Title | Category | Creator | Length | Engagement |
+|---|---|---|---|---|---|
+| 1 | [Luxury Perfume Commercial — Seven-Scene Romantic Evening](https://x.com/CaliraVal/status/2105895582275657852) · [prompt](https://x.com/CaliraVal/status/2105895582275657852) | Ads & Products | [@CaliraVal](https://x.com/CaliraVal) | 15s · 4:3 | 266 likes · 18 bookmarks |
+| 2 | [“Don’t Worry About Me” — Farewell to a Dying Robot](https://x.com/ou_zhen599/status/2106050598298902577) · [prompt](https://x.com/ou_zhen599/status/2106051510065098921) | Cinematic & Story | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 23 likes · 15 bookmarks |
+| 3 | [Kraken Rises Off the Greek Coast (Image-to-Video)](https://x.com/JasonHeatony7/status/2105757631667171458) · [prompt](https://x.com/JasonHeatony7/status/2105757631667171458) | Cinematic & Story | [@JasonHeatony7](https://x.com/JasonHeatony7) | 15s · 3:2 | 13 likes · 0 bookmarks |
+| 4 | [Tiny 2D Chef in a Giant Real Kitchen](https://x.com/airina_xyz/status/2105259144555212877) · [prompt](https://x.com/airina_xyz/status/2105259144555212877) | Animation & Anime | [@airina_xyz](https://x.com/airina_xyz) | 15s · 16:9 | 12 likes · 3 bookmarks |
+
+## September 2026 round
 
 14 author-written prompts collected from X (posted 12–27 Sep 2026), all with a result video and the full prompt published by the creator. Each is also in the [gallery](./prompts/GALLERY.md) under its use case. Credit and copyright stay with the creators — click through to the original post for the full text.
 
@@ -256,7 +267,7 @@ The twelve longest author-written prompts in the library. **[See all 236 →](./
 
 | Path | What is in it |
 |---|---|
-| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 236 entries with thumbnail, prompt and source — the full version of the featured section above |
+| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 240 entries with thumbnail, prompt and source — the full version of the featured section above |
 | [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | Same gallery in Chinese |
 | [`prompts/<category>/`](./prompts) | The 72 reconstructed prompts as individual `.md` files, grouped by use case — grep-friendly, MIT |
 

@@ -5,7 +5,7 @@
 这是一个 **MiniMax H3**（海螺 3.0）视频提示词合集。每条提示词都配有实际生成的视频，
 并标注作者信息和原始帖子链接，方便浏览、学习和复用。
 
-[![画廊](https://img.shields.io/badge/236%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
+[![画廊](https://img.shields.io/badge/240%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
 [![统一 API](https://img.shields.io/badge/一个%20API-85%2B%20模型-3158E8)](https://tryminimax.asia/zh/models)
 [![价格](https://img.shields.io/badge/图片%20%240.01%20起%20%C2%B7%20视频%20%240.044%2F秒起-1f9e5f)](https://tryminimax.asia/zh/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -13,7 +13,7 @@
 **MiniMax H3**（海螺 3.0）提示词库。每条提示词都配着它真正生成出来的那段视频，
 署名作者，链回原帖。
 
-**[English](./README.md)** · **[看全部 236 条](./prompts/GALLERY.zh-CN.md)** ·
+**[English](./README.md)** · **[看全部 240 条](./prompts/GALLERY.zh-CN.md)** ·
 **[到画廊里带声音看](https://tryminimax.asia/zh/minimax-h3-prompts)**
 
 ---
@@ -38,19 +38,19 @@
 
 | | 数量 | 是什么 |
 |---|---|---|
-| **作者原文** | 164 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
+| **作者原文** | 168 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
 | **AI 反推** | 72 | 作者没公开提示词的片子，我们抽 8 帧交给视觉模型，写出最可能复现这段画面的提示词。**MIT，全文就在这个仓库里。** |
 
 反推描述的是**成片**，恢复不了负面约束、准确台词和参考图工作流 —— 它是写法参考，不是作者的原稿，
 每一条都标了 `AI 反推`。
 
-**从哪找到的。** 149 条是我们自己在 X 上采的；另外 87 条是通过
+**从哪找到的。** 153 条是我们自己在 X 上采的；另外 87 条是通过
 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 找到的，他们先把这些整理了出来，这些条目的来源行上都带一个 `经` 的署名。
 不论哪种，提示词都归作者本人 —— 整理是叠在作者劳动之上的第二份劳动，两边都点名。
 所有视频都是我们自己从原帖重新采的，不占用别人的 CDN。
 
-**语言。** 提示词按作者写它时用的语言原样保存：英文 210 条、中文 13 条、日文 13 条。
+**语言。** 提示词按作者写它时用的语言原样保存：英文 214 条、中文 13 条、日文 13 条。
 我们不做翻译 —— 翻译过的提示词跑出来不是同一段片子。
 
 作者们：想撤下某一条，开个 issue 就行。
@@ -59,7 +59,7 @@
 
 ## 精选
 
-作者原文里最长的 12 条。**[看全部 236 条 →](./prompts/GALLERY.zh-CN.md)**
+作者原文里最长的 12 条。**[看全部 240 条 →](./prompts/GALLERY.zh-CN.md)**
 
 ### 1. 混凝土广场的滑板落地
 
@@ -218,7 +218,18 @@
 
 ---
 
-## 本轮新增 —— 2026 年 9 月
+## 本轮新增 —— 2026 年 10 月初
+
+从 X 新采集的 4 条作者原文提示词（发布于 2026-09-30 至 10-02），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
+
+| # | 标题 | 分类 | 作者 | 时长/比例 | 互动 |
+|---|---|---|---|---|---|
+| 1 | [奢华香水广告：七个场景的浪漫约会之夜](https://x.com/CaliraVal/status/2105895582275657852) · [提示词](https://x.com/CaliraVal/status/2105895582275657852) | 广告与产品 | [@CaliraVal](https://x.com/CaliraVal) | 15s · 4:3 | 266 赞 · 18 收藏 |
+| 2 | [“别担心我”：雪巷里与将熄机器人的告别](https://x.com/ou_zhen599/status/2106050598298902577) · [提示词](https://x.com/ou_zhen599/status/2106051510065098921) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 23 赞 · 15 收藏 |
+| 3 | [希腊海岸巨妖海怪升起（图生视频）](https://x.com/JasonHeatony7/status/2105757631667171458) · [提示词](https://x.com/JasonHeatony7/status/2105757631667171458) | 电影与叙事 | [@JasonHeatony7](https://x.com/JasonHeatony7) | 15s · 3:2 | 13 赞 · 0 收藏 |
+| 4 | [真实大厨房里的 2D 手绘小厨师](https://x.com/airina_xyz/status/2105259144555212877) · [提示词](https://x.com/airina_xyz/status/2105259144555212877) | 动画与二次元 | [@airina_xyz](https://x.com/airina_xyz) | 15s · 16:9 | 12 赞 · 3 收藏 |
+
+## 2026 年 9 月新增
 
 从 X 新采集的 14 条作者原文提示词（发布于 2026-09-12 至 09-27），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
 
@@ -252,7 +263,7 @@
 
 | 路径 | 内容 |
 |---|---|
-| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 236 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
+| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 240 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
 | [`prompts/GALLERY.md`](./prompts/GALLERY.md) | 同一份画廊的英文版 |
 | [`prompts/<分类>/`](./prompts) | 72 条 AI 反推提示词的单文件版本，按用途分目录，方便 grep，MIT |
 
