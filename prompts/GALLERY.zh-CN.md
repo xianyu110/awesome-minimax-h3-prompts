@@ -1,4 +1,4 @@
-**按用途浏览:** [电影与叙事](#电影与叙事) (47) · [动画与二次元](#动画与二次元) (48) · [广告与产品](#广告与产品) (54) · [人物与表演](#人物与表演) (23) · [特效与转场](#特效与转场) (24) · [运镜](#运镜) (12) · [参考图与一致性](#参考图与一致性) (11) · [视频编辑](#视频编辑) (8) · [对白与音效](#对白与音效) (9) · [动物](#动物) (4)
+**按用途浏览:** [电影与叙事](#电影与叙事) (49) · [动画与二次元](#动画与二次元) (48) · [广告与产品](#广告与产品) (56) · [人物与表演](#人物与表演) (23) · [特效与转场](#特效与转场) (25) · [运镜](#运镜) (12) · [参考图与一致性](#参考图与一致性) (11) · [视频编辑](#视频编辑) (8) · [对白与音效](#对白与音效) (9) · [动物](#动物) (6)
 
 ## 电影与叙事
 
@@ -873,9 +873,36 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@JasonHeatony7](https://x.com/JasonHeatony7/status/2105757631667171458) · 15s · 3:2 · 电影感
 
 ---
+### 48. “比镜头快一步”：她始终掌控这场追逐
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106385077374722148"><img src="https://pbs.twimg.com/amplify_video_thumb/2106384398535012352/img/L131dLwXvTmWKAjj.jpg" alt="“比镜头快一步”：她始终掌控这场追逐" width="700" /></a>
+
+<strong>提示词</strong> — integrated_multimodal_description: 15 seconds, 16:9, live-action cinematic realism. Use &lt;Picture 1&gt; as the only reference for the woman, outfit, location, lighting, and first frame. The opening frame must precisely inherit her leaning pose against the pink…
+
+[**读完整提示词 →**](https://x.com/ou_zhen599/status/2106385900305580141) （9194 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/ou_zhen599/status/2106385077374722148)
+
+**来源:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106385077374722148) · 15s · 16:9 · 电影感
+
+---
+
+### 49. 她不动，火车动：地铁站台风压肖像
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106245982652625103"><img src="https://pbs.twimg.com/amplify_video_thumb/2106245683481362432/img/k0llIyf5o3H9nde6.jpg" alt="她不动，火车动：地铁站台风压肖像" width="700" /></a>
+
+<strong>提示词</strong> — Use the reference image as the exact visual and character foundation. Create one continuous 15-second cinematic shot on a deserted underground metro platform at night. Preserve the woman’s exact face, bleached shaggy wolf cut, lemon-yellow track jacket…
+
+[**读完整提示词 →**](https://x.com/MrDasCreates/status/2106246176043598144) （3073 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/MrDasCreates/status/2106245982652625103)
+
+**来源:** [@MrDasCreates](https://x.com/MrDasCreates/status/2106245982652625103) · 15s · 16:9 · 电影感
+
+---
 ## 动画与二次元
 
-### 48. 断刃重铸的无限循环
+### 50. 断刃重铸的无限循环
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082772865410338816/img/wQZjhenyhl6nJlWM.jpg" alt="断刃重铸的无限循环" width="700" /></a>
 
@@ -888,7 +915,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 15s · 16:9 · 动画与二次元
 
 ---
-### 49. 悬浮生态城的探险者与猫
+### 51. 悬浮生态城的探险者与猫
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082936673462095872/img/fHRjLaD3agFnGWZW.jpg" alt="悬浮生态城的探险者与猫" width="700" /></a>
 
@@ -901,7 +928,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@AiMeowing](https://x.com/AiMeowing/status/2082937573559722460) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 50. 黑暗奇幻酒馆斗殴
+### 52. 黑暗奇幻酒馆斗殴
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082658121625788416/img/nLwZ1WrlRjqOUlBo.jpg" alt="黑暗奇幻酒馆斗殴" width="700" /></a>
 
@@ -914,7 +941,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082658222247137433) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 51. 玻璃温室红茶异世界
+### 53. 玻璃温室红茶异世界
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798918262550528/img/lu7BdCU3X0FrX9ar.jpg" alt="玻璃温室红茶异世界" width="700" /></a>
 
@@ -927,7 +954,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 52. 梦幻夏日温室动画
+### 54. 梦幻夏日温室动画
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082707002850197504/img/mtA5zNkhhQw1Gnk2.jpg" alt="梦幻夏日温室动画" width="700" /></a>
 
@@ -940,7 +967,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082707037256056852) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 53. 水墨金缮剑影
+### 55. 水墨金缮剑影
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083520887723360256/img/u845oB7aCkvkyBMi.jpg" alt="水墨金缮剑影" width="700" /></a>
 
@@ -953,7 +980,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083525563491524882) · 15s · 16:9 · 动画与二次元
 
 ---
-### 54. 厨房巨蛛喜剧短片
+### 56. 厨房巨蛛喜剧短片
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082840335546568704/img/TUvX2JTrFbPQ-j1X.jpg" alt="厨房巨蛛喜剧短片" width="700" /></a>
 
@@ -966,7 +993,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@Ciri_ai](https://x.com/Ciri_ai/status/2082840410268057697) · 15s · 21:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 55. 奇幻学院分面包
+### 57. 奇幻学院分面包
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082652014715215872/img/hTOfKimFG5UVYkwM.jpg" alt="奇幻学院分面包" width="700" /></a>
 
@@ -979,7 +1006,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082652041709773075) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 56. 水彩动画快切混剪
+### 58. 水彩动画快切混剪
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h"><img src="https://pbs.twimg.com/amplify_video_thumb/2082797849155084288/img/JZFI1PZc91bdhQuZ.jpg" alt="水彩动画快切混剪" width="700" /></a>
 
@@ -992,7 +1019,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@yachimat_manga](https://x.com/yachimat_manga/status/2082799648528335119) · 15s · 9:16 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 57. 手工剪纸定格短片
+### 59. 手工剪纸定格短片
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082963352699953152/img/Vtr2UJB4tDbYEeRF.jpg" alt="手工剪纸定格短片" width="700" /></a>
 
@@ -1005,7 +1032,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · 15s · 4:3 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 58. 熔岩巨剑动漫战斗
+### 60. 熔岩巨剑动漫战斗
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082690605277409280/img/4Ki6w_u-XiRpkOUW.jpg" alt="熔岩巨剑动漫战斗" width="700" /></a>
 
@@ -1018,7 +1045,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082693906224009447) · 15s · 16:9 · 动画与二次元
 
 ---
-### 59. 爵士黑色动画片头
+### 61. 爵士黑色动画片头
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9"><img src="https://pbs.twimg.com/amplify_video_thumb/2083045791871221761/img/Cncr1Eg5UOn82RkR.jpg" alt="爵士黑色动画片头" width="700" /></a>
 
@@ -1031,7 +1058,7 @@ Fast camera cuts, bright sunlight, modern elements, cheerful tones, cartoonish f
 **来源:** [@AIWarper](https://x.com/AIWarper/status/2083045838377652641) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 60. 霓虹隧道机车夜行 `AI 反推`
+### 62. 霓虹隧道机车夜行 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y"><img src="https://pbs.twimg.com/amplify_video_thumb/2083140471149453312/img/N-Uoz-NEXXsgBu1i.jpg" alt="霓虹隧道机车夜行" width="700" /></a>
 
@@ -1070,7 +1097,7 @@ Photorealism, live-action footage, soft gradient shading, anatomical warping, ba
 **来源:** [@0xbisc](https://x.com/0xbisc/status/2083144389845508218) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 61. 复古波普少女律动 `AI 反推`
+### 63. 复古波普少女律动 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d"><img src="https://pbs.twimg.com/amplify_video_thumb/2083450573706366977/img/A8buYXNf0HTexm2q.jpg" alt="复古波普少女律动" width="700" /></a>
 
@@ -1109,7 +1136,7 @@ Photorealism, 3D rendering, complex gradients, cinematic depth of field, illegib
 **来源:** [@manaimovie](https://x.com/manaimovie/status/2083452257992143357) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 62. 体素风荒野烹饪 `AI 反推`
+### 64. 体素风荒野烹饪 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083176432356974592/img/QQfTesJaSnurNr0Q.jpg" alt="体素风荒野烹饪" width="700" /></a>
 
@@ -1148,7 +1175,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **来源:** [@Caden_Flux](https://x.com/Caden_Flux/status/2083177108105241073) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 63. 皮克斯风小鼠冒险
+### 65. 皮克斯风小鼠冒险
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i"><img src="https://pbs.twimg.com/amplify_video_thumb/2082872957668397056/img/1HFQyAEVNNRR3LDB.jpg" alt="皮克斯风小鼠冒险" width="700" /></a>
 
@@ -1161,7 +1188,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **来源:** [@sebatheepan](https://x.com/sebatheepan/status/2082873433478582726) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 64. 痛包里的奇幻偶像舞台
+### 66. 痛包里的奇幻偶像舞台
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083365571396308992/img/bLkDMcQBsIlammO-.jpg" alt="痛包里的奇幻偶像舞台" width="700" /></a>
 
@@ -1174,7 +1201,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **来源:** [@si1verPEGA](https://x.com/si1verPEGA/status/2083368267675222244) · 15s · 16:9 · 动画与二次元
 
 ---
-### 65. 空西装定格组装
+### 67. 空西装定格组装
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi"><img src="https://pbs.twimg.com/amplify_video_thumb/2082725788206456832/img/HXT2Zxl_6ESWJ3Oe.jpg" alt="空西装定格组装" width="700" /></a>
 
@@ -1187,7 +1214,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **来源:** [@lukasersil](https://x.com/lukasersil/status/2082727329390854152) · 15s · 3:4 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 66. 超能武者的巅峰决战 `AI 反推`
+### 68. 超能武者的巅峰决战 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh"><img src="https://pbs.twimg.com/amplify_video_thumb/2082892829312077824/img/h2nJFQ3ZPnC_j7D5.jpg" alt="超能武者的巅峰决战" width="700" /></a>
 
@@ -1226,7 +1253,7 @@ Watermarks, on-screen text, cel-shading, slow pacing, static camerawork.
 **来源:** [@itsshara_ai](https://x.com/itsshara_ai/status/2082892924694712509) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 67. 斩裂苍穹的雷刃 `AI 反推`
+### 69. 斩裂苍穹的雷刃 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew"><img src="https://pbs.twimg.com/amplify_video_thumb/2082670735353581568/img/sns_DtYWoAaPV73C.jpg" alt="斩裂苍穹的雷刃" width="700" /></a>
 
@@ -1265,7 +1292,7 @@ Photorealism, live-action humans, bright daylight, modern urban settings, slow p
 **来源:** [@tebasaki3D](https://x.com/tebasaki3D/status/2082672010682118545) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 68. 赛博霓虹轨迹 `AI 反推`
+### 70. 赛博霓虹轨迹 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082743617924255744/img/NV1c9stMTkCSGDmJ.jpg" alt="赛博霓虹轨迹" width="700" /></a>
 
@@ -1304,7 +1331,7 @@ Photorealism, 3D CGI rendering, muted colors, pastel palettes, static cinematogr
 **来源:** [@astronomerozge1](https://x.com/astronomerozge1/status/2082743744177008874) · 15s · 21:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 69. 二次元副驾 × 真人司机 `AI 反推`
+### 71. 二次元副驾 × 真人司机 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082542989189218305/img/edzk-7eJRat_5WFv.jpg" alt="二次元副驾 × 真人司机" width="700" /></a>
 
@@ -1343,7 +1370,7 @@ Lighting mismatches between 2D and live-action elements, motion blur on the anim
 **来源:** [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru/status/2082558386441461989) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 70. 奇幻真菌森林的旅人 `AI 反推`
+### 72. 奇幻真菌森林的旅人 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049993754271744/img/em8p7VQybaSQUBqE.jpg" alt="奇幻真菌森林的旅人" width="700" /></a>
 
@@ -1382,7 +1409,7 @@ Photorealism, urban elements, modern machinery, harsh neon lighting, rapid shaky
 **来源:** [@luji_xie](https://x.com/luji_xie/status/2083050315314876656) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 71. 义体少女战机甲 `AI 反推`
+### 73. 义体少女战机甲 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083047920509566976/img/GtQtE0IIOBvB1dwO.jpg" alt="义体少女战机甲" width="700" /></a>
 
@@ -1421,7 +1448,7 @@ Photorealism, static framing, clean pristine environments, completely biological
 **来源:** [@Hacknaut](https://x.com/Hacknaut/status/2083048000687923529) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 72. 漫画风烈焰滑板手 `AI 反推`
+### 74. 漫画风烈焰滑板手 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869890592190469/img/4YUjm4nYmIKFuMZY.jpg" alt="漫画风烈焰滑板手" width="700" /></a>
 
@@ -1460,7 +1487,7 @@ Photorealism, 3D rendering, CGI shading, muted tones, static camera, soft edges,
 **来源:** [@whorange__](https://x.com/whorange__/status/2082870195845275923) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 73. 霓虹与暗影的对决 `AI 反推`
+### 75. 霓虹与暗影的对决 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32"><img src="https://pbs.twimg.com/amplify_video_thumb/2082808203583291392/img/sOgoV4mlHKwcMq98.jpg" alt="霓虹与暗影的对决" width="700" /></a>
 
@@ -1499,7 +1526,7 @@ Photorealism, slow pacing, static camera, soft focus, text, watermarks.
 **来源:** [@mito_ai_la](https://x.com/mito_ai_la/status/2082808886919336080) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 74. 水火双灵对决 `AI 反推`
+### 76. 水火双灵对决 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf"><img src="https://pbs.twimg.com/amplify_video_thumb/2082763740106428416/img/FTyhG59RujxEo2Ur.jpg" alt="水火双灵对决" width="700" /></a>
 
@@ -1538,7 +1565,7 @@ Text, watermarks, modern clothing, photorealism, shaky camera, modern architectu
 **来源:** [@harboriis](https://x.com/harboriis/status/2082763939453239615) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 75. 好奇的黏土小羊 `AI 反推`
+### 77. 好奇的黏土小羊 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083193056455794688/img/A8qpz7eJqWF_w6Uk.jpg" alt="好奇的黏土小羊" width="700" /></a>
 
@@ -1577,7 +1604,7 @@ Photorealism, flat 2D animation, smooth 60fps CGI motion, human subjects, clean 
 **来源:** [@ThissSophie](https://x.com/ThissSophie/status/2083194363446694308) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 76. 霓虹精灵的未来穿梭 `AI 反推`
+### 78. 霓虹精灵的未来穿梭 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082541813768892416/img/ZAJG157w6Z13GWZ6.jpg" alt="霓虹精灵的未来穿梭" width="700" /></a>
 
@@ -1616,7 +1643,7 @@ Daylight, jagged architecture, human figures, typography, realistic animals, sta
 **来源:** [@aiIgnatius](https://x.com/aiIgnatius/status/2082542123149119593) · 15s · 9:16 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 77. 午夜列车惊魂 `AI 反推`
+### 79. 午夜列车惊魂 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293"><img src="https://pbs.twimg.com/amplify_video_thumb/2082811888618901506/img/mjXOOD5m0Cm3xS-q.jpg" alt="午夜列车惊魂" width="700" /></a>
 
@@ -1655,7 +1682,7 @@ Daylight, warm color grading, 3D rendering, realistic textures, slow-motion acti
 **来源:** [@StevieMac03](https://x.com/StevieMac03/status/2082812281881055742) · 15s · 21:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 78. 定格动画拼接自然神龙
+### 80. 定格动画拼接自然神龙
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg" alt="定格动画拼接自然神龙" width="700" /></a>
 
@@ -1668,7 +1695,7 @@ Daylight, warm color grading, 3D rendering, realistic textures, slow-motion acti
 **来源:** [@Maercihh](https://x.com/Maercihh/status/2082704405619679353) · 15s · 4:3 · 动画与二次元
 
 ---
-### 79. 厨房里的发光魔法 `AI 反推`
+### 81. 厨房里的发光魔法 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827164181778432/img/PvGUYgughXnyMGd3.jpg" alt="厨房里的发光魔法" width="700" /></a>
 
@@ -1707,7 +1734,7 @@ Photorealistic CGI creatures, fully animated backgrounds, flat lighting, sterile
 **来源:** [@lexx_aura](https://x.com/lexx_aura/status/2082827360970199464) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 80. 女猎手与白角巨兽 `AI 反推`
+### 82. 女猎手与白角巨兽 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796446575927297/img/MI6QlX-9KIpfHDc_.jpg" alt="女猎手与白角巨兽" width="700" /></a>
 
@@ -1746,7 +1773,7 @@ Photorealism, 3D render style, modern elements, on-screen text, sluggish pacing.
 **来源:** [@akakuma0219](https://x.com/akakuma0219/status/2082796505417801823) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 81. 毛毡鮟鱇鱼深海历险 `AI 反推`
+### 83. 毛毡鮟鱇鱼深海历险 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q"><img src="https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg" alt="毛毡鮟鱇鱼深海历险" width="700" /></a>
 
@@ -1785,7 +1812,7 @@ Photorealism, sharp CGI edges, human characters, camera shake, text.
 **来源:** [@NVTDanh](https://x.com/NVTDanh/status/2083011011519627554) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 82. 樱花水豚的幻境之旅 `AI 反推`
+### 84. 樱花水豚的幻境之旅 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci"><img src="https://pbs.twimg.com/amplify_video_thumb/2082546454275747840/img/v3L9BU1kZ0gHAGNc.jpg" alt="樱花水豚的幻境之旅" width="700" /></a>
 
@@ -1824,7 +1851,7 @@ Photorealism, muted colors, low lighting, slow pacing, urban elements.
 **来源:** [@Preda2005](https://x.com/Preda2005/status/2082546598320767233) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 83. 奇幻飞鲸少女之舞 `AI 反推`
+### 85. 奇幻飞鲸少女之舞 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082839094409998336/img/8SRi6k4fZjwyyrq_.jpg" alt="奇幻飞鲸少女之舞" width="700" /></a>
 
@@ -1863,7 +1890,7 @@ Photorealism, dark lighting, modern clothing, erratic camera shake, visible text
 **来源:** [@akakuma0219](https://x.com/akakuma0219/status/2082839158327054631) · 15s · 9:16 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 84. ASMR 海外零食开箱动画
+### 86. ASMR 海外零食开箱动画
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082752049545093121/img/D_xhD-SJmyyg4IkT.jpg" alt="ASMR 海外零食开箱动画" width="700" /></a>
 
@@ -1876,7 +1903,7 @@ Photorealism, dark lighting, modern clothing, erratic camera shake, visible text
 **来源:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082768164413428159) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 85. Q版二次元回合制战斗 `AI 反推`
+### 87. Q版二次元回合制战斗 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083201618963771393/img/UT1kgqxmHuXSeP8J.jpg" alt="Q版二次元回合制战斗" width="700" /></a>
 
@@ -1915,7 +1942,7 @@ Photorealism, live-action, shaky camera, dramatic shadows, dynamic camera tracki
 **来源:** [@Preda2005](https://x.com/Preda2005/status/2083203352402543027) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 86. 雨中的安里与科莱特 `AI 反推`
+### 88. 雨中的安里与科莱特 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082863768258940928/img/JT57blakdb1GXDXH.jpg" alt="雨中的安里与科莱特" width="700" /></a>
 
@@ -1954,7 +1981,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@craftcapitallab](https://x.com/craftcapitallab/status/2082934258092659025) · 15s · 16:9 · 动画与二次元 · 提示词由我们反推
 
 ---
-### 87. 黏土定格：风暴中的鲸跃
+### 89. 黏土定格：风暴中的鲸跃
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l"><img src="https://pbs.twimg.com/amplify_video_thumb/2083503785083588608/img/jbadXIE0eDBJ-oB1.jpg" alt="黏土定格：风暴中的鲸跃" width="700" /></a>
 
@@ -1967,7 +1994,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@shikoba_86](https://x.com/shikoba_86/status/2083555537912729607) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 88. 二次元少女四季滑行
+### 90. 二次元少女四季滑行
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082834833290747904/img/krKPTVc6EVDlIITv.jpg" alt="二次元少女四季滑行" width="700" /></a>
 
@@ -1980,7 +2007,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@liyue_ai](https://x.com/liyue_ai/status/2082835339820097539) · 15s · 16:9 · 动画与二次元
 
 ---
-### 89. 世界上最倒霉的超级英雄
+### 91. 世界上最倒霉的超级英雄
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853029133312000/img/Upi7gJ0Ds1xeK9ne.jpg" alt="世界上最倒霉的超级英雄" width="700" /></a>
 
@@ -1993,7 +2020,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@NACHOS2D_](https://x.com/NACHOS2D_/status/2082853567543615837) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 90. 手绘姜汁猪肉料理动画
+### 92. 手绘姜汁猪肉料理动画
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082826179753697281/img/h3J3psiaTa6yg7A1.jpg" alt="手绘姜汁猪肉料理动画" width="700" /></a>
 
@@ -2006,7 +2033,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@ozuozuai99](https://x.com/ozuozuai99/status/2082828444484960451) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 91. Untitled
+### 93. Untitled
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082491822627229696/img/7wWNx9vHTh7etd7i.jpg" alt="Untitled" width="700" /></a>
 
@@ -2019,7 +2046,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@mugi_AI_Art](https://x.com/mugi_AI_Art/status/2082492072989519989?s=20) · 15s · 16:9 · 动画与二次元
 
 ---
-### 92. 8-bit 黑白旧金山动画
+### 94. 8-bit 黑白旧金山动画
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al"><img src="https://pbs.twimg.com/amplify_video_thumb/2083007126612692992/img/lyVle1Lrmrzt6PbR.jpg" alt="8-bit 黑白旧金山动画" width="700" /></a>
 
@@ -2032,7 +2059,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · 15s · 16:9 · 动画与二次元 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 93. Q 版精灵图 16 帧跳舞（4×4 精灵图转视频）
+### 95. Q 版精灵图 16 帧跳舞（4×4 精灵图转视频）
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099792455902404977"><img src="https://pbs.twimg.com/amplify_video_thumb/2099791140128251904/img/Lls3ODIIXumgLYte.jpg" alt="Q 版精灵图 16 帧跳舞（4×4 精灵图转视频）" width="700" /></a>
 
@@ -2045,7 +2072,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@shimotti_ai](https://x.com/shimotti_ai/status/2099792455902404977) · 10s · 1:1 · 动画与二次元
 
 ---
-### 94. VOID：咒术回战风动态片头
+### 96. VOID：咒术回战风动态片头
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100592890380439923"><img src="https://pbs.twimg.com/media/HSbODvgWYAATQuH.jpg" alt="VOID：咒术回战风动态片头" width="700" /></a>
 
@@ -2058,7 +2085,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@TechieBySA](https://x.com/TechieBySA/status/2100592890380439923) · 15s · 16:9 · 动画与二次元
 
 ---
-### 95. 真实大厨房里的 2D 手绘小厨师
+### 97. 真实大厨房里的 2D 手绘小厨师
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2105259144555212877"><img src="https://pbs.twimg.com/media/HTdi8P-XoAAGB8q.jpg" alt="真实大厨房里的 2D 手绘小厨师" width="700" /></a>
 
@@ -2073,7 +2100,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 ---
 ## 广告与产品
 
-### 96. KALDR 冷感香水多参考图广告
+### 98. KALDR 冷感香水多参考图广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082918243002695680/img/a7ztEfHR51KLKlzI.jpg" alt="KALDR 冷感香水多参考图广告" width="700" /></a>
 
@@ -2086,7 +2113,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 21:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 97. H3能量饮料宣传片
+### 99. H3能量饮料宣传片
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082912615052050432/img/4kFMxx1VdMeuLzMU.jpg" alt="H3能量饮料宣传片" width="700" /></a>
 
@@ -2099,7 +2126,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2082912639647465647) · 15s · 9:16 · 产品与广告
 
 ---
-### 98. 奢侈品腕表时间静止广告
+### 100. 奢侈品腕表时间静止广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w"><img src="https://pbs.twimg.com/amplify_video_thumb/2082831827216343040/img/Z0an-oRSY3_N7DFO.jpg" alt="奢侈品腕表时间静止广告" width="700" /></a>
 
@@ -2112,7 +2139,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2082831848238186868) · 15s · 9:16 · 产品与广告
 
 ---
-### 99. 日落奢华香水广告
+### 101. 日落奢华香水广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082873923130236928/img/PfzGp0C5LkrMrvem.jpg" alt="日落奢华香水广告" width="700" /></a>
 
@@ -2125,7 +2152,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2082873944575815861) · 15s · 9:16 · 产品与广告
 
 ---
-### 100. 寿司之夜手机 UGC Vlog
+### 102. 寿司之夜手机 UGC Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of"><img src="https://pbs.twimg.com/amplify_video_thumb/2082837356198146048/img/iZ-78X9o-m0QQy_d.jpg" alt="寿司之夜手机 UGC Vlog" width="700" /></a>
 
@@ -2138,7 +2165,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@oggii_0](https://x.com/oggii_0/status/2082837405812613617) · 15s · 21:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 101. 奢华护肤品广告视频分镜
+### 103. 奢华护肤品广告视频分镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft"><img src="https://pbs.twimg.com/amplify_video_thumb/2083407918704316416/img/SZQ8c68DLAovAq25.jpg" alt="奢华护肤品广告视频分镜" width="700" /></a>
 
@@ -2151,7 +2178,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@Maercihh](https://x.com/Maercihh/status/2083407991114805571) · 15s · 16:9 · 产品与广告
 
 ---
-### 102. 高端时尚大片换装揭示
+### 104. 高端时尚大片换装揭示
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083024654567112705/img/-MpDPkPOzIkiKwDi.jpg" alt="高端时尚大片换装揭示" width="700" /></a>
 
@@ -2164,7 +2191,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 103. UGC风格饮料广告
+### 105. UGC风格饮料广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083135932472143872/img/CEB4kJT9ey1QoFfq.jpg" alt="UGC风格饮料广告" width="700" /></a>
 
@@ -2177,7 +2204,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083136052638998714) · 15s · 16:9 · 产品与广告
 
 ---
-### 104. 竖屏汽车变形街头文化片
+### 106. 竖屏汽车变形街头文化片
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix"><img src="https://pbs.twimg.com/amplify_video_thumb/2082783021636161536/img/HayifMvKqD8RJZ2h.jpg" alt="竖屏汽车变形街头文化片" width="700" /></a>
 
@@ -2190,7 +2217,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 105. 超高端电影感香水广告
+### 107. 超高端电影感香水广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g"><img src="https://pbs.twimg.com/amplify_video_thumb/2082775806666002432/img/fdFy_tI03kIixAwt.jpg" alt="超高端电影感香水广告" width="700" /></a>
 
@@ -2203,7 +2230,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 106. 超现实蓝色棚拍：与马共舞
+### 108. 超现实蓝色棚拍：与马共舞
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="超现实蓝色棚拍：与马共舞" width="700" /></a>
 
@@ -2216,7 +2243,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **来源:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 107. 奢华丝绒魅惑唇膏 `AI 反推`
+### 109. 奢华丝绒魅惑唇膏 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033643392372736/img/goYVPzJiWeOqOJI3.jpg" alt="奢华丝绒魅惑唇膏" width="700" /></a>
 
@@ -2255,7 +2282,7 @@ Smudged makeup, uneven skin textures, dull colors, naturalistic documentary ligh
 **来源:** [@Aneeza__S](https://x.com/Aneeza__S/status/2083033717384380919) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 108. 豪华跑车落地页动效
+### 110. 豪华跑车落地页动效
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife"><img src="https://pbs.twimg.com/amplify_video_thumb/2082999549371809792/img/R-05d_1cnYweCszn.jpg" alt="豪华跑车落地页动效" width="700" /></a>
 
@@ -2268,7 +2295,7 @@ Smudged makeup, uneven skin textures, dull colors, naturalistic documentary ligh
 **来源:** [@BubbleBrain](https://x.com/BubbleBrain/status/2082999806948229386) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 109. 黑色影棚里的黄色墨镜
+### 111. 黑色影棚里的黄色墨镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083210378759098368/img/wwUOVkeDWwXwQIfr.jpg" alt="黑色影棚里的黄色墨镜" width="700" /></a>
 
@@ -2281,7 +2308,7 @@ Smudged makeup, uneven skin textures, dull colors, naturalistic documentary ligh
 **来源:** [@shikoba_86](https://x.com/shikoba_86/status/2083225662316265763) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 110. 未来极速与科技美学 `AI 反推`
+### 112. 未来极速与科技美学 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58"><img src="https://pbs.twimg.com/amplify_video_thumb/2082692156666568704/img/uaA9RKuIuQ2zLaM_.jpg" alt="未来极速与科技美学" width="700" /></a>
 
@@ -2320,7 +2347,7 @@ Amateur lighting, shaky handheld camera, low resolution, dull muted colors, natu
 **来源:** [@iamrealsnow](https://x.com/iamrealsnow/status/2082692346651767244) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 111. 格纹跑车从夜到晨广告
+### 113. 格纹跑车从夜到晨广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko"><img src="https://pbs.twimg.com/amplify_video_thumb/2082854597698207744/img/JucBtXsYhQijvL7f.jpg" alt="格纹跑车从夜到晨广告" width="700" /></a>
 
@@ -2333,7 +2360,7 @@ Amateur lighting, shaky handheld camera, low resolution, dull muted colors, natu
 **来源:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 112. 极简奢华女装展示
+### 114. 极简奢华女装展示
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082745515326738432/pu/img/uz7nIzKtvxckfWIt.jpg" alt="极简奢华女装展示" width="700" /></a>
 
@@ -2346,7 +2373,7 @@ Amateur lighting, shaky handheld camera, low resolution, dull muted colors, natu
 **来源:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082745557085241351) · 15s · 9:16 · 产品与广告
 
 ---
-### 113. 极简科技感红色电单车 `AI 反推`
+### 115. 极简科技感红色电单车 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l"><img src="https://pbs.twimg.com/amplify_video_thumb/2082896876802609152/img/eCvfCkOa1nQ-NsIu.jpg" alt="极简科技感红色电单车" width="700" /></a>
 
@@ -2385,7 +2412,7 @@ Human riders, outdoor settings, traditional metal bike chains, straight frame ge
 **来源:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082897903501148322) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 114. 奢华祖母绿项链分镜
+### 116. 奢华祖母绿项链分镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg" alt="奢华祖母绿项链分镜" width="700" /></a>
 
@@ -2398,7 +2425,7 @@ Human riders, outdoor settings, traditional metal bike chains, straight frame ge
 **来源:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082667261718872509) · 15s · 3:4 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 115. 水漾亮泽唇油广告 `AI 反推`
+### 117. 水漾亮泽唇油广告 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3"><img src="https://pbs.twimg.com/amplify_video_thumb/2083026240370532352/img/va6iwEuk0e6iFJh2.jpg" alt="水漾亮泽唇油广告" width="700" /></a>
 
@@ -2437,7 +2464,7 @@ Matte finishes, cluttered backgrounds, unkempt hair, muted colors, flat lighting
 **来源:** [@frametheory058](https://x.com/frametheory058/status/2083026293529125308) · 15s · 9:16 · 产品与广告 · 提示词由我们反推
 
 ---
-### 116. SparkRush 海滩气泡饮广告
+### 118. SparkRush 海滩气泡饮广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027608263102464/img/Uf_r7K2AuTU-GQ3y.jpg" alt="SparkRush 海滩气泡饮广告" width="700" /></a>
 
@@ -2450,7 +2477,7 @@ Matte finishes, cluttered backgrounds, unkempt hair, muted colors, flat lighting
 **来源:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · 15s · 3:4 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 117. 鲜美之选创意美食 `AI 反推`
+### 119. 鲜美之选创意美食 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw"><img src="https://pbs.twimg.com/amplify_video_thumb/2083194069178875904/img/NIixRt3u30ZFH2Xo.jpg" alt="鲜美之选创意美食" width="700" /></a>
 
@@ -2489,7 +2516,7 @@ Messy plating, soft lighting, muted colors, camera panning, handheld movement, c
 **来源:** [@thisismariaa25](https://x.com/thisismariaa25/status/2083194269867663690) · 15s · 9:16 · 产品与广告 · 提示词由我们反推
 
 ---
-### 118. 金黄时刻的粉色优雅 `AI 反推`
+### 120. 金黄时刻的粉色优雅 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207009852411905/img/6riNYByo0h0kqq3s.jpg" alt="金黄时刻的粉色优雅" width="700" /></a>
 
@@ -2528,7 +2555,7 @@ Cluttered backgrounds, harsh fluorescent lighting, fast handheld camera shaking,
 **来源:** [@KaiteeShiks](https://x.com/KaiteeShiks/status/2083207031281127803) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 119. NOIRLIFT美睫教程 `AI 反推`
+### 121. NOIRLIFT美睫教程 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083447666487463936/img/RVsRnL68UlpR5BM1.jpg" alt="NOIRLIFT美睫教程" width="700" /></a>
 
@@ -2567,7 +2594,7 @@ Text morphing, inconsistent nail polish, distorted mirror reflections, unnatural
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2083447690885829102) · 15s · 9:16 · 产品与广告 · 提示词由我们反推
 
 ---
-### 120. 草莓饮品变形广告
+### 122. 草莓饮品变形广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083189657689309184/img/0QRnAmUguoG3eCns.jpg" alt="草莓饮品变形广告" width="700" /></a>
 
@@ -2580,7 +2607,7 @@ Text morphing, inconsistent nail polish, distorted mirror reflections, unnatural
 **来源:** [@GumVue](https://x.com/GumVue/status/2083189719827878083) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 121. 奢华美睫彩妆广告 `AI 反推`
+### 123. 奢华美睫彩妆广告 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726198329933825/img/AoFwAnbE0YQ6DBfy.jpg" alt="奢华美睫彩妆广告" width="700" /></a>
 
@@ -2619,7 +2646,7 @@ Handheld camera shake, harsh shadows, cluttered backgrounds, unnatural eye track
 **来源:** [@AIwithAliya](https://x.com/AIwithAliya/status/2082727204501283226) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 122. 都市镜界，雅致随行 `AI 反推`
+### 124. 都市镜界，雅致随行 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082812199731675137/pu/img/XqJeZkBR_XlraiGl.jpg" alt="都市镜界，雅致随行" width="700" /></a>
 
@@ -2658,7 +2685,7 @@ Mismatched reflections, distorted sunglasses frames, extra fingers during the ad
 **来源:** [@Itswsm105f](https://x.com/Itswsm105f/status/2082812240588353997) · 15s · 21:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 123. 普拉达粉色霓虹香水 `AI 反推`
+### 125. 普拉达粉色霓虹香水 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849469339422720/img/3o4i2kVPntSlhKQ4.jpg" alt="普拉达粉色霓虹香水" width="700" /></a>
 
@@ -2697,7 +2724,7 @@ Daylight, natural settings, flat lighting, cluttered backgrounds, casual streetw
 **来源:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2082849737510678554) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 124. 奢侈品香水广告
+### 126. 奢侈品香水广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083059373665116160/img/c1dXdYscwDPj7IWe.jpg" alt="奢侈品香水广告" width="700" /></a>
 
@@ -2710,7 +2737,7 @@ Daylight, natural settings, flat lighting, cluttered backgrounds, casual streetw
 **来源:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 125. 多芬纯净柔肤广告 `AI 反推`
+### 127. 多芬纯净柔肤广告 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr"><img src="https://pbs.twimg.com/amplify_video_thumb/2083606254367215616/img/Zd1jb7r8xhgKNGz1.jpg" alt="多芬纯净柔肤广告" width="700" /></a>
 
@@ -2749,7 +2776,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@IsabellaHan_](https://x.com/IsabellaHan_/status/2083606664209424824) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 126. 深夜拉面 UGC 自拍 vlog
+### 128. 深夜拉面 UGC 自拍 vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s"><img src="https://pbs.twimg.com/amplify_video_thumb/2083461177083117568/img/vVytFY0M5qIjt1lZ.jpg" alt="深夜拉面 UGC 自拍 vlog" width="700" /></a>
 
@@ -2762,7 +2789,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@Taaruk_](https://x.com/Taaruk_/status/2083461207919612348) · 15s · 21:9 · 产品与广告
 
 ---
-### 127. 奢侈腕表分镜广告
+### 129. 奢侈腕表分镜广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo"><img src="https://pbs.twimg.com/amplify_video_thumb/2083051589032660992/img/iWJaoMFiOxD8Biqv.jpg" alt="奢侈腕表分镜广告" width="700" /></a>
 
@@ -2775,7 +2802,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@I_amShiti](https://x.com/I_amShiti/status/2083051609953903017) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 128. 唇油 UGC 自拍广告
+### 130. 唇油 UGC 自拍广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5"><img src="https://pbs.twimg.com/amplify_video_thumb/2083075159360196608/img/8qyuXc9A-wgcu6Sr.jpg" alt="唇油 UGC 自拍广告" width="700" /></a>
 
@@ -2788,7 +2815,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2083075282186256521) · 15s · 16:9 · 产品与广告
 
 ---
-### 129. 黑金香水广告
+### 131. 黑金香水广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083079175674417152/img/JIvzhVgjb7giBggC.jpg" alt="黑金香水广告" width="700" /></a>
 
@@ -2801,7 +2828,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@kingofdairyque](https://x.com/kingofdairyque/status/2083079304632520833) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 130. UGC风格汉堡测评视频
+### 132. UGC风格汉堡测评视频
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083436762995826688/img/0yqQAGpWhYgdRrk3.jpg" alt="UGC风格汉堡测评视频" width="700" /></a>
 
@@ -2814,7 +2841,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **来源:** [@oggii_0](https://x.com/oggii_0/status/2083436822085165289) · 15s · 21:9 · 产品与广告
 
 ---
-### 131. 微距美妆广告 `AI 反推`
+### 133. 微距美妆广告 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027153755713536/img/HazN6Bo7AV158Ic9.jpg" alt="微距美妆广告" width="700" /></a>
 
@@ -2853,7 +2880,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@iamrealsnow](https://x.com/iamrealsnow/status/2083027203651178519) · 15s · 16:9 · 产品与广告 · 提示词由我们反推
 
 ---
-### 132. 奢华耳机产品展示
+### 134. 奢华耳机产品展示
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="奢华耳机产品展示" width="700" /></a>
 
@@ -2866,7 +2893,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · 产品与广告
 
 ---
-### 133. 大理石阶梯唇釉广告
+### 135. 大理石阶梯唇釉广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya"><img src="https://pbs.twimg.com/amplify_video_thumb/2082845774287978496/img/hyJLSh1icnfaiLTv.jpg" alt="大理石阶梯唇釉广告" width="700" /></a>
 
@@ -2879,7 +2906,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2082845923152150697) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 134. 竖版精华液广告
+### 136. 竖版精华液广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083081494977986560/img/vgPZgorPhUF_xMEn.jpg" alt="竖版精华液广告" width="700" /></a>
 
@@ -2892,7 +2919,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@noorlewisx](https://x.com/noorlewisx/status/2083081579262591469) · 15s · 9:16 · 产品与广告
 
 ---
-### 135. 奢华护肤品概念广告
+### 137. 奢华护肤品概念广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="奢华护肤品概念广告" width="700" /></a>
 
@@ -2905,7 +2932,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · 产品与广告
 
 ---
-### 136. NOVA X 智能手机 TVC
+### 138. NOVA X 智能手机 TVC
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083048789905162240/pu/img/82vr1KACJ7LLMRmV.jpg" alt="NOVA X 智能手机 TVC" width="700" /></a>
 
@@ -2918,7 +2945,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 137. 时尚奢华手袋广告
+### 139. 时尚奢华手袋广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082804376343826432/img/E-2r1ZZ7d3rVdzWm.jpg" alt="时尚奢华手袋广告" width="700" /></a>
 
@@ -2931,7 +2958,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@AIwithJessica](https://x.com/AIwithJessica/status/2082804771220804089) · 15s · 16:9 · 产品与广告
 
 ---
-### 138. 清凉夏日果汁广告
+### 140. 清凉夏日果汁广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082533033853304832/img/Bfv_SKxmUN_cV_4i.jpg" alt="清凉夏日果汁广告" width="700" /></a>
 
@@ -2944,7 +2971,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@navi_Ai2](https://x.com/navi_Ai2/status/2082533116732674155) · 15s · 16:9 · 产品与广告
 
 ---
-### 139. 草莓季节匹配剪辑美食广告
+### 141. 草莓季节匹配剪辑美食广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827810046128128/img/v8KnNNINBug8X4AJ.jpg" alt="草莓季节匹配剪辑美食广告" width="700" /></a>
 
@@ -2957,7 +2984,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · 15s · 21:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 140. 白色无缝背景高端眼镜大片
+### 142. 白色无缝背景高端眼镜大片
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082820088584167424/img/w9No1fv9fd-hgj1C.jpg" alt="白色无缝背景高端眼镜大片" width="700" /></a>
 
@@ -2970,7 +2997,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@hey_leomartin](https://x.com/hey_leomartin/status/2082820121882665060) · 15s · 9:16 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 141. UGC风格护肤品广告
+### 143. UGC风格护肤品广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por"><img src="https://pbs.twimg.com/amplify_video_thumb/2083010639748882432/img/l0l1V9NgcetYyhCQ.jpg" alt="UGC风格护肤品广告" width="700" /></a>
 
@@ -2983,7 +3010,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2083011066800242986) · 15s · 16:9 · 产品与广告
 
 ---
-### 142. 机甲手游新赛季 CG 广告
+### 144. 机甲手游新赛季 CG 广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff"><img src="https://pbs.twimg.com/amplify_video_thumb/2083128170816192512/img/THKmP_Q75zOBaWYJ.jpg" alt="机甲手游新赛季 CG 广告" width="700" /></a>
 
@@ -2996,7 +3023,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@liyue_ai](https://x.com/liyue_ai/status/2083128868668666020) · 15s · 16:9 · 产品与广告
 
 ---
-### 143. 霓虹噩梦汉堡广告
+### 145. 霓虹噩梦汉堡广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549359028076544/img/PMQJROMBjKOmhc0B.jpg" alt="霓虹噩梦汉堡广告" width="700" /></a>
 
@@ -3009,7 +3036,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@xavier_mitjana](https://x.com/xavier_mitjana/status/2082549709240160587) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 144. 沙漠秀场时装广告
+### 146. 沙漠秀场时装广告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082897532448116736/img/qzCoyRxBb_3-ROlb.jpg" alt="沙漠秀场时装广告" width="700" /></a>
 
@@ -3022,7 +3049,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · 15s · 16:9 · 产品与广告
 
 ---
-### 145. 小偷尴尬的产品借口
+### 147. 小偷尴尬的产品借口
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv"><img src="https://pbs.twimg.com/amplify_video_thumb/2082644975087673344/img/VYxlEJjsozQUtXeM.jpg" alt="小偷尴尬的产品借口" width="700" /></a>
 
@@ -3035,7 +3062,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@ponzponz15](https://x.com/ponzponz15/status/2082646007444300101) · 15s · 3:4 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 146. 高速运动产品落地页
+### 148. 高速运动产品落地页
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776318475665408/img/X_FKBjcy7t8wAHo1.jpg" alt="高速运动产品落地页" width="700" /></a>
 
@@ -3048,7 +3075,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@Voxyz_ai](https://x.com/Voxyz_ai/status/2082777543824789559) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 147. 赛博脏系时尚片 · VHS 故障
+### 149. 赛博脏系时尚片 · VHS 故障
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083021093393072128/pu/img/Xzgglq3gkGzUO3gf.jpg" alt="赛博脏系时尚片 · VHS 故障" width="700" /></a>
 
@@ -3061,7 +3088,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@fal](https://x.com/fal/status/2083021146341978345) · 15s · 16:9 · 产品与广告 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 148. 金融科技动态图形：信用卡变金币
+### 150. 金融科技动态图形：信用卡变金币
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100147377671655632"><img src="https://pbs.twimg.com/amplify_video_thumb/2100146691110264832/img/GXaXY1YaU92wOjK2.jpg" alt="金融科技动态图形：信用卡变金币" width="700" /></a>
 
@@ -3074,7 +3101,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@egeberkina](https://x.com/egeberkina/status/2100147377671655632) · 14s · 16:9 · 产品与广告
 
 ---
-### 149. 奢华香水广告：七个场景的浪漫约会之夜
+### 151. 奢华香水广告：七个场景的浪漫约会之夜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2105895582275657852"><img src="https://pbs.twimg.com/amplify_video_thumb/2105894791510990848/img/tBo1yGd68xf1IX1-.jpg" alt="奢华香水广告：七个场景的浪漫约会之夜" width="700" /></a>
 
@@ -3087,9 +3114,36 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@CaliraVal](https://x.com/CaliraVal/status/2105895582275657852) · 15s · 4:3 · 产品与广告
 
 ---
+### 152. 雪碧高尔夫英雄片：REFRESH. RELOAD. PLAY.
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106337250346664007"><img src="https://pbs.twimg.com/amplify_video_thumb/2106337036135247873/img/zd4luvFG9bGjHJkW.jpg" alt="雪碧高尔夫英雄片：REFRESH. RELOAD. PLAY." width="700" /></a>
+
+<strong>提示词</strong> — 0–2s — THE SIP Fast close-up of the ginger-haired golfer on a sunny golf course. She grabs the Sprite can, cracks it open — PSHHHT! — condensation and tiny droplets flying in slow motion. She takes a refreshing sip and gives a confident little smirk…
+
+[**读完整提示词 →**](https://x.com/sophiaparkerr_/status/2106337250346664007) （1553 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/sophiaparkerr_/status/2106337250346664007)
+
+**来源:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2106337250346664007) · 15s · 16:9 · 产品与广告
+
+---
+
+### 153. ROSE GLOW 时尚大片：13 镜 + 动态字体
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106227539018764520"><img src="https://pbs.twimg.com/amplify_video_thumb/2106227278816669696/img/IXeF44bZJwLW1Q1Z.jpg" alt="ROSE GLOW 时尚大片：13 镜 + 动态字体" width="700" /></a>
+
+<strong>提示词</strong> — Create a 15s, 16:9, 24fps live-action fashion magazine trailer with exactly 13 cuts. Style: Korean/Asian luxury fashion editorial × pink campaign × kinetic typography. Theme: ROSE GLOW. Tagline: SOFT ATTITUDE…
+
+[**读完整提示词 →**](https://x.com/ImaStudio_ai/status/2106227539018764520) （1993 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/ImaStudio_ai/status/2106227539018764520)
+
+**来源:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2106227539018764520) · 15s · 16:9 · 产品与广告
+
+---
 ## 人物与表演
 
-### 150. 赛博朋克冰蓝角色觉醒
+### 154. 赛博朋克冰蓝角色觉醒
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082829859945095168/img/mZ8MZFbcc58C1feK.jpg" alt="赛博朋克冰蓝角色觉醒" width="700" /></a>
 
@@ -3102,7 +3156,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@ainextastro](https://x.com/ainextastro/status/2082830892209221921) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 151. 情景喜剧游戏秀选择
+### 155. 情景喜剧游戏秀选择
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://pbs.twimg.com/amplify_video_thumb/2083130633048694784/img/6bfTlMdE8iKutjpq.jpg" alt="情景喜剧游戏秀选择" width="700" /></a>
 
@@ -3115,7 +3169,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2083130683183255894) · 15s · 16:9 · 人物表演
 
 ---
-### 152. 披萨之夜 UGC Vlog
+### 156. 披萨之夜 UGC Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799495843295232/img/r2dr2vS7Z7fKbmY1.jpg" alt="披萨之夜 UGC Vlog" width="700" /></a>
 
@@ -3128,7 +3182,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **来源:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 153. 废墟食尸鬼袭击 `AI 反推`
+### 157. 废墟食尸鬼袭击 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082493201869348864/img/1ON-XOrowJjDPQ26.jpg" alt="废墟食尸鬼袭击" width="700" /></a>
 
@@ -3167,7 +3221,7 @@ Smooth camera stabilization, professional three-point lighting, cheerful atmosph
 **来源:** [@HauntedAI](https://x.com/HauntedAI/status/2082494343063928966) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 154. 简约白色泳装影棚大片 `AI 反推`
+### 158. 简约白色泳装影棚大片 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083372215303831552/img/w6stuCBDrBGbR2aS.jpg" alt="简约白色泳装影棚大片" width="700" /></a>
 
@@ -3206,7 +3260,7 @@ Cluttered backgrounds, colored wardrobe, messy hair, low-resolution artifacts, c
 **来源:** [@langohi](https://x.com/langohi/status/2083372251127369947) · 15s · 9:16 · 人物表演 · 提示词由我们反推
 
 ---
-### 155. 教室里的吉他弹唱 `AI 反推`
+### 159. 教室里的吉他弹唱 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083332470938963968/img/JBUZQBCQIzbeuptu.jpg" alt="教室里的吉他弹唱" width="700" /></a>
 
@@ -3245,7 +3299,7 @@ Camera movement, quick cuts, heavy shadows, distorted fingers, electric guitars.
 **来源:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083333106808098959) · 15s · 9:16 · 人物表演 · 提示词由我们反推
 
 ---
-### 156. 绿发猫耳娘的街头狂奔 `AI 反推`
+### 160. 绿发猫耳娘的街头狂奔 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082677482504015873/img/DZ3GF350WWqNbZFF.jpg" alt="绿发猫耳娘的街头狂奔" width="700" /></a>
 
@@ -3284,7 +3338,7 @@ AVOID
 **来源:** [@Ayu_AI_0912](https://x.com/Ayu_AI_0912/status/2082678536649965834) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 157. 商场里的捕鼠大战 `AI 反推`
+### 161. 商场里的捕鼠大战 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082720255126777856/img/EZf6zNnIkKAS2hQ_.jpg" alt="商场里的捕鼠大战" width="700" /></a>
 
@@ -3323,7 +3377,7 @@ Dark shadows, slow motion, shallow depth of field, realistic violence, unlit bac
 **来源:** [@kingofdairyque](https://x.com/kingofdairyque/status/2082720442549182727) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 158. 霓虹仓库 K-pop 表演 `AI 反推`
+### 162. 霓虹仓库 K-pop 表演 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082823695522017280/img/fA4P2jZhVX1oXKBm.jpg" alt="霓虹仓库 K-pop 表演" width="700" /></a>
 
@@ -3362,7 +3416,7 @@ Natural sunlight, acoustic instruments, slow pacing, empty environments, vintage
 **来源:** [@Strength04_X](https://x.com/Strength04_X/status/2082823980709560554) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 159. 居酒屋的欢笑时光 `AI 反推`
+### 163. 居酒屋的欢笑时光 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082806540705345536/img/YL1GnG2Xz22kU8kz.jpg" alt="居酒屋的欢笑时光" width="700" /></a>
 
@@ -3401,7 +3455,7 @@ Cuts, camera movement, zooming, serious expressions, daylight, empty glasses.
 **来源:** [@foxyy4i](https://x.com/foxyy4i/status/2082807563842920724) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 160. 夏日水上乐园挑战 `AI 反推`
+### 164. 夏日水上乐园挑战 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou"><img src="https://pbs.twimg.com/amplify_video_thumb/2083364295791013888/img/vJKHlcTzBMOjGyB7.jpg" alt="夏日水上乐园挑战" width="700" /></a>
 
@@ -3440,7 +3494,7 @@ Overcast skies, slow motion, motion blur, distorted text, missing water reflecti
 **来源:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083365015034483139) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 161. 咖啡馆里的温婉人像 `AI 反推`
+### 165. 咖啡馆里的温婉人像 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083563998734397440/img/WomcENlmZMWlbq2W.jpg" alt="咖啡馆里的温婉人像" width="700" /></a>
 
@@ -3479,7 +3533,7 @@ Harsh directional shadows, camera panning, extreme wide shots, distorted typogra
 **来源:** [@poruru_ai](https://x.com/poruru_ai/status/2083564736327913541) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 162. 网球场活力自拍 `AI 反推`
+### 166. 网球场活力自拍 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083223801370697728/img/z6-x24ZUbY2ZqYPz.jpg" alt="网球场活力自拍" width="700" /></a>
 
@@ -3518,7 +3572,7 @@ Camera cuts, zooming, unnatural body proportions, distorted text, artificial stu
 **来源:** [@KeorUnreal](https://x.com/KeorUnreal/status/2083224045504315549) · 15s · 9:16 · 人物表演 · 提示词由我们反推
 
 ---
-### 163. 勃艮第的静谧回响 `AI 反推`
+### 167. 勃艮第的静谧回响 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87"><img src="https://pbs.twimg.com/amplify_video_thumb/2083052507987881984/img/9JJTybOc7JJNmIIp.jpg" alt="勃艮第的静谧回响" width="700" /></a>
 
@@ -3557,7 +3611,7 @@ Other characters, dialogue, fast-paced action, on-screen text, harsh artificial 
 **来源:** [@nbykos](https://x.com/nbykos/status/2083054699088163201) · 15s · 16:9 · 人物表演 · 提示词由我们反推
 
 ---
-### 164. 涩谷街头随性律动 `AI 反推`
+### 168. 涩谷街头随性律动 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082813119949340672/img/NnyJo_SERECOGvY4.jpg" alt="涩谷街头随性律动" width="700" /></a>
 
@@ -3596,7 +3650,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/2082814238549229756) · 15s · 9:16 · 人物表演 · 提示词由我们反推
 
 ---
-### 165. 阳光街巷中的时尚起舞
+### 169. 阳光街巷中的时尚起舞
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583229815066624/img/RvMQMqCNGSEpPqbg.jpg" alt="阳光街巷中的时尚起舞" width="700" /></a>
 
@@ -3609,7 +3663,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2083583963512062019) · 15s · 16:9 · 人物表演
 
 ---
-### 166. 韩系爱豆 VHS 美妆 Vlog
+### 170. 韩系爱豆 VHS 美妆 Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg" alt="韩系爱豆 VHS 美妆 Vlog" width="700" /></a>
 
@@ -3622,7 +3676,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2083043197937209852) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 167. 霸总与清洁妇短剧
+### 171. 霸总与清洁妇短剧
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas"><img src="https://pbs.twimg.com/amplify_video_thumb/2082650435702448129/img/tc349pyDIc760PJh.jpg" alt="霸总与清洁妇短剧" width="700" /></a>
 
@@ -3635,7 +3689,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@drjoetw](https://x.com/drjoetw/status/2082650526362333627) · 15s · 9:16 · 人物表演
 
 ---
-### 168. 暗黑说唱时尚杂志 MV
+### 172. 暗黑说唱时尚杂志 MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n"><img src="https://pbs.twimg.com/amplify_video_thumb/2082817352001835008/img/Csp-Dx37Ynv9DbNe.jpg" alt="暗黑说唱时尚杂志 MV" width="700" /></a>
 
@@ -3648,7 +3702,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@MO_IAI](https://x.com/MO_IAI/status/2082818054598066367) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 169. 卡点 K-Pop 多模态 MV
+### 173. 卡点 K-Pop 多模态 MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg" alt="卡点 K-Pop 多模态 MV" width="700" /></a>
 
@@ -3661,7 +3715,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@aisearchio](https://x.com/aisearchio/status/2082932693613043716) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 170. 嘻哈角色对口型表演
+### 174. 嘻哈角色对口型表演
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064633179467776/img/_q0bXQhlvvcFUIBq.jpg" alt="嘻哈角色对口型表演" width="700" /></a>
 
@@ -3674,7 +3728,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@bennash](https://x.com/bennash/status/2083065653104107776) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 171. 脏系嘻哈 MV 氛围
+### 175. 脏系嘻哈 MV 氛围
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032212849692672/img/f7-vkPSjS3qIey-c.jpg" alt="脏系嘻哈 MV 氛围" width="700" /></a>
 
@@ -3687,7 +3741,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@tebasaki3D](https://x.com/tebasaki3D/status/2083032443226030578) · 15s · 16:9 · 人物表演 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 172. 想跳支舞吗
+### 176. 想跳支舞吗
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082612219984896000/img/OVyGlOA7F8wNsxd1.jpg" alt="想跳支舞吗" width="700" /></a>
 
@@ -3702,7 +3756,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 ---
 ## 特效与转场
 
-### 173. Y2K K-Pop 糖果字体 MV
+### 177. Y2K K-Pop 糖果字体 MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083240391483248640/img/h0WIFWLrpMCb16FL.jpg" alt="Y2K K-Pop 糖果字体 MV" width="700" /></a>
 
@@ -3715,7 +3769,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@LeoCreaIA](https://x.com/LeoCreaIA/status/2083240416166748313) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 174. 蒙娜丽莎游戏选角与换装
+### 178. 蒙娜丽莎游戏选角与换装
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://pbs.twimg.com/amplify_video_thumb/2083552730233114624/img/zZaVXYLxeHSBXpiF.jpg" alt="蒙娜丽莎游戏选角与换装" width="700" /></a>
 
@@ -3728,7 +3782,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2083555429758464203) · 15s · 16:9 · 特效与转场
 
 ---
-### 175. 无缝循环：刀刃重组
+### 179. 无缝循环：刀刃重组
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082933612463210497/img/kWpEnLDDmzRCZrKR.jpg" alt="无缝循环：刀刃重组" width="700" /></a>
 
@@ -3741,7 +3795,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 176. Lilia Astra 片头序列
+### 180. Lilia Astra 片头序列
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo"><img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Lilia Astra 片头序列" width="700" /></a>
 
@@ -3754,7 +3808,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 177. 极冰交互网页首屏动画
+### 181. 极冰交互网页首屏动画
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083178671440023552/img/VMAqXAYVXbVbBr_s.jpg" alt="极冰交互网页首屏动画" width="700" /></a>
 
@@ -3767,7 +3821,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083180088775045626) · 15s · 16:9 · 特效与转场
 
 ---
-### 178. 现代战争 FPS 游戏画面
+### 182. 现代战争 FPS 游戏画面
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064240735502337/img/Q-HhsorV1hPAqQRR.jpg" alt="现代战争 FPS 游戏画面" width="700" /></a>
 
@@ -3780,7 +3834,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 179. 彩色涂料武器选择界面
+### 183. 彩色涂料武器选择界面
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082877570417033217/img/Z2pmB-iMgeryc30H.jpg" alt="彩色涂料武器选择界面" width="700" /></a>
 
@@ -3793,7 +3847,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082893990995619967) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 180. 80年代科幻机器人变身
+### 184. 80年代科幻机器人变身
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082795304978673664/img/ziSEtz-3uEN1E0Kg.jpg" alt="80年代科幻机器人变身" width="700" /></a>
 
@@ -3806,7 +3860,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **来源:** [@BrentLynch](https://x.com/BrentLynch/status/2082795364793409884) · 15s · 16:9 · 特效与转场
 
 ---
-### 181. 霓虹魔法洗衣房 `AI 反推`
+### 185. 霓虹魔法洗衣房 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym"><img src="https://pbs.twimg.com/amplify_video_thumb/2082496011889725440/img/VCp2pslUtSOy3MDS.jpg" alt="霓虹魔法洗衣房" width="700" /></a>
 
@@ -3845,7 +3899,7 @@ Third-person perspective, photorealistic CGI entities, natural daylight, static 
 **来源:** [@RenLeanna](https://x.com/RenLeanna/status/2082496075773202796) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 182. 一镜到底街头换装 `AI 反推`
+### 186. 一镜到底街头换装 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c"><img src="https://pbs.twimg.com/amplify_video_thumb/2083346630175064064/img/gS_Uw79DU86aXpPc.jpg" alt="一镜到底街头换装" width="700" /></a>
 
@@ -3884,7 +3938,7 @@ Cuts, camera shake, inconsistent facial identity, warped architecture, changing 
 **来源:** [@AllaAisling](https://x.com/AllaAisling/status/2083346766154318153) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 183. 霓虹街头瞬间变装 `AI 反推`
+### 187. 霓虹街头瞬间变装 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082672128848228352/img/O_Sl2Mdbmyq-r2Q9.jpg" alt="霓虹街头瞬间变装" width="700" /></a>
 
@@ -3923,7 +3977,7 @@ Motion blur, anatomical distortions, inconsistent background architecture, muted
 **来源:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2082672185437544729) · 15s · 9:16 · 特效与转场 · 提示词由我们反推
 
 ---
-### 184. 三维创意文字特效 `AI 反推`
+### 188. 三维创意文字特效 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082911619546324992/pu/img/EWQEBeflj1yinINd.jpg" alt="三维创意文字特效" width="700" /></a>
 
@@ -3962,7 +4016,7 @@ Misspelled text, flat 2D overlays, static framing, low contrast, soft focus.
 **来源:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082911709296046099) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 185. 聆听超越现实 `AI 反推`
+### 189. 聆听超越现实 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083596375414165505/img/LmwpPreHadpBXb6z.jpg" alt="聆听超越现实" width="700" /></a>
 
@@ -4001,7 +4055,7 @@ Visible brand logos, abrupt camera cuts, poorly lit faces, mismatched eyelines, 
 **来源:** [@jasminekhan90_](https://x.com/jasminekhan90_/status/2083596412852601051) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 186. 暗黑时尚光影轨迹 `AI 反推`
+### 190. 暗黑时尚光影轨迹 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082889085627043840/pu/img/P4MTIpmtp9zwlMGU.jpg" alt="暗黑时尚光影轨迹" width="700" /></a>
 
@@ -4040,7 +4094,7 @@ Natural sunlight, smooth cinematic panning, slow pacing, pastel colors, acoustic
 **来源:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2082889113296916632) · 15s · 1:1 · 特效与转场 · 提示词由我们反推
 
 ---
-### 187. Y2K 排版风偶像快切 `AI 反推`
+### 191. Y2K 排版风偶像快切 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2082591265296879616/img/KUxIacXKgQagDkbV.jpg" alt="Y2K 排版风偶像快切" width="700" /></a>
 
@@ -4079,7 +4133,7 @@ Camera shake, natural environments, shallow depth of field, slow pacing, 3D anim
 **来源:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI/status/2082592331451232271) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 188. 奇幻卡牌构筑战斗界面
+### 192. 奇幻卡牌构筑战斗界面
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="奇幻卡牌构筑战斗界面" width="700" /></a>
 
@@ -4092,7 +4146,7 @@ Camera shake, natural environments, shallow depth of field, slow pacing, 3D anim
 **来源:** [@AllaAisling](https://x.com/AllaAisling/status/2082909383424446745) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 189. 时空无缝变装 `AI 反推`
+### 193. 时空无缝变装 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082688053810987008/img/ezbFcwHOAOR8oHZj.jpg" alt="时空无缝变装" width="700" /></a>
 
@@ -4131,7 +4185,7 @@ Camera pans, subject looking away, jagged transition cuts, facial distortion, le
 **来源:** [@AIwithkhan](https://x.com/AIwithkhan/status/2082688149470470241) · 15s · 16:9 · 特效与转场 · 提示词由我们反推
 
 ---
-### 190. 跨越时空的无缝变装 `AI 反推`
+### 194. 跨越时空的无缝变装 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776732008869889/img/dv6yYo940i929WgB.jpg" alt="跨越时空的无缝变装" width="700" /></a>
 
@@ -4170,7 +4224,7 @@ Camera cuts, facial feature changes, breaking eye contact, jerky movements, inco
 **来源:** [@kathae909](https://x.com/kathae909/status/2082777211094835242) · 15s · 4:3 · 特效与转场 · 提示词由我们反推
 
 ---
-### 191. 都市幻影装甲觉醒 `AI 反推`
+### 195. 都市幻影装甲觉醒 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh"><img src="https://pbs.twimg.com/amplify_video_thumb/2083409160759365632/img/NZBEMLMytSOS8zp1.jpg" alt="都市幻影装甲觉醒" width="700" /></a>
 
@@ -4209,7 +4263,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@iX00AI](https://x.com/iX00AI/status/2083410197423485347) · 15s · 9:16 · 特效与转场 · 提示词由我们反推
 
 ---
-### 192. 风暴悬崖高尔夫物理挑战
+### 196. 风暴悬崖高尔夫物理挑战
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799369359695872/img/kThOwGl2hm7YGIbu.jpg" alt="风暴悬崖高尔夫物理挑战" width="700" /></a>
 
@@ -4222,7 +4276,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082799981426037151) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 193. 水墨虾跃入未来都市
+### 197. 水墨虾跃入未来都市
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" alt="水墨虾跃入未来都市" width="700" /></a>
 
@@ -4235,7 +4289,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@nicekate8888](https://x.com/nicekate8888/status/2082746108493848857) · 15s · 16:9 · 特效与转场 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 194. 巨型广告牌颜料飞出又回填
+### 198. 巨型广告牌颜料飞出又回填
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2101177915849539729"><img src="https://pbs.twimg.com/amplify_video_thumb/2101177717991542784/img/OeCygLAXPaxVoOQu.jpg" alt="巨型广告牌颜料飞出又回填" width="700" /></a>
 
@@ -4248,7 +4302,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@ai_lifehack55](https://x.com/ai_lifehack55/status/2101177915849539729) · 15s · 1:1 · 特效与转场
 
 ---
-### 195. 一滴墨水生长成文字
+### 199. 一滴墨水生长成文字
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099135809316409686"><img src="https://pbs.twimg.com/amplify_video_thumb/2099135766303838208/img/93m7aKHGvpaQZx79.jpg" alt="一滴墨水生长成文字" width="700" /></a>
 
@@ -4261,7 +4315,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@azed_ai](https://x.com/azed_ai/status/2099135809316409686) · 15s · 16:9 · 特效与转场
 
 ---
-### 196. 拼贴画活起来：每一格独立运动
+### 200. 拼贴画活起来：每一格独立运动
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099103139068608933"><img src="https://pbs.twimg.com/amplify_video_thumb/2099103085863854089/img/MLB7U_YinDiag3d2.jpg" alt="拼贴画活起来：每一格独立运动" width="700" /></a>
 
@@ -4274,9 +4328,22 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@zeng_wt](https://x.com/zeng_wt/status/2099103139068608933) · 15s · 16:9 · 特效与转场
 
 ---
+### 201. BURN：环境熔铸的火焰字标题序列
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106398901267812627"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106398870762631168/pu/img/yDTQW3yG8LiDxZzV.jpg" alt="BURN：环境熔铸的火焰字标题序列" width="700" /></a>
+
+<strong>提示词</strong> — Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fuel suspended in darkness as a spark suddenly ignites its surface. Fire spreads explosively outward and the camera rockets backward through a chain reaction of enormous fuel explosions…
+
+[**读完整提示词 →**](https://x.com/CharaspowerAI/status/2106398901267812627) （1077 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/CharaspowerAI/status/2106398901267812627)
+
+**来源:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2106398901267812627) · 15s · 16:9 · 特效与转场
+
+---
 ## 运镜
 
-### 197. 混凝土广场的滑板落地
+### 202. 混凝土广场的滑板落地
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082683540429586432/img/ygYWxxtzYyXfqa26.jpg" alt="混凝土广场的滑板落地" width="700" /></a>
 
@@ -4289,7 +4356,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 15s · 16:9 · 运镜 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 198. 孟买季风 FPV 穿越机
+### 203. 孟买季风 FPV 穿越机
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082737859489046528/img/dZcqqC0uYg7jfVgJ.jpg" alt="孟买季风 FPV 穿越机" width="700" /></a>
 
@@ -4302,7 +4369,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **来源:** [@CurieuxExplorer](https://x.com/CurieuxExplorer/status/2082747871103942674) · 15s · 3:4 · 运镜 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 199. 城市天台极限跑酷 `AI 反推`
+### 204. 城市天台极限跑酷 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082735950707195904/img/b9ybN1upIYdvWb_V.jpg" alt="城市天台极限跑酷" width="700" /></a>
 
@@ -4341,7 +4408,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@HustleXR](https://x.com/HustleXR/status/2082735985864130911) · 15s · 16:9 · 运镜 · 提示词由我们反推
 
 ---
-### 200. 夜店霹雳舞环绕运镜
+### 205. 夜店霹雳舞环绕运镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg" alt="夜店霹雳舞环绕运镜" width="700" /></a>
 
@@ -4354,7 +4421,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@luisnomad](https://x.com/luisnomad/status/2082754694250717186) · 15s · 16:9 · 运镜 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 201. 巴塞罗那俯瞰航拍运镜
+### 206. 巴塞罗那俯瞰航拍运镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083056439854309376/img/DFzzmaMiGh2jLSVR.jpg" alt="巴塞罗那俯瞰航拍运镜" width="700" /></a>
 
@@ -4367,7 +4434,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Diplomeme](https://x.com/Diplomeme/status/2083056488122380671) · 15s · 1:1 · 运镜
 
 ---
-### 202. 日出翼装峡谷飞行
+### 207. 日出翼装峡谷飞行
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg" alt="日出翼装峡谷飞行" width="700" /></a>
 
@@ -4380,7 +4447,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@sebatheepan](https://x.com/sebatheepan/status/2082731549707927857) · 15s · 16:9 · 运镜 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 203. 第一视角拳赛实拍
+### 208. 第一视角拳赛实拍
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032979555639296/img/hP4q_CcPc9bRsQXn.jpg" alt="第一视角拳赛实拍" width="700" /></a>
 
@@ -4393,7 +4460,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@johnAGI168](https://x.com/johnAGI168/status/2083033353679221043) · 15s · 9:16 · 运镜
 
 ---
-### 204. 喷气背包穿越山谷
+### 209. 喷气背包穿越山谷
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs"><img src="https://pbs.twimg.com/amplify_video_thumb/2082793987266711552/img/7NTXdwjcZVFoOsbB.jpg" alt="喷气背包穿越山谷" width="700" /></a>
 
@@ -4406,7 +4473,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2082794108998078815) · 15s · 16:9 · 运镜 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 205. 悬崖都市极速追逐
+### 210. 悬崖都市极速追逐
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="悬崖都市极速追逐" width="700" /></a>
 
@@ -4419,7 +4486,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@umesh_ai](https://x.com/umesh_ai/status/2082499539735588916) · 15s · 16:9 · 运镜
 
 ---
-### 206. 悬崖俯瞰与激浪运镜
+### 211. 悬崖俯瞰与激浪运镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg" alt="悬崖俯瞰与激浪运镜" width="700" /></a>
 
@@ -4432,7 +4499,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@umesh_ai](https://x.com/umesh_ai/status/2082700637444452380) · 15s · 16:9 · 运镜
 
 ---
-### 207. 女战士环绕运镜
+### 212. 女战士环绕运镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083532443408113665/img/t1N0rkwgcQwFkHae.jpg" alt="女战士环绕运镜" width="700" /></a>
 
@@ -4445,7 +4512,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Malzahran2](https://x.com/Malzahran2/status/2083532686845497568) · 15s · 16:9 · 运镜
 
 ---
-### 208. 赛博动漫 AMV：立体字与急推镜头
+### 213. 赛博动漫 AMV：立体字与急推镜头
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100376185200947214"><img src="https://pbs.twimg.com/amplify_video_thumb/2100285546102931456/img/12pzp3_fmQhQviZf.jpg" alt="赛博动漫 AMV：立体字与急推镜头" width="700" /></a>
 
@@ -4460,7 +4527,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 ---
 ## 参考图与一致性
 
-### 209. 魔幻游戏实机演示
+### 214. 魔幻游戏实机演示
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083085291691319296/img/zEXiiVypelJy1CeR.jpg" alt="魔幻游戏实机演示" width="700" /></a>
 
@@ -4473,7 +4540,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2083085328710238400) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 210. 神圣升华网页动效
+### 215. 神圣升华网页动效
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://pbs.twimg.com/amplify_video_thumb/2083087808584101888/img/YJQUBTO4YrEgmQRA.jpg" alt="神圣升华网页动效" width="700" /></a>
 
@@ -4486,7 +4553,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 211. Q版卡牌对战游戏视频
+### 216. Q版卡牌对战游戏视频
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083200281681244160/img/HMoAH6bI63vla0DX.jpg" alt="Q版卡牌对战游戏视频" width="700" /></a>
 
@@ -4499,7 +4566,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Preda2005](https://x.com/Preda2005/status/2083203349739192726) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 212. 暗黑工业风音乐MV
+### 217. 暗黑工业风音乐MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853327927209984/img/kXZufT3tsmRomY-M.jpg" alt="暗黑工业风音乐MV" width="700" /></a>
 
@@ -4512,7 +4579,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2082854898907931081) · 15s · 1:1 · 参考图与一致性
 
 ---
-### 213. 超现实3D卡通旅行者
+### 218. 超现实3D卡通旅行者
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549060335226880/img/pfjp8U3C5-uRYLTS.jpg" alt="超现实3D卡通旅行者" width="700" /></a>
 
@@ -4525,7 +4592,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2082549084381126957) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 214. 废墟中的科幻角色对峙
+### 219. 废墟中的科幻角色对峙
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082519284975054848/img/ozktwMKlrP63V3TA.jpg" alt="废墟中的科幻角色对峙" width="700" /></a>
 
@@ -4538,7 +4605,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082519983842595100) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 215. 角色一致性环绕
+### 220. 角色一致性环绕
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01"><img src="https://pbs.twimg.com/amplify_video_thumb/2082534851224514560/img/I05cpv8kdt-8wE2x.jpg" alt="角色一致性环绕" width="700" /></a>
 
@@ -4551,7 +4618,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@PromptSin](https://x.com/PromptSin/status/2082534878139355561) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 216. 冬日木屋温馨回忆
+### 221. 冬日木屋温馨回忆
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082501768018366464/img/3UGFF4kJ7fukMPBn.jpg" alt="冬日木屋温馨回忆" width="700" /></a>
 
@@ -4564,7 +4631,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@Strength04_X](https://x.com/Strength04_X/status/2082502202539810991) · 15s · 16:9 · 参考图与一致性
 
 ---
-### 217. 写实角色三视图转盘
+### 222. 写实角色三视图转盘
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499628524806144/img/RO3FacAydnwOLvMB.jpg" alt="写实角色三视图转盘" width="700" /></a>
 
@@ -4577,7 +4644,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082501605803597837) · 15s · 16:9 · 参考图与一致性 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 218. 角色细节蒙太奇：20 个镜头后才露脸
+### 223. 角色细节蒙太奇：20 个镜头后才露脸
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100258514132217859"><img src="https://pbs.twimg.com/amplify_video_thumb/2100258256723509248/img/1pZJCQnJPm8OYE2t.jpg" alt="角色细节蒙太奇：20 个镜头后才露脸" width="700" /></a>
 
@@ -4590,7 +4657,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@aimikoda](https://x.com/aimikoda/status/2100258514132217859) · 15s · 1:1 · 参考图与一致性
 
 ---
-### 219. 机场接机：人潮与狗仔中保持人物一致
+### 224. 机场接机：人潮与狗仔中保持人物一致
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2104131439428247769"><img src="https://pbs.twimg.com/amplify_video_thumb/2104129747953573888/img/qmQQ13xVk-LuOa5E.jpg" alt="机场接机：人潮与狗仔中保持人物一致" width="700" /></a>
 
@@ -4605,7 +4672,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 ---
 ## 视频编辑
 
-### 220. 赛博废土风女团MV
+### 225. 赛博废土风女团MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj"><img src="https://pbs.twimg.com/media/HOiNPd4bMAAp5fu.jpg" alt="赛博废土风女团MV" width="700" /></a>
 
@@ -4618,7 +4685,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@liandeli2](https://x.com/liandeli2/status/2083070647660609837) · 15s · 16:9 · 视频编辑
 
 ---
-### 221. 3×3 分格女说唱手表演
+### 226. 3×3 分格女说唱手表演
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15"><img src="https://pbs.twimg.com/amplify_video_thumb/2082846410349703168/img/X1SVoW46ix7iEcMr.jpg" alt="3×3 分格女说唱手表演" width="700" /></a>
 
@@ -4631,7 +4698,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@lukasersil](https://x.com/lukasersil/status/2082847686185672833) · 15s · 16:9 · 视频编辑 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 222. 硬科幻沙漠 3×3 网格序列
+### 227. 硬科幻沙漠 3×3 网格序列
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479"><img src="https://pbs.twimg.com/amplify_video_thumb/2082610596818685952/img/atJYEAotpCKnNMEn.jpg" alt="硬科幻沙漠 3×3 网格序列" width="700" /></a>
 
@@ -4644,7 +4711,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **来源:** [@techhalla](https://x.com/techhalla/status/2082611421225845158) · 15s · 1:1 · 视频编辑 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 223. 跨越世界的无缝穿梭 `AI 反推`
+### 228. 跨越世界的无缝穿梭 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869570709417984/img/BhZa3fohdWz8mtzd.jpg" alt="跨越世界的无缝穿梭" width="700" /></a>
 
@@ -4683,7 +4750,7 @@ Wardrobe changes, character morphing, camera shake, shallow depth of field obscu
 **来源:** [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2082869776926552278) · 15s · 16:9 · 视频编辑 · 提示词由我们反推
 
 ---
-### 224. 前卫动态视觉时尚型录 `AI 反推`
+### 229. 前卫动态视觉时尚型录 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083536033929416704/pu/img/wXY4DTske5TLJOYI.jpg" alt="前卫动态视觉时尚型录" width="700" /></a>
 
@@ -4722,7 +4789,7 @@ Soft focus, warm natural sunlight, organic environments, slow crossfades, shaky 
 **来源:** [@zahra4sure](https://x.com/zahra4sure/status/2083536105068966324) · 15s · 16:9 · 视频编辑 · 提示词由我们反推
 
 ---
-### 225. 超现实运动风暴 `AI 反推`
+### 230. 超现实运动风暴 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082784127728656384/img/ORRA44iM270MVkTh.jpg" alt="超现实运动风暴" width="700" /></a>
 
@@ -4761,7 +4828,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **来源:** [@ibexdream](https://x.com/ibexdream/status/2082785689758826676) · 15s · 9:16 · 视频编辑 · 提示词由我们反推
 
 ---
-### 226. 复古DV风健身房记录
+### 231. 复古DV风健身房记录
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083048714990755840/img/DUZs0Q7QbrW1xq5v.jpg" alt="复古DV风健身房记录" width="700" /></a>
 
@@ -4774,7 +4841,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **来源:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · 15s · 16:9 · 视频编辑
 
 ---
-### 227. 巴黎巨型章鱼：一段素材生成六个机位
+### 232. 巴黎巨型章鱼：一段素材生成六个机位
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2102318276642553907"><img src="https://pbs.twimg.com/amplify_video_thumb/2102317347700633600/img/s5RdI3REMqp6M2lz.jpg" alt="巴黎巨型章鱼：一段素材生成六个机位" width="700" /></a>
 
@@ -4789,7 +4856,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 ---
 ## 对白与音效
 
-### 228. 沙漠对峙 · 15 秒一镜到底
+### 233. 沙漠对峙 · 15 秒一镜到底
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082560936645152769/img/1mJ8RYmFcQdGZZbA.jpg" alt="沙漠对峙 · 15 秒一镜到底" width="700" /></a>
 
@@ -4802,7 +4869,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **来源:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · 15s · 16:9 · 对白与音效
 
 ---
-### 229. 1980 年代开源家庭喜剧
+### 234. 1980 年代开源家庭喜剧
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic"><img src="https://pbs.twimg.com/amplify_video_thumb/2083019948671303680/img/02M_fWKQOjMaBUCp.jpg" alt="1980 年代开源家庭喜剧" width="700" /></a>
 
@@ -4815,7 +4882,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **来源:** [@BrentLynch](https://x.com/BrentLynch/status/2083020024340693185) · 15s · 16:9 · 对白与音效 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 230. 真人告白情感戏
+### 235. 真人告白情感戏
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082547031676014592/img/Z7cGjkHpS19_35ja.jpg" alt="真人告白情感戏" width="700" /></a>
 
@@ -4828,7 +4895,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **来源:** [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA/status/2082548512286224793) · 15s · 16:9 · 对白与音效 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 231. 隔空的心碎对话 `AI 反推`
+### 236. 隔空的心碎对话 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083122565141372928/img/QYmtLqa12GSUy-LU.jpg" alt="隔空的心碎对话" width="700" /></a>
 
@@ -4867,7 +4934,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@magnific](https://x.com/magnific/status/2083122600738521398) · 15s · 16:9 · 对白与音效 · 提示词由我们反推
 
 ---
-### 232. 韩国黑色电影预告
+### 237. 韩国黑色电影预告
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790293515186176/img/dD0I_gut4aCMoCLt.jpg" alt="韩国黑色电影预告" width="700" /></a>
 
@@ -4880,7 +4947,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@doctorwasif](https://x.com/doctorwasif/status/2082790356983447606) · 15s · 16:9 · 对白与音效
 
 ---
-### 233. 波尔图 Francesinha 喜剧食谱
+### 238. 波尔图 Francesinha 喜剧食谱
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083172712868880384/img/3SQKBDnjoOqfejd8.jpg" alt="波尔图 Francesinha 喜剧食谱" width="700" /></a>
 
@@ -4893,7 +4960,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@imagineFERA](https://x.com/imagineFERA/status/2083172752790282615) · 15s · 21:9 · 对白与音效 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 234. 手持镜头下的两人争吵
+### 239. 手持镜头下的两人争吵
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek"><img src="https://pbs.twimg.com/amplify_video_thumb/2082770937364307968/img/usJDD_Eua58Y7FMu.jpg" alt="手持镜头下的两人争吵" width="700" /></a>
 
@@ -4906,7 +4973,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@heydin_ai](https://x.com/heydin_ai/status/2082774662342377881) · 15s · 16:9 · 对白与音效 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 235. 神雕角色教英语单词 dream
+### 240. 神雕角色教英语单词 dream
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082762661658517504/img/sWd3Bq-GgqUSxt1G.jpg" alt="神雕角色教英语单词 dream" width="700" /></a>
 
@@ -4919,7 +4986,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@nicekate8888](https://x.com/nicekate8888/status/2082762739697815758) · 15s · 16:9 · 对白与音效 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 236. 两指捏小毁灭陨石（日式动画喜剧）
+### 241. 两指捏小毁灭陨石（日式动画喜剧）
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100189410646241626"><img src="https://pbs.twimg.com/amplify_video_thumb/2100188209720508416/img/FsHBsN7V2CbfMEYk.jpg" alt="两指捏小毁灭陨石（日式动画喜剧）" width="700" /></a>
 
@@ -4934,7 +5001,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 ---
 ## 动物
 
-### 237. 巨型锦鲤公园事件
+### 242. 巨型锦鲤公园事件
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744154485075969/img/gJ5WCyroAu3j4rBJ.jpg" alt="巨型锦鲤公园事件" width="700" /></a>
 
@@ -4947,7 +5014,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · 15s · 16:9 · 动物 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 238. 金刚鹦鹉嘶鸣极速慢镜
+### 243. 金刚鹦鹉嘶鸣极速慢镜
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083142442266583040/img/t7uwqkC_NFOB8M-D.jpg" alt="金刚鹦鹉嘶鸣极速慢镜" width="700" /></a>
 
@@ -4960,7 +5027,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **来源:** [@yuvalav](https://x.com/yuvalav/status/2083143771508592938) · 15s · 21:9 · 动物 · 经 [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 239. 街头偶遇巨型蜥蜴 `AI 反推`
+### 244. 街头偶遇巨型蜥蜴 `AI 反推`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui"><img src="https://pbs.twimg.com/amplify_video_thumb/2082548491986067456/img/arUSZ2oq0eQMm3qR.jpg" alt="街头偶遇巨型蜥蜴" width="700" /></a>
 
@@ -4999,7 +5066,7 @@ Unrealistic CGI effects, studio lighting, cinematic color grading, distorted ana
 **来源:** [@mxvdxn](https://x.com/mxvdxn/status/2082549668068966894) · 15s · 16:9 · 动物 · 提示词由我们反推
 
 ---
-### 240. 猫咪一个喷嚏打乱桌面图标
+### 245. 猫咪一个喷嚏打乱桌面图标
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2101868703482876376"><img src="https://pbs.twimg.com/amplify_video_thumb/2101868371692388352/img/DWQM2XfMDP5DWRMS.jpg" alt="猫咪一个喷嚏打乱桌面图标" width="700" /></a>
 
@@ -5010,5 +5077,32 @@ Unrealistic CGI effects, studio lighting, cinematic color grading, distorted ana
 [![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/Strength04_X/status/2101868703482876376)
 
 **来源:** [@Strength04_X](https://x.com/Strength04_X/status/2101868703482876376) · 10s · 16:9 · 动物
+
+---
+### 246. 纸折小鱼从零食罐游出转圈
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106462029779288376"><img src="https://pbs.twimg.com/amplify_video_thumb/2106461969221918720/img/smrWWjNkqkOU40Nq.jpg" alt="纸折小鱼从零食罐游出转圈" width="700" /></a>
+
+<strong>提示词</strong> — a small school of folded paper fish swims out of it and circles the kitchen…
+
+[**读完整提示词 →**](https://x.com/GlennHasABeard/status/2106462029779288376) （75 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/GlennHasABeard/status/2106462029779288376)
+
+**来源:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2106462029779288376) · 15s · 16:9 · 动物
+
+---
+
+### 247. 纸箱里传来低沉呼噜声（全程不见猫）
+
+<a href="https://tryminimax.asia/zh/minimax-h3-prompts#prompt-x2106439441636335961"><img src="https://pbs.twimg.com/amplify_video_thumb/2106439325801963520/img/LeSJr8qNq4W8Rx23.jpg" alt="纸箱里传来低沉呼噜声（全程不见猫）" width="700" /></a>
+
+<strong>提示词</strong> — a soft deep purr comes from inside it…
+
+[**读完整提示词 →**](https://x.com/GlennHasABeard/status/2106439441636335961) （37 字符，作者原文，见原帖）
+
+[![播放视频](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/GlennHasABeard/status/2106439441636335961)
+
+**来源:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2106439441636335961) · 15s · 16:9 · 动物
 
 ---

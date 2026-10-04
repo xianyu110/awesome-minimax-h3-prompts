@@ -5,7 +5,7 @@
 这是一个 **MiniMax H3**（海螺 3.0）视频提示词合集。每条提示词都配有实际生成的视频，
 并标注作者信息和原始帖子链接，方便浏览、学习和复用。
 
-[![画廊](https://img.shields.io/badge/240%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
+[![画廊](https://img.shields.io/badge/247%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
 [![统一 API](https://img.shields.io/badge/一个%20API-85%2B%20模型-3158E8)](https://tryminimax.asia/zh/models)
 [![价格](https://img.shields.io/badge/图片%20%240.01%20起%20%C2%B7%20视频%20%240.044%2F秒起-1f9e5f)](https://tryminimax.asia/zh/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -13,7 +13,7 @@
 **MiniMax H3**（海螺 3.0）提示词库。每条提示词都配着它真正生成出来的那段视频，
 署名作者，链回原帖。
 
-**[English](./README.md)** · **[看全部 240 条](./prompts/GALLERY.zh-CN.md)** ·
+**[English](./README.md)** · **[看全部 247 条](./prompts/GALLERY.zh-CN.md)** ·
 **[到画廊里带声音看](https://tryminimax.asia/zh/minimax-h3-prompts)**
 
 ---
@@ -38,7 +38,7 @@
 
 | | 数量 | 是什么 |
 |---|---|---|
-| **作者原文** | 168 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
+| **作者原文** | 175 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
 | **AI 反推** | 72 | 作者没公开提示词的片子，我们抽 8 帧交给视觉模型，写出最可能复现这段画面的提示词。**MIT，全文就在这个仓库里。** |
 
 反推描述的是**成片**，恢复不了负面约束、准确台词和参考图工作流 —— 它是写法参考，不是作者的原稿，
@@ -59,7 +59,7 @@
 
 ## 精选
 
-作者原文里最长的 12 条。**[看全部 240 条 →](./prompts/GALLERY.zh-CN.md)**
+作者原文里最长的 12 条。**[看全部 247 条 →](./prompts/GALLERY.zh-CN.md)**
 
 ### 1. 混凝土广场的滑板落地
 
@@ -220,14 +220,17 @@
 
 ## 本轮新增 —— 2026 年 10 月初
 
-从 X 新采集的 4 条作者原文提示词（发布于 2026-09-30 至 10-02），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
+从 X 新采集的 7 条作者原文提示词（发布于 2026-10-03 至 10-04），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
 
 | # | 标题 | 分类 | 作者 | 时长/比例 | 互动 |
 |---|---|---|---|---|---|
-| 1 | [奢华香水广告：七个场景的浪漫约会之夜](https://x.com/CaliraVal/status/2105895582275657852) · [提示词](https://x.com/CaliraVal/status/2105895582275657852) | 广告与产品 | [@CaliraVal](https://x.com/CaliraVal) | 15s · 4:3 | 266 赞 · 18 收藏 |
-| 2 | [“别担心我”：雪巷里与将熄机器人的告别](https://x.com/ou_zhen599/status/2106050598298902577) · [提示词](https://x.com/ou_zhen599/status/2106051510065098921) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 23 赞 · 15 收藏 |
-| 3 | [希腊海岸巨妖海怪升起（图生视频）](https://x.com/JasonHeatony7/status/2105757631667171458) · [提示词](https://x.com/JasonHeatony7/status/2105757631667171458) | 电影与叙事 | [@JasonHeatony7](https://x.com/JasonHeatony7) | 15s · 3:2 | 13 赞 · 0 收藏 |
-| 4 | [真实大厨房里的 2D 手绘小厨师](https://x.com/airina_xyz/status/2105259144555212877) · [提示词](https://x.com/airina_xyz/status/2105259144555212877) | 动画与二次元 | [@airina_xyz](https://x.com/airina_xyz) | 15s · 16:9 | 12 赞 · 3 收藏 |
+| 1 | [雪碧高尔夫英雄片：REFRESH. RELOAD. PLAY.](https://x.com/sophiaparkerr_/status/2106337250346664007) · [提示词](https://x.com/sophiaparkerr_/status/2106337250346664007) | 广告与产品 | [@sophiaparkerr_](https://x.com/sophiaparkerr_) | 15s · 16:9 | 255 赞 · 1 收藏 |
+| 2 | [“比镜头快一步”：她始终掌控这场追逐](https://x.com/ou_zhen599/status/2106385077374722148) · [提示词](https://x.com/ou_zhen599/status/2106385900305580141) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 47 赞 · 35 收藏 |
+| 3 | [ROSE GLOW 时尚大片：13 镜 + 动态字体](https://x.com/ImaStudio_ai/status/2106227539018764520) · [提示词](https://x.com/ImaStudio_ai/status/2106227539018764520) | 广告与产品 | [@ImaStudio_ai](https://x.com/ImaStudio_ai) | 15s · 16:9 | 45 赞 · 40 收藏 |
+| 4 | [BURN：环境熔铸的火焰字标题序列](https://x.com/CharaspowerAI/status/2106398901267812627) · [提示词](https://x.com/CharaspowerAI/status/2106398901267812627) | 特效与转场 | [@CharaspowerAI](https://x.com/CharaspowerAI) | 15s · 16:9 | 25 赞 · 12 收藏 |
+| 5 | [她不动，火车动：地铁站台风压肖像](https://x.com/MrDasCreates/status/2106245982652625103) · [提示词](https://x.com/MrDasCreates/status/2106246176043598144) | 电影与叙事 | [@MrDasCreates](https://x.com/MrDasCreates) | 15s · 16:9 | 19 赞 · 2 收藏 |
+| 6 | [纸折小鱼从零食罐游出转圈](https://x.com/GlennHasABeard/status/2106462029779288376) · [提示词](https://x.com/GlennHasABeard/status/2106462029779288376) | 动物 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 18 赞 · 1 收藏 |
+| 7 | [纸箱里传来低沉呼噜声（全程不见猫）](https://x.com/GlennHasABeard/status/2106439441636335961) · [提示词](https://x.com/GlennHasABeard/status/2106439441636335961) | 动物 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 11 赞 · 1 收藏 |
 
 ## 2026 年 9 月新增
 
@@ -263,7 +266,7 @@
 
 | 路径 | 内容 |
 |---|---|
-| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 240 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
+| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 247 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
 | [`prompts/GALLERY.md`](./prompts/GALLERY.md) | 同一份画廊的英文版 |
 | [`prompts/<分类>/`](./prompts) | 72 条 AI 反推提示词的单文件版本，按用途分目录，方便 grep，MIT |
 
