@@ -5,7 +5,7 @@
 这是一个 **MiniMax H3**（海螺 3.0）视频提示词合集。每条提示词都配有实际生成的视频，
 并标注作者信息和原始帖子链接，方便浏览、学习和复用。
 
-[![画廊](https://img.shields.io/badge/247%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
+[![画廊](https://img.shields.io/badge/263%20条提示词%20·%20带视频-F5FF60?labelColor=111)](https://tryminimax.asia/zh/minimax-h3-prompts)
 [![统一 API](https://img.shields.io/badge/一个%20API-85%2B%20模型-3158E8)](https://tryminimax.asia/zh/models)
 [![价格](https://img.shields.io/badge/图片%20%240.01%20起%20%C2%B7%20视频%20%240.044%2F秒起-1f9e5f)](https://tryminimax.asia/zh/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -13,7 +13,7 @@
 **MiniMax H3**（海螺 3.0）提示词库。每条提示词都配着它真正生成出来的那段视频，
 署名作者，链回原帖。
 
-**[English](./README.md)** · **[看全部 247 条](./prompts/GALLERY.zh-CN.md)** ·
+**[English](./README.md)** · **[看全部 263 条](./prompts/GALLERY.zh-CN.md)** ·
 **[到画廊里带声音看](https://tryminimax.asia/zh/minimax-h3-prompts)**
 
 ---
@@ -38,7 +38,7 @@
 
 | | 数量 | 是什么 |
 |---|---|---|
-| **作者原文** | 175 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
+| **作者原文** | 191 | 作者自己公开的。署名、链回原帖。全文放在我们的[画廊](https://tryminimax.asia/zh/minimax-h3-prompts)里，这个仓库只做索引 —— 因为它不归我们所有。 |
 | **AI 反推** | 72 | 作者没公开提示词的片子，我们抽 8 帧交给视觉模型，写出最可能复现这段画面的提示词。**MIT，全文就在这个仓库里。** |
 
 反推描述的是**成片**，恢复不了负面约束、准确台词和参考图工作流 —— 它是写法参考，不是作者的原稿，
@@ -59,7 +59,7 @@
 
 ## 精选
 
-作者原文里最长的 12 条。**[看全部 247 条 →](./prompts/GALLERY.zh-CN.md)**
+作者原文里最长的 12 条。**[看全部 263 条 →](./prompts/GALLERY.zh-CN.md)**
 
 ### 1. 混凝土广场的滑板落地
 
@@ -218,19 +218,28 @@
 
 ---
 
-## 本轮新增 —— 2026 年 10 月初
+## 本轮新增 —— 2026-10-05
 
-从 X 新采集的 7 条作者原文提示词（发布于 2026-10-03 至 10-04），每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
+从 X 新采集的 16 条作者原文提示词，每条都有成片视频、作者公开了完整提示词，也已按用途收入[完整画廊](./prompts/GALLERY.zh-CN.md)。版权归原作者，完整原文请点进原帖查看。
 
 | # | 标题 | 分类 | 作者 | 时长/比例 | 互动 |
 |---|---|---|---|---|---|
-| 1 | [雪碧高尔夫英雄片：REFRESH. RELOAD. PLAY.](https://x.com/sophiaparkerr_/status/2106337250346664007) · [提示词](https://x.com/sophiaparkerr_/status/2106337250346664007) | 广告与产品 | [@sophiaparkerr_](https://x.com/sophiaparkerr_) | 15s · 16:9 | 255 赞 · 1 收藏 |
-| 2 | [“比镜头快一步”：她始终掌控这场追逐](https://x.com/ou_zhen599/status/2106385077374722148) · [提示词](https://x.com/ou_zhen599/status/2106385900305580141) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 47 赞 · 35 收藏 |
-| 3 | [ROSE GLOW 时尚大片：13 镜 + 动态字体](https://x.com/ImaStudio_ai/status/2106227539018764520) · [提示词](https://x.com/ImaStudio_ai/status/2106227539018764520) | 广告与产品 | [@ImaStudio_ai](https://x.com/ImaStudio_ai) | 15s · 16:9 | 45 赞 · 40 收藏 |
-| 4 | [BURN：环境熔铸的火焰字标题序列](https://x.com/CharaspowerAI/status/2106398901267812627) · [提示词](https://x.com/CharaspowerAI/status/2106398901267812627) | 特效与转场 | [@CharaspowerAI](https://x.com/CharaspowerAI) | 15s · 16:9 | 25 赞 · 12 收藏 |
-| 5 | [她不动，火车动：地铁站台风压肖像](https://x.com/MrDasCreates/status/2106245982652625103) · [提示词](https://x.com/MrDasCreates/status/2106246176043598144) | 电影与叙事 | [@MrDasCreates](https://x.com/MrDasCreates) | 15s · 16:9 | 19 赞 · 2 收藏 |
-| 6 | [纸折小鱼从零食罐游出转圈](https://x.com/GlennHasABeard/status/2106462029779288376) · [提示词](https://x.com/GlennHasABeard/status/2106462029779288376) | 动物 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 18 赞 · 1 收藏 |
-| 7 | [纸箱里传来低沉呼噜声（全程不见猫）](https://x.com/GlennHasABeard/status/2106439441636335961) · [提示词](https://x.com/GlennHasABeard/status/2106439441636335961) | 动物 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 11 赞 · 1 收藏 |
+| 1 | [动态文字排版对决：提示词生成指示书（H3 × WAN3.0）](https://x.com/ai_lifehack55/status/2106653217094533508) · [提示词](https://x.com/ai_lifehack55/status/2106653217094533508) | 视频编辑 | [@ai_lifehack55](https://x.com/ai_lifehack55) | 32s · 16:9 | 108 赞 · 17 收藏 |
+| 2 | [精灵少女变身生化装甲（本地 ComfyUI）](https://x.com/Tomw852/status/2106575030641463391) · [提示词](https://x.com/Tomw852/status/2106575624693313635) | 人物与表演 | [@Tomw852](https://x.com/Tomw852) | 15s · 16:9 | 98 赞 · 85 收藏 |
+| 3 | [自拍视频：女孩变身恶魔（前后两张参考图）](https://x.com/TheRogueA1/status/2106687664850194740) · [提示词](https://x.com/TheRogueA1/status/2106687795481698760) | 电影与叙事 | [@TheRogueA1](https://x.com/TheRogueA1) | 15s · 16:9 | 69 赞 · 11 收藏 |
+| 4 | [「黑镜：最终倒影」15 秒电影级对打](https://x.com/itxsarmadd/status/2106698801604186579) · [提示词](https://x.com/itxsarmadd/status/2106698801604186579) | 电影与叙事 | [@itxsarmadd](https://x.com/itxsarmadd) | 15s · 16:9 | 58 赞 · 6 收藏 |
+| 5 | [自动门怎么都不开的少女（动画喜剧）](https://x.com/tokyo_Valentine/status/2106673691753074822) · [提示词](https://x.com/tokyo_Valentine/status/2106673694789833094) | 动画与二次元 | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 14s · 16:9 | 51 赞 · 9 收藏 |
+| 6 | [把耳机借给幽灵（动画喜剧）](https://x.com/tokyo_Valentine/status/2106734006033383686) · [提示词](https://x.com/tokyo_Valentine/status/2106734009606615332) | 动画与二次元 | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 14s · 16:9 | 36 赞 · 9 收藏 |
+| 7 | [角色设定图驱动的 10 秒行走镜头（Seedance 2.5 / H3 官方 / H3 ComfyUI 对比）](https://x.com/EndFolding79421/status/2106734170332389540) · [提示词](https://x.com/EndFolding79421/status/2106734170332389540) | 电影与叙事 | [@EndFolding79421](https://x.com/EndFolding79421) | 10s · 16:9 | 32 赞 · 56 收藏 |
+| 8 | [「Look at me.」机库天窗坠落救援（第一人称 I2V）](https://x.com/ou_zhen599/status/2106654552137355465) · [提示词](https://x.com/ou_zhen599/status/2106654778105430167) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 18 赞 · 14 收藏 |
+| 9 | [一句话提示词：糖浆冷却成霜花纹（本地开源权重）](https://x.com/GlennHasABeard/status/2106751587121062213) · [提示词](https://x.com/GlennHasABeard/status/2106751587121062213) | 广告与产品 | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 17 赞 · 1 收藏 |
+| 10 | [日式漫画夸张表情：写作业崩溃（日文分镜）](https://x.com/onofumi_AI/status/2106906266631278859) · [提示词](https://x.com/onofumi_AI/status/2106907172940755148) | 动画与二次元 | [@onofumi_AI](https://x.com/onofumi_AI) | 15s · 16:9 | 16 赞 · 11 收藏 |
+| 11 | [「The Last Few Meters」雨夜电车赛跑（I2V）](https://x.com/ou_zhen599/status/2106757779751108752) · [提示词](https://x.com/ou_zhen599/status/2106758283336048776) | 电影与叙事 | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 14 赞 · 7 收藏 |
+| 12 | [海边游客随手拍：非专业手机视频质感](https://x.com/listudio/status/2106585331244183660) · [提示词](https://x.com/listudio/status/2106585331244183660) | 运镜 | [@listudio](https://x.com/listudio) | 18s · 16:9 | 10 赞 · 4 收藏 |
+| 13 | [90 年代机甲动画：机库出击](https://x.com/DeCat2025/status/2106823745646047593) · [提示词](https://x.com/DeCat2025/status/2106823745646047593) | 动画与二次元 | [@DeCat2025](https://x.com/DeCat2025) | 15s · 16:9 | 10 赞 · 0 收藏 |
+| 14 | [按摩暴击 -9999：手机竖屏搞笑短片（三模型对比）](https://x.com/Langby2/status/2106659177904963655) · [提示词](https://x.com/Langby2/status/2106659177904963655) | 对白与音效 | [@Langby2](https://x.com/Langby2) | 15s · 16:9 | 6 赞 · 1 收藏 |
+| 15 | [原宿系女仆咖啡厅招聘 CM（日文，画面内文字）](https://x.com/su_nagomi/status/2106874519415894294) · [提示词](https://x.com/su_nagomi/status/2106874525430546526) | 广告与产品 | [@su_nagomi](https://x.com/su_nagomi) | 15s · 16:9 | 6 赞 · 0 收藏 |
+| 16 | [万圣节小怪兽 Trick or Treat（I2V）](https://x.com/taya_mama_AI/status/2106899869931856356) · [提示词](https://x.com/taya_mama_AI/status/2106899922436207036) | 动画与二次元 | [@taya_mama_AI](https://x.com/taya_mama_AI) | 9s · 3:4 | 4 赞 · 2 收藏 |
 
 ## 2026 年 9 月新增
 
@@ -266,7 +275,7 @@
 
 | 路径 | 内容 |
 |---|---|
-| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 247 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
+| [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | 全部 263 条：缩略图 + 提示词 + 来源，也就是上面精选段的完整版 |
 | [`prompts/GALLERY.md`](./prompts/GALLERY.md) | 同一份画廊的英文版 |
 | [`prompts/<分类>/`](./prompts) | 72 条 AI 反推提示词的单文件版本，按用途分目录，方便 grep，MIT |
 

@@ -5,12 +5,12 @@
 A curated collection of **MiniMax H3** (Hailuo 3.0) video prompts. Each prompt is shown
 alongside the clip it produced, with creator credit and a link to the original post.
 
-[![Gallery](https://img.shields.io/badge/Browse%20247%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
+[![Gallery](https://img.shields.io/badge/Browse%20263%20prompts%20with%20video-F5FF60?labelColor=111)](https://tryminimax.asia/minimax-h3-prompts)
 [![One API](https://img.shields.io/badge/One%20API-85%2B%20models-3158E8)](https://tryminimax.asia/models)
 [![Pricing](https://img.shields.io/badge/Images%20from%20%240.01%20%C2%B7%20Video%20from%20%240.044%2Fs-1f9e5f)](https://tryminimax.asia/pricing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-**[中文说明](./README.zh-CN.md)** · **[Browse all 247 prompts](./prompts/GALLERY.md)** ·
+**[中文说明](./README.zh-CN.md)** · **[Browse all 263 prompts](./prompts/GALLERY.md)** ·
 **[Watch them with sound](https://tryminimax.asia/minimax-h3-prompts)**
 
 ---
@@ -39,7 +39,7 @@ generative editing.
 
 | | Count | What it is |
 |---|---|---|
-| **Author-written** | 175 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
+| **Author-written** | 191 | Published by the creator. Credited, linked to the original post. Full text lives in our [gallery](https://tryminimax.asia/minimax-h3-prompts) — we index it here rather than copy it, because we do not own it. |
 | **Reconstructed** | 72 | For clips whose creator never published a prompt, we sample 8 frames, hand them to a vision model, and write the prompt that would most plausibly reproduce the clip. **MIT, full text in this repo.** |
 
 A reconstruction describes the *output*. It cannot recover negative constraints, exact
@@ -63,7 +63,7 @@ Creators: if you would like an entry removed, open an issue.
 
 ## Featured prompts
 
-The twelve longest author-written prompts in the library. **[See all 247 →](./prompts/GALLERY.md)**
+The twelve longest author-written prompts in the library. **[See all 263 →](./prompts/GALLERY.md)**
 
 ### 1. Concrete-Plaza Kickflip Drop
 
@@ -222,19 +222,28 @@ The twelve longest author-written prompts in the library. **[See all 247 →](./
 
 ---
 
-## New this round — early October 2026
+## New this round — 2026-10-05
 
-7 more author-written prompts collected from X (posted 3–4 Oct 2026), each with a result video and the full prompt published by the creator. Each is also in the [gallery](./prompts/GALLERY.md) under its use case. Credit and copyright stay with the creators — click through to the original post for the full text.
+16 more author-written prompts collected from X, each with a result video and the full prompt published by the creator. Each is also in the [gallery](./prompts/GALLERY.md) under its use case. Credit and copyright stay with the creators — click through to the original post for the full text.
 
 | # | Title | Category | Creator | Length | Engagement |
 |---|---|---|---|---|---|
-| 1 | [Sprite Golf Hero — Refresh. Reload. Play.](https://x.com/sophiaparkerr_/status/2106337250346664007) · [prompt](https://x.com/sophiaparkerr_/status/2106337250346664007) | Ads & Products | [@sophiaparkerr_](https://x.com/sophiaparkerr_) | 15s · 16:9 | 255 likes · 1 bookmarks |
-| 2 | [“A Step Behind Her” — Playful Camera Chase](https://x.com/ou_zhen599/status/2106385077374722148) · [prompt](https://x.com/ou_zhen599/status/2106385900305580141) | Cinematic & Story | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 47 likes · 35 bookmarks |
-| 3 | [Rose Glow Fashion Film — 13 Cuts + Kinetic Type](https://x.com/ImaStudio_ai/status/2106227539018764520) · [prompt](https://x.com/ImaStudio_ai/status/2106227539018764520) | Ads & Products | [@ImaStudio_ai](https://x.com/ImaStudio_ai) | 15s · 16:9 | 45 likes · 40 bookmarks |
-| 4 | [BURN — Environment-Forged Pyro Title Sequence](https://x.com/CharaspowerAI/status/2106398901267812627) · [prompt](https://x.com/CharaspowerAI/status/2106398901267812627) | VFX & Transitions | [@CharaspowerAI](https://x.com/CharaspowerAI) | 15s · 16:9 | 25 likes · 12 bookmarks |
-| 5 | [She Doesn’t Move. The Train Does.](https://x.com/MrDasCreates/status/2106245982652625103) · [prompt](https://x.com/MrDasCreates/status/2106246176043598144) | Cinematic & Story | [@MrDasCreates](https://x.com/MrDasCreates) | 15s · 16:9 | 19 likes · 2 bookmarks |
-| 6 | [Paper Fish Swim Out of the Treat Jar](https://x.com/GlennHasABeard/status/2106462029779288376) · [prompt](https://x.com/GlennHasABeard/status/2106462029779288376) | Animals | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 18 likes · 1 bookmarks |
-| 7 | [Soft Deep Purr From Inside the Box (No Cat Appears)](https://x.com/GlennHasABeard/status/2106439441636335961) · [prompt](https://x.com/GlennHasABeard/status/2106439441636335961) | Animals | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 11 likes · 1 bookmarks |
+| 1 | [Kinetic Typography Battle — Prompt-Generation Brief (H3 × WAN 3.0)](https://x.com/ai_lifehack55/status/2106653217094533508) · [prompt](https://x.com/ai_lifehack55/status/2106653217094533508) | Video Editing | [@ai_lifehack55](https://x.com/ai_lifehack55) | 32s · 16:9 | 108 likes · 17 bookmarks |
+| 2 | [Elf Girl Transforms into Biomechanical Armor (Local ComfyUI)](https://x.com/Tomw852/status/2106575030641463391) · [prompt](https://x.com/Tomw852/status/2106575624693313635) | Character & Performance | [@Tomw852](https://x.com/Tomw852) | 15s · 16:9 | 98 likes · 85 bookmarks |
+| 3 | [Selfie Video: Girl Turns into a Demon (Before/After References)](https://x.com/TheRogueA1/status/2106687664850194740) · [prompt](https://x.com/TheRogueA1/status/2106687795481698760) | Cinematic & Story | [@TheRogueA1](https://x.com/TheRogueA1) | 15s · 16:9 | 69 likes · 11 bookmarks |
+| 4 | [“Black Mirror: Final Reflection” — 15s Cinematic Duel](https://x.com/itxsarmadd/status/2106698801604186579) · [prompt](https://x.com/itxsarmadd/status/2106698801604186579) | Cinematic & Story | [@itxsarmadd](https://x.com/itxsarmadd) | 15s · 16:9 | 58 likes · 6 bookmarks |
+| 5 | [The Girl the Automatic Door Ignores (Anime Comedy)](https://x.com/tokyo_Valentine/status/2106673691753074822) · [prompt](https://x.com/tokyo_Valentine/status/2106673694789833094) | Animation & Anime | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 14s · 16:9 | 51 likes · 9 bookmarks |
+| 6 | [Lending My Headphones to a Ghost (Anime Comedy)](https://x.com/tokyo_Valentine/status/2106734006033383686) · [prompt](https://x.com/tokyo_Valentine/status/2106734009606615332) | Animation & Anime | [@tokyo_Valentine](https://x.com/tokyo_Valentine) | 14s · 16:9 | 36 likes · 9 bookmarks |
+| 7 | [Character-Sheet-Driven 10s Walk Shot (Seedance 2.5 vs H3 vs H3 ComfyUI)](https://x.com/EndFolding79421/status/2106734170332389540) · [prompt](https://x.com/EndFolding79421/status/2106734170332389540) | Cinematic & Story | [@EndFolding79421](https://x.com/EndFolding79421) | 10s · 16:9 | 32 likes · 56 bookmarks |
+| 8 | [“Look at me.” — Hangar Skylight Fall Rescue (First-Person I2V)](https://x.com/ou_zhen599/status/2106654552137355465) · [prompt](https://x.com/ou_zhen599/status/2106654778105430167) | Cinematic & Story | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 18 likes · 14 bookmarks |
+| 9 | [One-Line Prompt: Syrup Cools into a Frost Pattern (Local Open Weights)](https://x.com/GlennHasABeard/status/2106751587121062213) · [prompt](https://x.com/GlennHasABeard/status/2106751587121062213) | Ads & Products | [@GlennHasABeard](https://x.com/GlennHasABeard) | 15s · 16:9 | 17 likes · 1 bookmarks |
+| 10 | [Manga-Style Exaggerated Meltdown over Homework (Japanese Shot List)](https://x.com/onofumi_AI/status/2106906266631278859) · [prompt](https://x.com/onofumi_AI/status/2106907172940755148) | Animation & Anime | [@onofumi_AI](https://x.com/onofumi_AI) | 15s · 16:9 | 16 likes · 11 bookmarks |
+| 11 | [“The Last Few Meters” — Racing the Tram on a Rainy Night (I2V)](https://x.com/ou_zhen599/status/2106757779751108752) · [prompt](https://x.com/ou_zhen599/status/2106758283336048776) | Cinematic & Story | [@ou_zhen599](https://x.com/ou_zhen599) | 15s · 16:9 | 14 likes · 7 bookmarks |
+| 12 | [Seaside Tourist Clip — Deliberately Amateur Phone-Video Look](https://x.com/listudio/status/2106585331244183660) · [prompt](https://x.com/listudio/status/2106585331244183660) | Camera Motion | [@listudio](https://x.com/listudio) | 18s · 16:9 | 10 likes · 4 bookmarks |
+| 13 | [90s Mecha Anime: Hangar Launch](https://x.com/DeCat2025/status/2106823745646047593) · [prompt](https://x.com/DeCat2025/status/2106823745646047593) | Animation & Anime | [@DeCat2025](https://x.com/DeCat2025) | 15s · 16:9 | 10 likes · 0 bookmarks |
+| 14 | [Massage Critical Hit −9999: Vertical Slapstick Short (3-Model Comparison)](https://x.com/Langby2/status/2106659177904963655) · [prompt](https://x.com/Langby2/status/2106659177904963655) | Dialogue & Sound | [@Langby2](https://x.com/Langby2) | 15s · 16:9 | 6 likes · 1 bookmarks |
+| 15 | [Harajuku Maid Café Hiring Ad (Japanese, In-Frame Text)](https://x.com/su_nagomi/status/2106874519415894294) · [prompt](https://x.com/su_nagomi/status/2106874525430546526) | Ads & Products | [@su_nagomi](https://x.com/su_nagomi) | 15s · 16:9 | 6 likes · 0 bookmarks |
+| 16 | [Cute Halloween Monster Trick-or-Treat (I2V)](https://x.com/taya_mama_AI/status/2106899869931856356) · [prompt](https://x.com/taya_mama_AI/status/2106899922436207036) | Animation & Anime | [@taya_mama_AI](https://x.com/taya_mama_AI) | 9s · 3:4 | 4 likes · 2 bookmarks |
 
 ## September 2026 round
 
@@ -270,7 +279,7 @@ The twelve longest author-written prompts in the library. **[See all 247 →](./
 
 | Path | What is in it |
 |---|---|
-| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 247 entries with thumbnail, prompt and source — the full version of the featured section above |
+| [`prompts/GALLERY.md`](./prompts/GALLERY.md) | All 263 entries with thumbnail, prompt and source — the full version of the featured section above |
 | [`prompts/GALLERY.zh-CN.md`](./prompts/GALLERY.zh-CN.md) | Same gallery in Chinese |
 | [`prompts/<category>/`](./prompts) | The 72 reconstructed prompts as individual `.md` files, grouped by use case — grep-friendly, MIT |
 

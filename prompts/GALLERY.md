@@ -1,4 +1,4 @@
-**Browse by use case:** [Cinematic & Story](#cinematic-story) (49) · [Animation & Anime](#animation-anime) (48) · [Ads & Products](#ads-products) (56) · [Character & Performance](#character-performance) (23) · [VFX & Transitions](#vfx-transitions) (25) · [Camera Motion](#camera-motion) (12) · [Reference & Consistency](#reference-consistency) (11) · [Video Editing](#video-editing) (8) · [Dialogue & Sound](#dialogue-sound) (9) · [Animals](#animals) (6)
+**Browse by use case:** [Cinematic & Story](#cinematic-story) (54) · [Animation & Anime](#animation-anime) (53) · [Ads & Products](#ads-products) (58) · [Character & Performance](#character-performance) (24) · [VFX & Transitions](#vfx-transitions) (25) · [Camera Motion](#camera-motion) (13) · [Reference & Consistency](#reference-consistency) (11) · [Video Editing](#video-editing) (9) · [Dialogue & Sound](#dialogue-sound) (10) · [Animals](#animals) (6)
 
 ## Cinematic & Story
 
@@ -1695,9 +1695,320 @@ Format: 15 seconds, 16:9 widescreen, cinematic composition, realistic temporal m
 **Source:** [@MrDasCreates](https://x.com/MrDasCreates/status/2106245982652625103) · 15s · 16:9 · Cinematic
 
 ---
+### 50. Selfie Video: Girl Turns into a Demon (Before/After References)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106687664850194740"><img src="https://upload.maynor1024.live/file/1791168952906_h3-2106687664850194740.jpg" alt="Selfie Video: Girl Turns into a Demon (Before/After References)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Prompt: subject_definitions: &lt;Subject 1&gt; is the woman in &lt;Picture 1&gt;, with shoulder-length wavy brown hair with copper-toned ends, green eyes, pale sk…</summary>
+
+~~~~text
+Prompt: 
+
+subject_definitions:
+<Subject 1> is the woman in <Picture 1>, with shoulder-length wavy brown hair with copper-toned ends, green eyes, pale skin, strong dark brows, and an oversized white T-shirt slipping off one shoulder.
+<Subject 2> is the demon form of the same woman in <Picture 2>, with long tangled black hair, solid glassy milky-white eyes with no visible iris or pupil, grey decayed skin with dark veins and raw red wounds on the forehead, cheeks and neck, blackened rotten teeth, and a black leather harness top with straps over the shoulders.
+
+summary:
+[reference generation] The target video is a single 15-second handheld selfie video in which <Subject 1> sits on her bed and greets the camera, then her skin dissolves across her whole face while she speaks her second line, transforming her in place into <Subject 2>, while the bedroom behind her dissolves into a moonlit, misty graveyard. She finishes the line and grins with blackened teeth and blank white eyes.
+
+retention_analysis:
+<Subject 1> (appears in the first half of [Shot 1]): fully_preserved - face, shoulder-length brown hair with copper ends, green eyes, pale skin and the oversized white off-shoulder T-shirt are retained.
+<Subject 2> (appears in the second half of [Shot 1]): fully_preserved - tangled black hair, solid glassy milky-white eyes with no iris or pupil, grey decayed skin, red wounds and black leather harness straps are retained, with blackened rotten teeth added, replacing the appearance of <Subject 1> on the same body in the same position.
+
+detailed_description:
+The target video is a handheld selfie vlog shot with cinematic phone-camera quality: shallow depth of field with the background softly out of focus, rich contrast, deep shadows, natural handheld micro-shake. It is one continuous shot with no cuts.
+[Shot 1] A handheld selfie close-up at arm's length, framed from the chest up, with slight natural camera shake throughout. <Subject 1> (S1), the woman with shoulder-length brown hair with copper ends, green eyes and an oversized white T-shirt off one shoulder, sits cross-legged on her bed holding the phone in her outstretched right hand, which stays out of frame. She stays seated in that exact position in the centre of the frame for the whole shot. Behind her, softly out of focus, is a bedroom: a rumpled white duvet, pillows against a headboard, a window on the left letting warm golden morning light fall across her face, and a small lamp glowing on the right. She looks straight into the lens with a sleepy, friendly smile. <Subject 1> (S1) says in a clear, warm, casual young female voice with a British accent, showing clean white teeth: <d>[English] Morning folks. Happy Sunday.</d> She closes her mouth, glances away for a beat as if thinking, then looks back into the lens with a knowing smirk. <Subject 1> (S1) begins to say in the same voice: <d>[English] Or should I say, Happy Spooktober. Have a spooktastic day.</d> The transformation starts on the first word of this line and runs through the whole line as she keeps speaking. Her skin dissolves across her entire face and body in one continuous wave that travels from the top of her forehead downward. The smooth skin flakes and peels away in fine ash-like particles that drift upward, first from her whole forehead and brow, then both eyelids and the bridge and tip of her nose. As the wave passes over her eyes, both eyes change completely: the green irises and black pupils fade and vanish, and both eyeballs turn into solid, glassy, wet, opaque milky-white orbs with no iris and no pupil at all, exactly like the eyes of <Subject 2> in <Picture 2>. Her eyes stay open and stay blank white for the rest of the video. The wave continues down over both cheeks fully from ear to ear, then her upper lip, lips and chin, then her jawline, her whole neck and both shoulders. The wave passes over every part of her visible skin without skipping any area, and by the time it reaches her shoulders no patch of the original smooth skin remains anywhere on her face, neck or shoulders. Everywhere the skin has flaked away it reveals the grey decayed skin, dark veins and raw red wounds of <Subject 2> underneath. At the same time her brown hair darkens to black and grows into long wild tangled strands, her lips turn grey and cracked, her teeth darken from white to black as she speaks, and the white T-shirt darkens and tightens into the black leather harness top with straps over her shoulders. In the same moment the bedroom behind her dissolves too: starting directly behind her head and spreading outward to the edges of the frame, the headboard, pillows, duvet, window and lamp crumble into the same drifting ash-like particles and blow away, revealing a night-time graveyard behind her. By the end of her line the bedroom is completely gone and the whole background is the graveyard: crooked, weathered headstones and a leaning stone cross, bare twisted trees, thick low mist rolling between the graves, and a large full moon in a dark blue-black sky above her left shoulder. The warm golden morning light on her face is replaced by cold blue-white moonlight from behind with deep shadows, and mist drifts past her shoulders. Throughout the transformation her seated pose, head position, arm and lip movement stay continuous, with no jump or cut, and her voice drops lower and slower with a faint rasp by the words "spooktastic day". The last particles drift away into the mist. <Subject 2> tilts her head slightly, her solid white pupil-less eyes aimed straight into the lens, and her lips peel back slowly into a wide, sinister grin, revealing a full row of blackened, rotten, decayed teeth with dark stained gums. She holds the wide grin with her black teeth bared and her glassy blank white eyes, with no iris or pupil, fixed on the lens, the moonlit misty graveyard behind her, until the final frame.
+
+overall_soundscape:
+Quiet bedroom room tone with faint birdsong through the window, which cuts out as the transformation begins. A dry, papery crackling and a soft hiss as the skin and the room flake away, then cold night air: a low wind through bare branches, a distant owl, and one far-off church bell under the grin. No music.
+
+non_diegetic_music:
+N/A. No music of any kind.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/TheRogueA1/status/2106687664850194740)
+
+**Source:** [@TheRogueA1](https://x.com/TheRogueA1/status/2106687664850194740) · 15s · 16:9 · Cinematic
+
+---
+### 51. “Black Mirror: Final Reflection” — 15s Cinematic Duel
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106698801604186579"><img src="https://upload.maynor1024.live/file/1791168952643_h3-2106698801604186579.jpg" alt="“Black Mirror: Final Reflection” — 15s Cinematic Duel" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Created With Minimax H3 on @Hailuo_AI Prompt: MINIMAX H3 — 15-SECOND CINEMATIC FIGHT “BLACK MIRROR: FINAL REFLECTION” 16:9 widescreen, premium dark-fa…</summary>
+
+~~~~text
+Created With Minimax H3 on @Hailuo_AI
+
+Prompt:
+
+MINIMAX H3 — 15-SECOND CINEMATIC FIGHT
+“BLACK MIRROR: FINAL REFLECTION”
+16:9 widescreen, premium dark-fantasy fashion-action.
+
+Obsidian Ronin vs Inkshade Valkyrie inside a gigantic floating liquid-black obsidian mirror surrounded by an endless white void. Preserve exact established character designs, faces, hair, armor, weapons, proportions and silhouettes. No redesigns.
+
+Constant movement. No idle poses, hard cuts, teleportation, freeze frames, blood or gore.
+
+The mirror behaves like liquid glass: every sword strike creates ripples, cracks and independent reflections that briefly attack before snapping back.
+
+0–3s: Mirror forms from liquid black glass. Ronin emerges with a katana strike as Valkyrie attacks from the opposite reflection. Blades collide, creating a huge circular ripple.
+
+3–6s: Ronin's heavy cut meets Valkyrie's agile twin-blade counter. Reflections attack from opposite directions. Black cracks race across the mirror. Smoke briefly forms “REAL OR REFLECTION?”
+
+6–9s: Mirror tilts vertical. Both fighters sprint across its surface, exchanging rapid sword strikes. The glass bends around them like liquid.
+
+9–12s: Mirror explodes into floating black fragments. Fighters leap between reflections, destroying them. Fragments align into a giant blade shape. Smoke forms “BREAK THE IMAGE”, then shatters.
+
+12–15s: Final charge. Ronin's massive diagonal katana strike collides with Valkyrie's spinning twin-blade cross attack. The entire mirror shatters into thousands of black particles. Silence. Final smoke typography: “ONLY ONE REMAINS.”
+
+Elegant black-and-white luxury aesthetic, glossy reflections, silver highlights, charcoal smoke, cinematic motion blur, precise camera orbiting, low mirror tracking, rotating blade shots and dramatic final push.
+
+15s | 16:9 | continuous action | premium cinematic dark fantasy | exact character consistency
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/itxsarmadd/status/2106698801604186579)
+
+**Source:** [@itxsarmadd](https://x.com/itxsarmadd/status/2106698801604186579) · 15s · 16:9 · Cinematic
+
+---
+### 52. Character-Sheet-Driven 10s Walk Shot (Seedance 2.5 vs H3 vs H3 ComfyUI)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106734170332389540"><img src="https://upload.maynor1024.live/file/1791168949047_h3-2106734170332389540.jpg" alt="Character-Sheet-Driven 10s Walk Shot (Seedance 2.5 vs H3 vs H3 ComfyUI)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Seedance 2.5 (720P) vs Official Minimax H3 (768P) vs H3 Comfyui ( 832P at 25 steps and no loras). ***Same prompt and Character sheet for each.*** Prom…</summary>
+
+~~~~text
+Seedance 2.5 (720P) vs Official Minimax H3 (768P) vs H3 Comfyui ( 832P at 25 steps and no loras).
+
+***Same prompt and Character sheet for each.***
+
+Prompt:
+DURATION: 10 SECONDS
+ASPECT RATIO: 16:9
+CHARACTER REFERENCE:
+Use the woman from the provided character sheet.
+Preserve her exact facial identity, hairstyle, body proportions, clothing and appearance.
+
+EXACTLY ONE woman.
+No other people.
+No vehicles.
+No buildings.
+SCENE:
+A completely deserted two-lane highway cuts through a vast, brutally hot desert. Dry sand and sparse desert scrub stretch endlessly on both sides.
+
+Harsh afternoon sunlight. Subtle heat shimmer rises from the asphalt.
+The woman walks alone down the highway carrying a GAS CAN in one hand.
+She has a very light, natural sheen of sweat from the heat — subtle, NOT drenched.
+NO DIALOGUE.
+NO MUSIC.
+
+[00:00–00:02]
+
+EXTREME LOW road-level shot, camera almost touching the asphalt.
+
+A SMALL SCORPION crawls across the hot road in the foreground.
+
+Behind it, the woman's boots enter frame and steadily approach.
+
+The gas can swings naturally beside her leg.
+
+DO NOT SHOW HER FACE.
+[00:02–00:04]
+
+Cut to a low side tracking shot moving alongside her.
+
+Frame her boots, legs, hand and gas can as she walks.
+
+Brief close detail of her hand gripping the gas-can handle.
+
+Her upper face remains out of frame.
+
+The empty desert highway stretches behind her.
+
+DO NOT SHOW HER FACE YET.
+
+[00:04–00:07]
+
+Cut to a medium rear three-quarter tracking angle.
+
+The camera smoothly moves around toward her front as she continues walking, finally REVEALING HER FACE.
+
+Her expression is focused, serious and controlled — almost dangerous.
+
+She does not look at the camera.
+
+A few strands of hair move naturally in the hot breeze.
+
+Subtle sweat catches the sunlight.
+
+[00:07–00:10]
+
+Cut to a dramatic LOW FRONTAL TRACKING SHOT.
+
+Camera moves backward directly ahead of her while she continues walking toward it.
+
+Gradually tighten from medium framing toward a closer view of her face.
+
+Her eyes remain fixed somewhere far down the road.
+
+She looks determined and dangerous, like she knows exactly where she is going.
+
+Gas can remains visible at her side.
+
+Heat waves distort the empty highway behind her.
+
+END while she is STILL WALKING.
+
+VISUAL STYLE:
+
+Gritty cinematic road-movie photography.
+Grounded live-action realism.
+Sun-bleached desert colors.
+Harsh natural sunlight.
+Subtle 35mm-style grain.
+Slightly imperfect exposure.
+Natural skin texture and pores.
+Realistic subtle perspiration.
+Heat shimmer above asphalt.
+Atmospheric desert dust.
+
+NOT glossy.
+NOT plastic AI skin.
+NOT beauty-commercial lighting.
+NO exaggerated orange-and-teal grading.
+
+CRITICAL:
+
+ONE woman only.
+Same character identity throughout.
+Same outfit throughout.
+Same gas can throughout.
+Gas can remains in the SAME HAND.
+She travels in the SAME DIRECTION throughout.
+No cars.
+No people.
+No buildings.
+No civilization.
+No destination revealed.
+NO whip-pan.
+NO dialogue.
+NO music.
+
+DO NOT SHOW HER FACE during the first 4 seconds.
+
+Once her face is revealed, preserve her exact character-sheet facial identity.
+
+She NEVER stops walking.
+She NEVER smiles.
+She NEVER looks into the camera.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/EndFolding79421/status/2106734170332389540)
+
+**Source:** [@EndFolding79421](https://x.com/EndFolding79421/status/2106734170332389540) · 10s · 16:9 · Cinematic
+
+---
+### 53. “Look at me.” — Hangar Skylight Fall Rescue (First-Person I2V)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106654552137355465"><img src="https://upload.maynor1024.live/file/1791168956805_h3-2106654552137355465.jpg" alt="“Look at me.” — Hangar Skylight Fall Rescue (First-Person I2V)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — MiniMax-H3 prompt👇 integrated_multimodal_description: 15 seconds, 16:9, realistic cinematic image-to-video. Use &lt;Picture 1&gt; as the only first frame an…</summary>
+
+~~~~text
+MiniMax-H3 prompt👇
+integrated_multimodal_description:
+15 seconds, 16:9, realistic cinematic image-to-video. Use <Picture 1> as the only first frame and the only visual reference for the adult woman and the hangar. Preserve her face, hairstyle, goggles, earmuffs, dark olive open-collar work jacket, shoulder strap, sweat-sheened skin, dual mechanical arms, and the same dark steel-beam hangar with warm practical light on the left, long skylight at upper right, workbench, and distant background figures. The camera is first-person POV of a rescued person standing in front of her; only this person’s left forearm may appear briefly, and no second clear face is ever shown.
+
+Lock spatial continuity: she advances from center frame toward the camera. Upper-right frame and behind her right side hold the skylight and brighter corridor with cold daylight. Left frame remains the darker ceiling zone and safety passage. Danger falls from upper-right into the right corridor. She and the camera always retreat together toward screen-left, never swapping sides. Her left hand first pulls one earmuff aside to listen; her right hand grabs the rescued person’s left forearm and releases only at the end. Any camera turn stays on the same side of the action axis.
+
+Keep the palette and light stable: charred steel black-green, dark olive clothing, tungsten amber practicals, cool skylight white, and natural warm skin. Low saturation, deep olive and blue-gray shadows against amber highlights, roughly 3200K practicals against 5600K skylight daylight. High contrast with retained steel detail and soft highlight roll-off. Glass breakage creates only a brief cold-white flicker; time of day and overall color temperature never jump.
+
+[0.0-2.0s]
+Fast POV retreat. Continue directly from the frontal close view of <Picture 1>. From the first frame she takes a large step toward the camera, pulls one earmuff aside with her left hand to isolate a metallic tension sound overhead, and the POV retreats quickly by about one step. Two forceful footfalls drive visible vertical load through her upper body. The open collar and shoulder strap tremble with the same rhythm; sweat beads and loose hair catch warm side backlight. Close framing always keeps face and chest together. Her eyes first scan the person in front of her, then jump past the camera toward her own upper-right rear; her brow tightens slightly and her lips stop the breath she was about to release.
+
+[2.0-3.5s]
+Sudden slow-down, low-angle tilt up. She is still stepping forward slowly, never freezing. The camera tilts upward from the moving collar and shoulder strap to her eyes. In the curved reflection of the goggles, the bright skylight line in the upper-right trembles, and a speck of dust lands on her shoulder. Her eyes move first, then her head follows with a small turn. She blinks once quickly, bites down lightly in the back of the jaw, and returns attention to the rescued person. Do not reveal the full crack yet.
+
+[3.5-8.0s]
+Violent acceleration, lateral side-follow with one rebound deceleration. She leans toward the person and says in a low, short command close to one breath, <d>[English] Look at me.</d> The line is a command, not comfort. While speaking, her right hand reaches to the edge of frame and grabs the person’s left forearm. She lowers her center of gravity, drives off with her right foot, and pulls the person and the POV diagonally toward screen-left, out of the bright corridor, across about two steps. The camera is dragged by this force, sliding fast sideways and slightly downward, then settling under the darker left-side ceiling with one brief inertial rebound. The camera passes close to her upper body: the shoulder strap tightens, the open collar is tugged by wind and hard turn, and the chest makes a pronounced lateral swing caused by sideways acceleration and torso rotation. After the abrupt stop, it shows a smaller quickly decaying rebound consistent with real soft-tissue inertia and breathing. Loose hair whips opposite the movement and falls back across the shoulder, and the earmuff swings lightly. She checks first whether the person’s footing follows, then looks at the person’s eyes, keeping the mouth tight.
+
+[8.0-11.0s]
+Impact reveal, whip-pan. They have already stopped in the safe left-side zone. From beside her left shoulder, the camera whips toward the right-rear, but the endpoint still keeps part of her left shoulder silhouette in frame. At the skylight in the upper-right, one metal fastener snaps first, the frame bends, and a single pane loosens from one corner, tilts, strikes a beam, and shatters. Large shards fall first, then smaller fragments follow gravity into the bright corridor on the right, hitting, bouncing, and sliding outward. A little fine debris scatters toward the camera’s previous path and slows to a stop near the left-side ceiling edge. Cold white daylight passes through the fragments, and dust is thrown up by the impact, briefly veiling the frame before thinning. The distant background figures only turn, duck, or step back within their own positions. Do not turn this into a full hangar collapse.
+
+[11.0-15.0s]
+Stillness, fixed close shot. Use the impact dust as the transition back to the same safe left-side position. Hold a fixed half-body close shot. Her right hand still supports the person’s forearm and only lets go after confirming the person is steady. After the violent movement, her chest rises and falls visibly with urgent breathing. The open collar edge and shoulder strap tremble first, then settle gradually with one longer exhale. The composition contains both upper body and face, and attention rises with her movement: the jaw softens from tension, her lips part slightly, and she reestablishes eye contact with the person; one corner of the mouth loosens for only a brief instant. Then her eyes lift toward the upper-right skylight before the head follows, checking the danger again. End with both her and the camera still in the safe left-side zone, debris settled, and background figures continuing small evasive movement without freezing.
+
+Keep continuity exact throughout: same identity, same outfit openness, same goggles, earmuff, and shoulder-strap positions, same lighting direction, and the same factory depth. The camera must feel physically tugged by her grip. Hair, clothing, strap, skin, and chest motion must all follow step, torso rotation, hard stop, and breathing with proper inertia and decay. The glass falls only because of the failed upper-right skylight. All fragments follow gravity, collision, and occlusion. Face, fingers, ribcage, and cloth proportions remain stable. No extra foreground character enters.
+
+overall_soundscape:
+A continuous low industrial hangar ambience runs through the full 15 seconds: heavy room tone, faint metal resonance, distant footsteps, sparse background worker movement, and scattered machine hum. At the start, one sharp thin metallic tension ping is heard overhead; when she pulls one earmuff aside, the higher-frequency abnormal sound becomes clearer. During 0.0-2.0s, emphasize two heavy retreating footfalls, cloth and leather friction, close breathing, and light strap movement. From 2.0-3.5s, keep the tension thin and focused, with one tiny dust hit on fabric and the room tone narrowing as she listens. At 3.5-8.0s, she says once, <d>[English] Look at me.</d> in a low clear voice fully synchronized with the mouth. Add two urgent lateral steps, a light buckle tap from the shoulder strap, close breath, the grip on the forearm, and the camera-body pull. At 8.0-11.0s, the sound chain is precise: metal fastener break -> glass striking beam and shattering -> dense ground impacts and fragment sliding. After the impact, a brief ear-ringing tone compresses the sound field. In the last section, let that fade into her breathing as it changes from sharp to slower, with sparse distant reactions from the background figures. No extra dialogue, no voice-over, no subtitles.
+
+non_diegetic_music:
+Use a restrained low-frequency suspense pulse under the opening approach. Thin it out as she listens upward, then tighten it briefly during the grab-and-pull section. The glass-failure reveal should be driven mainly by physical sound, with only a short dark accent under the snap and fall. After the impact, drop the score back almost completely, leaving only a faint residual tension tone beneath her breathing and the far hangar ambience. Keep the music minimal and secondary to footsteps, breath, strap movement, metal failure, and falling glass.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/ou_zhen599/status/2106654552137355465)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106654552137355465) · 15s · 16:9 · Cinematic
+
+---
+### 54. “The Last Few Meters” — Racing the Tram on a Rainy Night (I2V)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106757779751108752"><img src="https://upload.maynor1024.live/file/1791168959426_h3-2106757779751108752.jpg" alt="“The Last Few Meters” — Racing the Tram on a Rainy Night (I2V)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — MiniMax-H3 prompt👇 integrated_multimodal_description 15 seconds, realistic rainy-night suspense short film, I2VA. Use &lt;Picture 1&gt; as the exact frame-0…</summary>
+
+~~~~text
+MiniMax-H3 prompt👇
+integrated_multimodal_description
+
+15 seconds, realistic rainy-night suspense short film, I2VA. Use <Picture 1> as the exact frame-0 reference. Keep the same adult female lead: face, short curled hair, makeup, beige trench coat, wet white shirt, black slit mini skirt, beige heeled ankle boots. Keep the same red-and-white Route 12 tram, wet rails, street buildings, cold rain, warm practical lights, and only extend the visible street depth from <Picture 1>. No new major characters or props. She is already walking briskly from frame 1.
+
+Lock axis and continuity: tram always advances from left-rear along the existing rails toward foreground; woman stays on track-right and initially walks toward camera. The weakened track bed is beside her leading foot and still ahead of the tram. After noticing danger, she turns back along the rail-right edge for two steps, faces the tram, raises her right hand to warn, balances with her left, then retreats one step onto the safer road surface at screen-right during braking. Tram never drifts sideways; front wheel only partially sinks before stopping. Camera always stays on the same side of the rails, preserving tram-left / woman-right orientation and eyelines. Keep the grade from <Picture 1>: wet urban film texture, blue-gray rain haze, coal-black shadows, muted dark red tram, amber street and tram practicals, natural warm skin, low saturation, medium-high contrast, long warm reflections, no color-temperature jump.
+
+[0.0-3.5s] Start from the exact composition of <Picture 1>. Medium-close side tracking from track-right as she walks powerfully toward camera. Push into a realistic close framing of face and upper body: calm gaze, relaxed jaw, torso leads each step, then a light natural vertical chest tremor under the wet shirt from heel impact; trench lapels and short curls settle half a beat later. Rain slides down her neck. She lands near the rail edge, the wet road subtly gives way. Eyes cut down first, brow tightens, inhale breaks. Tilt down to her shoe: pooled water swirls into a narrow crack, her heel pulls free, and the road sinks slightly more. Cut on her foot jerk and body turn.
+
+[3.5-7.3s] Begin on her lifted face as pupils snap toward the tram behind-left. Fast whip-pan to tram lights, then continue lateral pursuit on the same side of the tracks. She runs back two large steps along rail-right, raises her right arm high, palm toward tram, and shouts once: <d>[English] Stop! </d> Short, urgent, partly swallowed by braking noise. Hold a close shot of face and upper body: sprinting creates weighted continuous chest motion beneath the wet shirt; when she arrests her step, torso stops first, then chest, trench collar, and hair tips give one brief inertia rebound. Eyelids tense, jaw clenched, eyes locked on the tram front.
+
+[7.3-11.3s] Fixed low angle from track-right: woman in right foreground, tram in left background. Focus starts on her raised trembling hand and side face, then racks to the tram’s front wheel sliding on the wet rail. Rainwater drains through the cracked surface into the hollow beneath the track bed. Brake vibration and wheel load extend the crack along the rail line; asphalt chips and gravel drop, and the front wheel briefly sinks in a local collapse. Tram nose pitches sharply downward, then stops before further failure. A fan-shaped sheet of water sprays left-to-right across the lower edge of her trench coat and the lens edge, then falls back under gravity. She jerks one step right, slips briefly, regains balance. Coat hem and hair lift in the impact airflow, then settle. Right hand stays raised. Her eyes scan wheel to tram front, lips part, breath held. Keep the event local only: no explosion, no building collapse, no fishtail.
+
+[11.3-15.0s] As droplets clear from the lens edge, cut back on the same side into a slow push toward her face and upper body. Tram is stopped in the left-rear background with the ruptured gap between them. She looks first at the front wheel, then the crack, and lowers her right hand only after confirming the tram has stopped. Hold a final close shot: wet hair stuck to cheek, lips slightly open, two sharp inhales visibly lift clavicles, chest, and wet shirt; the aftershock of running dissolves into breathing. On the long exhale, shoulders, chest, and trench collar relax in sequence. Brow and eyes slowly release; mouth softens only slightly, never into a smile. She shifts weight back onto the lead foot and steps forward again in the original direction. End on a living frame with her still moving. Rain, distant vehicle reflections, and existing background pedestrians or umbrella silhouettes keep slight motion. Final impression: rain, her breathing, and the tram’s residual metal ring.
+
+Strict continuity: lead, clothing, boots, tram design unchanged. Her action count is exactly two steps back, one side retreat, one final forward step. Collapse is caused only by rain-hollowed track bed plus wheel load. Water spray follows wheel speed, impact direction, gravity, and wind. Clothing, hair, and chest motion obey acceleration -> braking -> rebound -> breathing logic. Stable face/body proportions, correct fingers, rigid tram and tracks, synchronized sound, no subtitles, no watermark.
+
+overall_soundscape
+
+Continuous rainy-night urban ambience: steady rain, wet rail hiss, distant traffic wash, muted city reverb, warm tram interior hum, occasional Route 12 mechanical presence. In 0.0-3.5s, emphasize brisk heel impacts, shallow splashes, trench and wet-shirt friction, light breath, one short road-surface crack, and subtle leaking water through the fissure. In 3.5-7.3s, footsteps densify as she turns and runs back; add tram bell and rising brake squeal. She shouts once, <d>[English] Stop! </d>, clear adult female voice, with the tail partly swallowed by braking. In 7.3-11.3s, foreground steel-wheel friction, low structural breakup of the hollowed track bed, gravel and asphalt dropping, fan-shaped water impact, her brief slip-recovery, fabric snap, and air displacement around coat and hair. After the wheel drops and the tram stops, briefly suppress the wider sound field so the danger peak feels compressed. In 11.3-15.0s, reduce to rain, recovering breath, residual tram metal resonance, and distant city reflections. No extra voices, no stylized musical sound inside the diegetic track, no impossible debris.
+
+non_diegetic_music
+
+Use only a restrained suspense bed: low tense pulses and a thin dark tonal layer under the opening walk. Tighten subtly as she notices the ground weakness, then sharpen on the whip-pan and tram reveal. At the warning shout and braking moment, the score narrows and hardens, then pulls back during the collapse so mechanical sound, water, and breath dominate. In the final section, reduce the score almost completely, leaving only a faint sustained tone dissolving into rain and the tram’s after-ring. Keep music minimal, realistic, and secondary to physical sound.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/ou_zhen599/status/2106757779751108752)
+
+**Source:** [@ou_zhen599](https://x.com/ou_zhen599/status/2106757779751108752) · 15s · 16:9 · Cinematic
+
+---
 ## Animation & Anime
 
-### 50. Infinite Cycle of the Blade
+### 55. Infinite Cycle of the Blade
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmyp00010akoxbpa7b9m"><img src="https://pbs.twimg.com/amplify_video_thumb/2082772865410338816/img/wQZjhenyhl6nJlWM.jpg" alt="Infinite Cycle of the Blade" width="700" /></a>
 
@@ -1768,7 +2079,7 @@ Music: glass bells and plucks in at 3.2, strings rise at 6.6, choir swell peaks 
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082774526098874724) · 15s · 16:9 · Animation & Anime
 
 ---
-### 51. Explorer and Cat in a Floating Eco-City
+### 56. Explorer and Cat in a Floating Eco-City
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor77b001t04kzv4tqlwpx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082936673462095872/img/fHRjLaD3agFnGWZW.jpg" alt="Explorer and Cat in a Floating Eco-City" width="700" /></a>
 
@@ -1786,7 +2097,7 @@ Ultra cinematic AAA adventure game trailer, one continuous seamless camera shot,
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082937573559722460) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 52. Dark-Fantasy Tavern Fight
+### 57. Dark-Fantasy Tavern Fight
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqijn000v04kzt7akthtr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082658121625788416/img/nLwZ1WrlRjqOUlBo.jpg" alt="Dark-Fantasy Tavern Fight" width="700" /></a>
 
@@ -1888,7 +2199,7 @@ No floating, no anime combat, no superhero physics, no unrealistic flips, no wei
 **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082658222247137433) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 53. Greenhouse tea isekai anime
+### 58. Greenhouse tea isekai anime
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopuve000104kzxdoazw7z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082798918262550528/img/lu7BdCU3X0FrX9ar.jpg" alt="Greenhouse tea isekai anime" width="700" /></a>
 
@@ -1942,7 +2253,7 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082798959014064531) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 54. Dreamlike Summer Greenhouse Anime
+### 59. Dreamlike Summer Greenhouse Anime
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborefl002504kzbwvyj1tq"><img src="https://pbs.twimg.com/amplify_video_thumb/2082707002850197504/img/mtA5zNkhhQw1Gnk2.jpg" alt="Dreamlike Summer Greenhouse Anime" width="700" /></a>
 
@@ -2024,7 +2335,7 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082707037256056852) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 55. Kintsugi Sword Reborn
+### 60. Kintsugi Sword Reborn
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2gv7s00010ajf52tmiri1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083520887723360256/img/u845oB7aCkvkyBMi.jpg" alt="Kintsugi Sword Reborn" width="700" /></a>
 
@@ -2126,7 +2437,7 @@ image1の細く淡い青灰色と暖灰色の線、透明感のある二層以�
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083525563491524882) · 15s · 16:9 · Animation & Anime
 
 ---
-### 56. Giant Kitchen Spider Comedy Short
+### 61. Giant Kitchen Spider Comedy Short
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq9oi000i04kzdjy8jmfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082840335546568704/img/TUvX2JTrFbPQ-j1X.jpg" alt="Giant Kitchen Spider Comedy Short" width="700" /></a>
 
@@ -2190,7 +2501,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 **Source:** [@Ciri_ai](https://x.com/Ciri_ai/status/2082840410268057697) · 15s · 21:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 57. Fantasy Academy Bread-Sharing Scene
+### 62. Fantasy Academy Bread-Sharing Scene
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborf41002604kzawjxowaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082652014715215872/img/hTOfKimFG5UVYkwM.jpg" alt="Fantasy Academy Bread-Sharing Scene" width="700" /></a>
 
@@ -2274,7 +2585,7 @@ This ending creates a strong cliffhanger for the extension, where an unexpected 
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082652041709773075) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 58. Watercolor anime fetish montage rapid cuts
+### 63. Watercolor anime fetish montage rapid cuts
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqbth000l04kz9fozmj6h"><img src="https://pbs.twimg.com/amplify_video_thumb/2082797849155084288/img/JZFI1PZc91bdhQuZ.jpg" alt="Watercolor anime fetish montage rapid cuts" width="700" /></a>
 
@@ -2425,7 +2736,7 @@ sequence:
 **Source:** [@yachimat_manga](https://x.com/yachimat_manga/status/2082799648528335119) · 15s · 9:16 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 59. Handcrafted paper-cut stop-motion short
+### 64. Handcrafted paper-cut stop-motion short
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbori1r002b04kz9r7u6gpn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082963352699953152/img/Vtr2UJB4tDbYEeRF.jpg" alt="Handcrafted paper-cut stop-motion short" width="700" /></a>
 
@@ -2468,7 +2779,7 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 **Source:** [@AiMeowing](https://x.com/AiMeowing/status/2082964095410512241) · 15s · 4:3 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 60. Lava Blade Anime Action
+### 65. Lava Blade Anime Action
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bn9100020akogmi78uaz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082690605277409280/img/4Ki6w_u-XiRpkOUW.jpg" alt="Lava Blade Anime Action" width="700" /></a>
 
@@ -2514,7 +2825,7 @@ Premium handcrafted stop motion, museum-quality paper art, tactile cardstock tex
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2082693906224009447) · 15s · 16:9 · Animation & Anime
 
 ---
-### 61. Jazz-Noir Anime Title Sequence
+### 66. Jazz-Noir Anime Title Sequence
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopzpc000704kzr2ez50x9"><img src="https://pbs.twimg.com/amplify_video_thumb/2083045791871221761/img/Cncr1Eg5UOn82RkR.jpg" alt="Jazz-Noir Anime Title Sequence" width="700" /></a>
 
@@ -2548,7 +2859,7 @@ End on the character in silhouette, frozen mid-pose against a solid red field, w
 **Source:** [@AIWarper](https://x.com/AIWarper/status/2083045838377652641) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 62. Midnight Neon Motorcycle Ride `reconstructed`
+### 67. Midnight Neon Motorcycle Ride `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20e4f000004l4c1xvm64y"><img src="https://pbs.twimg.com/amplify_video_thumb/2083140471149453312/img/N-Uoz-NEXXsgBu1i.jpg" alt="Midnight Neon Motorcycle Ride" width="700" /></a>
 
@@ -2587,7 +2898,7 @@ Photorealism, live-action footage, soft gradient shading, anatomical warping, ba
 **Source:** [@0xbisc](https://x.com/0xbisc/status/2083144389845508218) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 63. Retro Pop Anime Beats `reconstructed`
+### 68. Retro Pop Anime Beats `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63pqc000i04jxs23eba6d"><img src="https://pbs.twimg.com/amplify_video_thumb/2083450573706366977/img/A8buYXNf0HTexm2q.jpg" alt="Retro Pop Anime Beats" width="700" /></a>
 
@@ -2626,7 +2937,7 @@ Photorealism, 3D rendering, complex gradients, cinematic depth of field, illegib
 **Source:** [@manaimovie](https://x.com/manaimovie/status/2083452257992143357) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 64. Voxel Campfire Cooking `reconstructed`
+### 69. Voxel Campfire Cooking `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m4tj000604jo1teyiphj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083176432356974592/img/QQfTesJaSnurNr0Q.jpg" alt="Voxel Campfire Cooking" width="700" /></a>
 
@@ -2665,7 +2976,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **Source:** [@Caden_Flux](https://x.com/Caden_Flux/status/2083177108105241073) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 65. Pixar-style mouse adventure 3D animation
+### 70. Pixar-style mouse adventure 3D animation
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq8ea000g04kzh6vjew9i"><img src="https://pbs.twimg.com/amplify_video_thumb/2082872957668397056/img/1HFQyAEVNNRR3LDB.jpg" alt="Pixar-style mouse adventure 3D animation" width="700" /></a>
 
@@ -2683,7 +2994,7 @@ Smooth organic geometry, high-polygon meshes, realistic human anatomy, modern ki
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082873433478582726) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 66. Magical Fan Bag Idol Performance
+### 71. Magical Fan Bag Idol Performance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb21nql00000ajfegsogvpl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083365571396308992/img/bLkDMcQBsIlammO-.jpg" alt="Magical Fan Bag Idol Performance" width="700" /></a>
 
@@ -2743,7 +3054,7 @@ No subtitles, additional people, logos, character redesigns, or watermarks.
 **Source:** [@si1verPEGA](https://x.com/si1verPEGA/status/2083368267675222244) · 15s · 16:9 · Animation & Anime
 
 ---
-### 67. Empty Suit Stop-Motion Assembly
+### 72. Empty Suit Stop-Motion Assembly
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqfoa000r04kz7k9clhpi"><img src="https://pbs.twimg.com/amplify_video_thumb/2082725788206456832/img/HXT2Zxl_6ESWJ3Oe.jpg" alt="Empty Suit Stop-Motion Assembly" width="700" /></a>
 
@@ -2761,7 +3072,7 @@ Static locked-off camera, no zoom, no pan, no handheld drift. The frame never mo
 **Source:** [@lukasersil](https://x.com/lukasersil/status/2082727329390854152) · 15s · 3:4 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 68. Clash of the Superpowered Rivals `reconstructed`
+### 73. Clash of the Superpowered Rivals `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20ek900010bkyftdu7dgh"><img src="https://pbs.twimg.com/amplify_video_thumb/2082892829312077824/img/h2nJFQ3ZPnC_j7D5.jpg" alt="Clash of the Superpowered Rivals" width="700" /></a>
 
@@ -2800,7 +3111,7 @@ Watermarks, on-screen text, cel-shading, slow pacing, static camerawork.
 **Source:** [@itsshara_ai](https://x.com/itsshara_ai/status/2082892924694712509) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 69. Magenta Warrior's Lightning Strike `reconstructed`
+### 74. Magenta Warrior's Lightning Strike `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63jk7000504jx71dwfsew"><img src="https://pbs.twimg.com/amplify_video_thumb/2082670735353581568/img/sns_DtYWoAaPV73C.jpg" alt="Magenta Warrior's Lightning Strike" width="700" /></a>
 
@@ -2839,7 +3150,7 @@ Photorealism, live-action humans, bright daylight, modern urban settings, slow p
 **Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2082672010682118545) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 70. Echoes of the Neon City `reconstructed`
+### 75. Echoes of the Neon City `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63m6z000b04jxqqhpvm2c"><img src="https://pbs.twimg.com/amplify_video_thumb/2082743617924255744/img/NV1c9stMTkCSGDmJ.jpg" alt="Echoes of the Neon City" width="700" /></a>
 
@@ -2878,7 +3189,7 @@ Photorealism, 3D CGI rendering, muted colors, pastel palettes, static cinematogr
 **Source:** [@astronomerozge1](https://x.com/astronomerozge1/status/2082743744177008874) · 15s · 21:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 71. Anime Passenger, Live-Action Driver `reconstructed`
+### 76. Anime Passenger, Live-Action Driver `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2y91000404lamhx31s1k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082542989189218305/img/edzk-7eJRat_5WFv.jpg" alt="Anime Passenger, Live-Action Driver" width="700" /></a>
 
@@ -2917,7 +3228,7 @@ Lighting mismatches between 2D and live-action elements, motion blur on the anim
 **Source:** [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru/status/2082558386441461989) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 72. Traveler in the Mystic Forest `reconstructed`
+### 77. Traveler in the Mystic Forest `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qza000l04jxra7g5whd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083049993754271744/img/em8p7VQybaSQUBqE.jpg" alt="Traveler in the Mystic Forest" width="700" /></a>
 
@@ -2956,7 +3267,7 @@ Photorealism, urban elements, modern machinery, harsh neon lighting, rapid shaky
 **Source:** [@luji_xie](https://x.com/luji_xie/status/2083050315314876656) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 73. Cyberpunk Mech Assault `reconstructed`
+### 78. Cyberpunk Mech Assault `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5ceb7000404l18bj9okdd"><img src="https://pbs.twimg.com/amplify_video_thumb/2083047920509566976/img/GtQtE0IIOBvB1dwO.jpg" alt="Cyberpunk Mech Assault" width="700" /></a>
 
@@ -2995,7 +3306,7 @@ Photorealism, static framing, clean pristine environments, completely biological
 **Source:** [@Hacknaut](https://x.com/Hacknaut/status/2083048000687923529) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 74. Cartoon Skater on Fiery Wheels `reconstructed`
+### 79. Cartoon Skater on Fiery Wheels `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496l1000804l1njvwm898"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869890592190469/img/4YUjm4nYmIKFuMZY.jpg" alt="Cartoon Skater on Fiery Wheels" width="700" /></a>
 
@@ -3034,7 +3345,7 @@ Photorealism, 3D rendering, CGI shading, muted tones, static camera, soft edges,
 **Source:** [@whorange__](https://x.com/whorange__/status/2082870195845275923) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 75. Clash of Neon and Shadow `reconstructed`
+### 80. Clash of Neon and Shadow `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kkn000704jxevmkia32"><img src="https://pbs.twimg.com/amplify_video_thumb/2082808203583291392/img/sOgoV4mlHKwcMq98.jpg" alt="Clash of Neon and Shadow" width="700" /></a>
 
@@ -3073,7 +3384,7 @@ Photorealism, slow pacing, static camera, soft focus, text, watermarks.
 **Source:** [@mito_ai_la](https://x.com/mito_ai_la/status/2082808886919336080) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 76. Clash of Fire and Water `reconstructed`
+### 81. Clash of Fire and Water `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb496zu000904l1fxz0zhaf"><img src="https://pbs.twimg.com/amplify_video_thumb/2082763740106428416/img/FTyhG59RujxEo2Ur.jpg" alt="Clash of Fire and Water" width="700" /></a>
 
@@ -3112,7 +3423,7 @@ Text, watermarks, modern clothing, photorealism, shaky camera, modern architectu
 **Source:** [@harboriis](https://x.com/harboriis/status/2082763939453239615) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 77. Curious Clay Sheep's Adventure `reconstructed`
+### 82. Curious Clay Sheep's Adventure `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u6is000004l5fguhkucz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083193056455794688/img/A8qpz7eJqWF_w6Uk.jpg" alt="Curious Clay Sheep's Adventure" width="700" /></a>
 
@@ -3151,7 +3462,7 @@ Photorealism, flat 2D animation, smooth 60fps CGI motion, human subjects, clean 
 **Source:** [@ThissSophie](https://x.com/ThissSophie/status/2083194363446694308) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 78. Flight of the Neon Sprite `reconstructed`
+### 83. Flight of the Neon Sprite `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hxe000204jxjw2u79v0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082541813768892416/img/ZAJG157w6Z13GWZ6.jpg" alt="Flight of the Neon Sprite" width="700" /></a>
 
@@ -3190,7 +3501,7 @@ Daylight, jagged architecture, human figures, typography, realistic animals, sta
 **Source:** [@aiIgnatius](https://x.com/aiIgnatius/status/2082542123149119593) · 15s · 9:16 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 79. Midnight Train Terror `reconstructed`
+### 84. Midnight Train Terror `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cf5c000604l1m7ylq293"><img src="https://pbs.twimg.com/amplify_video_thumb/2082811888618901506/img/mjXOOD5m0Cm3xS-q.jpg" alt="Midnight Train Terror" width="700" /></a>
 
@@ -3229,7 +3540,7 @@ Daylight, warm color grading, 3D rendering, realistic textures, slow-motion acti
 **Source:** [@StevieMac03](https://x.com/StevieMac03/status/2082812281881055742) · 15s · 21:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 80. Stop-Motion Natural Dragon Assembly
+### 85. Stop-Motion Natural Dragon Assembly
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fds00040bky87kv6fb1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082704338057850880/img/Y5a_bqAs8WI_V2w7.jpg" alt="Stop-Motion Natural Dragon Assembly" width="700" /></a>
 
@@ -3252,7 +3563,7 @@ Final shot: the completed dragon head sculpture sits alone on the white backgrou
 **Source:** [@Maercihh](https://x.com/Maercihh/status/2082704405619679353) · 15s · 4:3 · Animation & Anime
 
 ---
-### 81. Glowing Magic in the Kitchen `reconstructed`
+### 86. Glowing Magic in the Kitchen `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63nnk000e04jxl7s6nrrp"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827164181778432/img/PvGUYgughXnyMGd3.jpg" alt="Glowing Magic in the Kitchen" width="700" /></a>
 
@@ -3291,7 +3602,7 @@ Photorealistic CGI creatures, fully animated backgrounds, flat lighting, sterile
 **Source:** [@lexx_aura](https://x.com/lexx_aura/status/2082827360970199464) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 82. Huntress Confronts the White Beast `reconstructed`
+### 87. Huntress Confronts the White Beast `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zve7000g04l1gusav6da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082796446575927297/img/MI6QlX-9KIpfHDc_.jpg" alt="Huntress Confronts the White Beast" width="700" /></a>
 
@@ -3330,7 +3641,7 @@ Photorealism, 3D render style, modern elements, on-screen text, sluggish pacing.
 **Source:** [@akakuma0219](https://x.com/akakuma0219/status/2082796505417801823) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 83. Felt Anglerfish Ocean Adventure `reconstructed`
+### 88. Felt Anglerfish Ocean Adventure `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cguz000a04l1natgsc4q"><img src="https://pbs.twimg.com/amplify_video_thumb/2083008829181341697/img/TGQzc16wP4JjyCK_.jpg" alt="Felt Anglerfish Ocean Adventure" width="700" /></a>
 
@@ -3369,7 +3680,7 @@ Photorealism, sharp CGI edges, human characters, camera shake, text.
 **Source:** [@NVTDanh](https://x.com/NVTDanh/status/2083011011519627554) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 84. Chibi's Magical Cherry Blossom Adventure `reconstructed`
+### 89. Chibi's Magical Cherry Blossom Adventure `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4d2zc000a04l1wy56pgci"><img src="https://pbs.twimg.com/amplify_video_thumb/2082546454275747840/img/v3L9BU1kZ0gHAGNc.jpg" alt="Chibi's Magical Cherry Blossom Adventure" width="700" /></a>
 
@@ -3408,7 +3719,7 @@ Photorealism, muted colors, low lighting, slow pacing, urban elements.
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2082546598320767233) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 85. Joyful Dance on Flying Whale `reconstructed`
+### 90. Joyful Dance on Flying Whale `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63iaz000304jxuy1gjm6b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082839094409998336/img/8SRi6k4fZjwyyrq_.jpg" alt="Joyful Dance on Flying Whale" width="700" /></a>
 
@@ -3447,7 +3758,7 @@ Photorealism, dark lighting, modern clothing, erratic camera shake, visible text
 **Source:** [@akakuma0219](https://x.com/akakuma0219/status/2082839158327054631) · 15s · 9:16 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 86. ASMR multi-cut overseas snack unboxing anime
+### 91. ASMR multi-cut overseas snack unboxing anime
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqdtr000o04kzhsbangwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082752049545093121/img/D_xhD-SJmyyg4IkT.jpg" alt="ASMR multi-cut overseas snack unboxing anime" width="700" /></a>
 
@@ -3549,7 +3860,7 @@ cut16:
 **Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082768164413428159) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 87. Chibi RPG Card Battle Showdown `reconstructed`
+### 92. Chibi RPG Card Battle Showdown `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u7er000204l569vildtq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083201618963771393/img/UT1kgqxmHuXSeP8J.jpg" alt="Chibi RPG Card Battle Showdown" width="700" /></a>
 
@@ -3588,7 +3899,7 @@ Photorealism, live-action, shaky camera, dramatic shadows, dynamic camera tracki
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2083203352402543027) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 88. Chibi Lovers in the Rain `reconstructed`
+### 93. Chibi Lovers in the Rain `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63kxy000804jx6zi8p21b"><img src="https://pbs.twimg.com/amplify_video_thumb/2082863768258940928/img/JT57blakdb1GXDXH.jpg" alt="Chibi Lovers in the Rain" width="700" /></a>
 
@@ -3627,7 +3938,7 @@ Photorealism, vivid colors, dynamic camera movement, cluttered backgrounds.
 **Source:** [@craftcapitallab](https://x.com/craftcapitallab/status/2082934258092659025) · 15s · 16:9 · Animation & Anime · prompt reconstructed by us
 
 ---
-### 89. Stormy Claymation Whale Breach
+### 94. Stormy Claymation Whale Breach
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopvv3000204kzjizpvo5l"><img src="https://pbs.twimg.com/amplify_video_thumb/2083503785083588608/img/jbadXIE0eDBJ-oB1.jpg" alt="Stormy Claymation Whale Breach" width="700" /></a>
 
@@ -3645,7 +3956,7 @@ Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion a
 **Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083555537912729607) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 90. Four Seasons Anime Boarding Ride
+### 95. Four Seasons Anime Boarding Ride
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaux000204jog5x4w7fk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082834833290747904/img/krKPTVc6EVDlIITv.jpg" alt="Four Seasons Anime Boarding Ride" width="700" /></a>
 
@@ -3679,7 +3990,7 @@ Claymation. A whale breaches from a stormy clay sea and rises in a slow-motion a
 **Source:** [@liyue_ai](https://x.com/liyue_ai/status/2082835339820097539) · 15s · 16:9 · Animation & Anime
 
 ---
-### 91. The World's Unluckiest Superhero
+### 96. The World's Unluckiest Superhero
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboriti002c04kzh0wg88sa"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853029133312000/img/Upi7gJ0Ds1xeK9ne.jpg" alt="The World's Unluckiest Superhero" width="700" /></a>
 
@@ -3697,7 +4008,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 **Source:** [@NACHOS2D_](https://x.com/NACHOS2D_/status/2082853567543615837) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 92. Hand-Drawn Ginger Pork Cooking Anime
+### 97. Hand-Drawn Ginger Pork Cooking Anime
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqb4p000k04kzknz62rq8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082826179753697281/img/h3J3psiaTa6yg7A1.jpg" alt="Hand-Drawn Ginger Pork Cooking Anime" width="700" /></a>
 
@@ -3722,7 +4033,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 **Source:** [@ozuozuai99](https://x.com/ozuozuai99/status/2082828444484960451) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 93. Untitled
+### 98. Untitled
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb81khx000004l5q1nb2xo0"><img src="https://pbs.twimg.com/amplify_video_thumb/2082491822627229696/img/7wWNx9vHTh7etd7i.jpg" alt="Untitled" width="700" /></a>
 
@@ -3740,7 +4051,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 **Source:** [@mugi_AI_Art](https://x.com/mugi_AI_Art/status/2082492072989519989?s=20) · 15s · 16:9 · Animation & Anime
 
 ---
-### 94. 8-bit black and white San Francisco animation
+### 99. 8-bit black and white San Francisco animation
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor6pb001s04kzblasq4al"><img src="https://pbs.twimg.com/amplify_video_thumb/2083007126612692992/img/lyVle1Lrmrzt6PbR.jpg" alt="8-bit black and white San Francisco animation" width="700" /></a>
 
@@ -3759,7 +4070,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 **Source:** [@vercel_dev](https://x.com/vercel_dev/status/2083007144111325353) · 15s · 16:9 · Animation & Anime · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 95. Chibi Sprite-Sheet Dance (4×4 Sheet → Video)
+### 100. Chibi Sprite-Sheet Dance (4×4 Sheet → Video)
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099792455902404977"><img src="https://pbs.twimg.com/amplify_video_thumb/2099791140128251904/img/Lls3ODIIXumgLYte.jpg" alt="Chibi Sprite-Sheet Dance (4×4 Sheet → Video)" width="700" /></a>
 
@@ -3829,7 +4140,7 @@ A documentary about a superhero who has extremely bad luck and ends up saving pe
 **Source:** [@shimotti_ai](https://x.com/shimotti_ai/status/2099792455902404977) · 10s · 1:1 · Animation & Anime
 
 ---
-### 96. VOID — JJK-Style Kinetic Anime Title Sequence
+### 101. VOID — JJK-Style Kinetic Anime Title Sequence
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100592890380439923"><img src="https://pbs.twimg.com/media/HSbODvgWYAATQuH.jpg" alt="VOID — JJK-Style Kinetic Anime Title Sequence" width="700" /></a>
 
@@ -3867,7 +4178,7 @@ Never: soft transitions, static frames, gradients, faces, anything gentle.
 **Source:** [@TechieBySA](https://x.com/TechieBySA/status/2100592890380439923) · 15s · 16:9 · Animation & Anime
 
 ---
-### 97. Tiny 2D Chef in a Giant Real Kitchen
+### 102. Tiny 2D Chef in a Giant Real Kitchen
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2105259144555212877"><img src="https://pbs.twimg.com/media/HTdi8P-XoAAGB8q.jpg" alt="Tiny 2D Chef in a Giant Real Kitchen" width="700" /></a>
 
@@ -3899,9 +4210,209 @@ Audio: Playful kitchen ambience, flour poofs, dough squishes, mixer whirring, tr
 **Source:** [@airina_xyz](https://x.com/airina_xyz/status/2105259144555212877) · 15s · 16:9 · Animation & Anime
 
 ---
+### 103. The Girl the Automatic Door Ignores (Anime Comedy)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106673691753074822"><img src="https://upload.maynor1024.live/file/1791168954855_h3-2106673691753074822.jpg" alt="The Girl the Automatic Door Ignores (Anime Comedy)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — MiniMax H3 Prompt subject_definitions: &lt;Subject 1&gt; is the single female character depicted in &lt;Picture 1&gt;. The front, side, back, and facial views all…</summary>
+
+~~~~text
+MiniMax H3 Prompt
+subject_definitions:
+<Subject 1> is the single female character depicted in <Picture 1>. The front, side, back, and facial views all depict the SAME person. Preserve her exact facial identity, pale green eyes, short black bob with straight bangs, raised patterned hood, red-and-silver headphones, oversized black-and-turquoise graphic jacket, shorts, patterned thigh-high socks, and chunky black boots. Keep all original clothing colors, graphic motifs, accessories, proportions, and silhouette consistent.
+summary:
+[reference generation] Create a 15-second, 9:16 animated comedy. <Subject 1> looks like an intimidating, powerful heroine, but a convenience-store automatic door refuses to open for her. Her increasingly awkward attempts fail. An ordinary customer approaches, and the door immediately opens. She quietly follows the customer inside while trying to preserve her dignity. Exactly three shots, one location, two characters, no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in [Shot 1], [Shot 2], [Shot 3]): fully_preserved - retain the character identity, costume, headphones, hairstyle, and illustrated appearance from <Picture 1>. Use the image only as a character-design reference. The white background, sheet layout, multiple views, and headings are not part of the video. Show only one instance of this character.
+detailed_description:
+High-detail 2D animated illustration matching the reference character's visual style, with smooth, restrained acting and consistent clothing details. The setting is a quiet Japanese convenience-store entrance at night. Warm interior light contrasts with cool blue street lighting. The entrance has two transparent glass panels that slide horizontally apart. Keep the same entrance, lighting, and spatial layout throughout. The humor comes from her serious expression and the door's refusal to cooperate. No supernatural effects.
+
+[Shot 1]
+A slightly low-angle, three-quarter exterior medium-wide shot shows <Subject 1> on the left and the closed automatic entrance on the right. Her face is visible in profile, and the glass-panel seam is clearly visible. She takes two confident steps toward the entrance, both hands in her jacket pockets, chin slightly raised, looking exceptionally cool and composed. She stops about 40 centimeters in front of the glass, directly beneath the overhead sensor. The door remains completely closed. She waits for a brief beat, then slowly looks up at the sensor. Her confidence shifts into quiet confusion. A short, dramatic electronic bass phrase accompanies her approach, then abruptly stops when the door fails to open. Footsteps and faint street ambience remain.
+[Shot 2] At 00:03.000, cut to a locked, eye-level full-body shot from the same exterior side, keeping her face, boots, sensor, and entire doorway visible.
+<Subject 1> remains in front of the same closed door. Without smiling, she removes her right hand from her pocket and waves it twice beneath the sensor. Nothing happens. She pauses, stares at the sensor, then makes ONE small vertical hop with both boots briefly leaving the pavement. She lands naturally in the same spot. The door still does not move. Her jacket and accessories settle after the landing. She lowers her hand, holds a stiff, dignified posture, and gives the glass a mildly offended stare. Keep each action separate and clearly readable. The audio consists of a quiet sleeve rustle, one soft landing thud, and street ambience.
+
+[Shot 3] At 00:09.000, cut to a slightly wider exterior view of the same doorway.
+<Subject 1> shifts half a step to the left, remaining outside beside the entrance with her face visible. One ordinary adult customer in a plain brown jacket and blue jeans enters from the right and approaches the center of the doorway at a normal walking pace. ONLY NOW do the two glass panels immediately slide apart, accompanied by a gentle motor sound and a short electronic entry chime. Show the panels opening fully before the customer crosses the threshold. The customer walks into the store without noticing her.
+<Subject 1> freezes for a short beat and looks from the open doorway toward the departing customer. Her expression stays mostly serious, with only a tiny eyebrow twitch revealing embarrassment. She puts her right hand back into her pocket, straightens her posture, and casually follows the customer through the still-open entrance as if that had been her plan all along. End at 15 seconds with her entering the store. Keep both characters separate, with natural walking and no overlapping bodies.
+overall_soundscape:
+Quiet nighttime street ambience, subdued ventilation hum, natural footsteps, clothing rustle, one small-hop landing, and the sliding-door motor. The entry chime occurs only when the ordinary customer activates the door in Shot 3. Both characters remain silent throughout: no dialogue, narration, singing, vocal reactions, or intelligible background speech.
+
+non_diegetic_music:
+A brief instrumental electronic bass phrase during the confident approach in Shot 1, stopping abruptly when the door stays closed. No music during her failed attempts. One soft, dry pizzicato note punctuates her embarrassed pause in Shot 3. No vocals.
+Keep the original costume graphics intact. Add no captions, subtitles, title cards, watermarks, or branded store signage. No additional pedestrians, character duplicates, extra cuts, camera shake, glass collisions, forced entry, or door opening before Shot 3.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/tokyo_Valentine/status/2106673691753074822)
+
+**Source:** [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2106673691753074822) · 14s · 16:9 · Animation & Anime
+
+---
+### 104. Lending My Headphones to a Ghost (Anime Comedy)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106734006033383686"><img src="https://upload.maynor1024.live/file/1791168955258_h3-2106734006033383686.jpg" alt="Lending My Headphones to a Ghost (Anime Comedy)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — MiniMax H3 Prompt subject_definitions: &lt;Subject 1&gt; is the single female character in &lt;Picture 1&gt;. The multiple views depict the SAME person. Preserve…</summary>
+
+~~~~text
+MiniMax H3 Prompt
+subject_definitions:
+<Subject 1> is the single female character in <Picture 1>. The multiple views depict the SAME person. Preserve her exact face, pale green eyes, short black bob, straight bangs, raised patterned hood, oversized black-and-turquoise graphic jacket, shorts, patterned thigh-high socks, chunky boots, and body proportions. Do not redesign her clothing or simplify its graphic motifs.
+<Subject 2> is the single pair of red-and-silver headphones worn by <Subject 1> in <Picture 1>. Preserve their exact design. Only ONE pair exists. They are transferred from the girl to the ghost during the video.
+
+summary:
+[reference generation] A 15-second, 9:16 animated comedy. A ghost tries to frighten <Subject 1>. Completely unimpressed, she places <Subject 2> on its head. The ghost immediately starts dancing to the music, forgetting to be scary. She watches with a deadpan expression. Three shots, one location, no dialogue.
+
+retention_analysis:
+<Subject 1> (appears in all three shots): fully_preserved - maintain her identity, original costume, hood, hairstyle, and illustrated appearance. Her headphones are removed only during the deliberate transfer.
+<Subject 2> (appears in all three shots): fully_preserved - the same headphones move from the girl to the ghost without duplication or design changes.
+The character-sheet layout, white background, headings, and multiple views are not part of the video.
+detailed_description:
+Detailed 2D anime animation matching the reference illustration. Smooth movement, restrained facial acting, and consistent costume details. One quiet Japanese side street at night, with cool blue street lighting and warm light from a nearby shop window. Maintain this location and lighting throughout.
+
+The newly generated ghost is a single pale-blue translucent humanoid with a rounded head, two dark oval eyes, two arms, and a lower body tapering into floating mist. Its head is approximately the same size as the girl's head so the headphones fit. Maintain the same ghost design throughout.
+[Shot 1]
+A steady, eye-level medium-wide shot. <Subject 1> stands on the left, wearing <Subject 2>, with her face and distinctive jacket clearly visible. On her right, the ghost slowly emerges from the dark background and floats toward her with both arms extended in a spooky pose. It stops beside her, within arm's reach. She turns her eyes toward it and gives it a bored, unimpressed look. She does not flinch or step away. A quiet ominous synth drone accompanies the ghost's approach. No vocal sounds.
+[Shot 2] At 00:04.000, cut to a steady medium two-shot showing both heads and the girl's hands.
+<Subject 1> calmly turns toward the ghost. With both hands, she grips the earcups of <Subject 2>, lifts the headphones clear of her hood, and places that SAME pair over the ghost's head in one continuous action. Her hood remains raised and unchanged. The ghost stays still during the transfer. She releases the headphones and lowers her hands. The girl is now wearing no headphones; the ghost is wearing the only pair. The ominous drone stops. A bright instrumental dance beat begins as the headphones settle into place.
+[Shot 3] At 00:08.000, cut to a locked medium-wide two-shot, keeping the girl on the left and the ghost on the right.
+The ghost immediately starts dancing enthusiastically to the beat. Use one simple repeated movement: head bobbing, shoulders swaying left and right, and bent forearms gently bouncing. Its misty lower body floats in the same position. The headphones remain securely on its head. No spins, acrobatics, or large movements.
+<Subject 1> stands still beside it, watching with a completely serious expression. The ghost keeps dancing happily, having forgotten its attempt to frighten her. During the final two seconds, she slowly looks toward the camera and raises one eyebrow slightly. Hold her deadpan reaction while the ghost continues dancing. End at 15 seconds.
+
+overall_soundscape:
+Quiet nighttime street ambience, subtle clothing rustle during the transfer, and clear instrumental music from the headphones after they reach the ghost. The music is an upbeat house groove with a steady kick, crisp hi-hats, and playful synth bass. Synchronize the ghost's dance with the beat. No dialogue, narration, singing, whispers, screams, laughter, or vocal reactions.
+non_diegetic_music:
+A subdued ominous synth drone during Shot 1, ending during Shot 2. No additional score once the headphone music begins.
+
+Exactly one girl, one ghost, and one pair of headphones. Preserve the original clothing graphics. Add no subtitles, captions, title cards, watermarks, or store logos. No duplicated headphones, extra limbs, character morphing, camera shake, additional cuts, or exaggerated facial deformation.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/tokyo_Valentine/status/2106734006033383686)
+
+**Source:** [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2106734006033383686) · 14s · 16:9 · Animation & Anime
+
+---
+### 105. Manga-Style Exaggerated Meltdown over Homework (Japanese Shot List)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106906266631278859"><img src="https://upload.maynor1024.live/file/1791168958954_h3-2106906266631278859.jpg" alt="Manga-Style Exaggerated Meltdown over Homework (Japanese Shot List)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — 【Shot 1｜0〜2.5秒】 斜め前から二人を捉える。 女の子は宿題に苛立ち、肩を丸め、鉛筆を強く握る。こめかみの赤い怒りマークが脈打つ。 女の子「あー、もう！」 男の子は隣で静かに勉強を続ける。 【Shot 2｜2.5〜5秒】 女の子を正面から捉えるミディアムショット。 頭を後ろに反らし、顔が一…</summary>
+
+~~~~text
+【Shot 1｜0〜2.5秒】
+斜め前から二人を捉える。
+女の子は宿題に苛立ち、肩を丸め、鉛筆を強く握る。こめかみの赤い怒りマークが脈打つ。
+女の子「あー、もう！」
+男の子は隣で静かに勉強を続ける。
+
+【Shot 2｜2.5〜5秒】
+女の子を正面から捉えるミディアムショット。
+頭を後ろに反らし、顔が一気にギャグ顔へ変わる。閉じた三角目、大きく開いた四角い口、額の紫色のストレス線、赤い頬。髪が外側へ揺れ、青い汗の粒が飛び出す。
+女の子「全然わかんない！」
+微妙な怒り顔ではなく、はっきりデフォルメする。
+
+【Shot 3｜5〜8秒】
+二人が見える広めの正面ショット。
+女の子が自分の机を両拳で一度叩き、拳を肩の高さで振る。三角目と大きな叫び口を維持。
+頭上にオレンジ色の怒りの稲妻マーク。頭の両側から大きな白い漫画的な蒸気が噴き出す。プリントが舞い、筆箱と消しゴムが軽く跳ねる。
+女の子「もう、勉強なんて嫌い！」
+男の子は鉛筆を止め、半目で横を見てため息をつく。隣の席に座ったまま。
+
+【Shot 4｜8〜10秒】
+女の子の机を捉える。
+急に力が抜け、拳を下ろし、肩を落としてノートに突っ伏す。蒸気と稲妻が消え、大きな青い汗マークが現れる。
+額が机に当たる軽い音。紙がゆっくり落ち着く。突っ伏した姿勢で少し間を置き、小さくうめく。
+
+【Shot 5｜10〜13秒】
+二人の顔が見えるミディアムショット。
+男の子は自分の机に肘をつき、片眉を上げ、女の子のノートへ視線を向ける。
+男の子「さっき教えたとこじゃん。」
+少し呆れているが、親しみのある軽い小言。
+女の子は一瞬固まり、ゆっくり顔を上げて横目で睨む。顔は通常の繊細なアニメ顔に戻り、半目、赤い頬、不機嫌な口元になる。
+
+【Shot 6｜13〜15秒】
+女の子の斜め前からのクローズアップ。
+男の子へ少し顔を向け、頬を膨らませ、ノートの端を握る。赤い怒りマークが最後に一度脈打つ。
+女の子「わかってるし。」
+声は小さく、不機嫌で少し照れている。ため息をつき、ノートへ顎を下げる。ふくれ顔で終了。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/onofumi_AI/status/2106906266631278859)
+
+**Source:** [@onofumi_AI](https://x.com/onofumi_AI/status/2106906266631278859) · 15s · 16:9 · Animation & Anime
+
+---
+### 106. 90s Mecha Anime: Hangar Launch
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106823745646047593"><img src="https://upload.maynor1024.live/file/1791168960710_h3-2106823745646047593.jpg" alt="90s Mecha Anime: Hangar Launch" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Mecha rises Minimax H3 @Hailuo_AI 15-second anime sequence, 1990s mecha anime style, detailed mechanical design, bold shading, cinematic lighting, con…</summary>
+
+~~~~text
+Mecha rises
+Minimax H3 @Hailuo_AI 
+
+15-second anime sequence, 1990s mecha anime style, detailed mechanical design, bold shading, cinematic lighting, consistent robot design throughout.
+
+Exactly one giant robot: white and blue armor plating, single glowing green visor, large thrusters on its back.
+
+[0-5s] Wide shot inside a dark hangar. The robot stands still as red warning lights flash and steam vents hiss from the walls. The viewer slowly rises up the length of its body.
+
+[5-10s] Close-up on the visor as it powers on, glowing bright green. The hangar ceiling splits open, revealing a night sky full of stars.
+
+[10-15s] Wide shot from below. The robot ignites its thrusters and blasts upward out of the hangar, blue flames and smoke filling the frame, the viewer tracking it as it shrinks into the sky.
+
+Negative prompt: extra robots, duplicate robots, extra limbs, melting metal, warped armor, photorealistic, live action, blurry, morphing, flickering, inconsistent colors, text, watermark, slow motion
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/DeCat2025/status/2106823745646047593)
+
+**Source:** [@DeCat2025](https://x.com/DeCat2025/status/2106823745646047593) · 15s · 16:9 · Animation & Anime
+
+---
+### 107. Cute Halloween Monster Trick-or-Treat (I2V)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106899869931856356"><img src="https://upload.maynor1024.live/file/1791168967211_h3-2106899869931856356.jpg" alt="Cute Halloween Monster Trick-or-Treat (I2V)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — まとさんプロンプトの画像とセットで使ってみてね ▼ Cute Halloween video. A monster and a woman stand side by side, walk toward the camera saying “トリックオアトリート〜” in cheerful Japa…</summary>
+
+~~~~text
+まとさんプロンプトの画像とセットで使ってみてね
+▼
+Cute Halloween video. A monster and a woman stand side by side, walk toward the camera saying “トリックオアトリート〜” in cheerful Japanese-style pronunciation, and do a playful prank-like surprise pose. The woman copies the monster and keeps a mischievous half-lidded jito-me expression.
+
+Start with a fixed camera, then add slight shake as they come close. At the end, spin the camera and pull the frame into a swirling vortex. Cut to black.
+
+After 0.5 seconds, show centered “trick or treat” text on a pure black background in a cute designer Halloween font: rounded, thick, slightly irregular, chunky, and softly melted. Then opaque orange slime drips from the top until the whole screen becomes orange.
+
+Mood: playful, cheerful Halloween, not scary.
+BGM: upbeat, fun Halloween music.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/taya_mama_AI/status/2106899869931856356)
+
+**Source:** [@taya_mama_AI](https://x.com/taya_mama_AI/status/2106899869931856356) · 9s · 3:4 · Animation & Anime
+
+---
 ## Ads & Products
 
-### 98. KALDR cold perfume commercial multi-reference
+### 108. KALDR cold perfume commercial multi-reference
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqtzf001b04kzcll6fe7k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082918243002695680/img/a7ztEfHR51KLKlzI.jpg" alt="KALDR cold perfume commercial multi-reference" width="700" /></a>
 
@@ -3952,7 +4463,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 **Source:** [@abulu8](https://x.com/abulu8/status/2082919486399943073) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 99. H3 Energy Drink Showcase
+### 109. H3 Energy Drink Showcase
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478dp000004l15tqgauxd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082912615052050432/img/4kFMxx1VdMeuLzMU.jpg" alt="H3 Energy Drink Showcase" width="700" /></a>
 
@@ -3986,7 +4497,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082912639647465647) · 15s · 9:16 · Product & Ads
 
 ---
-### 100. Luxury Watch Time Freeze Commercial
+### 110. Luxury Watch Time Freeze Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47vtv000404l1nj15bc5w"><img src="https://pbs.twimg.com/amplify_video_thumb/2082831827216343040/img/Z0an-oRSY3_N7DFO.jpg" alt="Luxury Watch Time Freeze Commercial" width="700" /></a>
 
@@ -4018,7 +4529,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082831848238186868) · 15s · 9:16 · Product & Ads
 
 ---
-### 101. Golden Hour Luxury Fragrance
+### 111. Golden Hour Luxury Fragrance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t16q000304jpm5qoxllw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082873923130236928/img/PfzGp0C5LkrMrvem.jpg" alt="Golden Hour Luxury Fragrance" width="700" /></a>
 
@@ -4050,7 +4561,7 @@ Do not add other people, boats, buildings, vehicles, modern objects, subtitles, 
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082873944575815861) · 15s · 9:16 · Product & Ads
 
 ---
-### 102. Sushi Night Smartphone UGC Vlog
+### 112. Sushi Night Smartphone UGC Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqw3o001e04kzfc1i15of"><img src="https://pbs.twimg.com/amplify_video_thumb/2082837356198146048/img/iZ-78X9o-m0QQy_d.jpg" alt="Sushi Night Smartphone UGC Vlog" width="700" /></a>
 
@@ -4097,7 +4608,7 @@ cinematic color grading, overly smooth gimbal movement, studio lighting, profess
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2082837405812613617) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 103. Luxury Skincare Cinematic Commercial
+### 113. Luxury Skincare Cinematic Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcoz000h0akmelmkfvft"><img src="https://pbs.twimg.com/amplify_video_thumb/2083407918704316416/img/SZQ8c68DLAovAq25.jpg" alt="Luxury Skincare Cinematic Commercial" width="700" /></a>
 
@@ -4163,7 +4674,7 @@ Ultra photorealistic luxury skincare commercial, Apple-style cinematography, ARR
 **Source:** [@Maercihh](https://x.com/Maercihh/status/2083407991114805571) · 15s · 16:9 · Product & Ads
 
 ---
-### 104. Premium cinematic fashion campaign outfit reveal
+### 114. Premium cinematic fashion campaign outfit reveal
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqrgm001804kzbvxox0kq"><img src="https://pbs.twimg.com/amplify_video_thumb/2083024654567112705/img/-MpDPkPOzIkiKwDi.jpg" alt="Premium cinematic fashion campaign outfit reveal" width="700" /></a>
 
@@ -4181,7 +4692,7 @@ Create a premium cinematic fashion campaign video using the five uploaded appare
 **Source:** [@luxaios](https://x.com/luxaios/status/2083024913322103224) · 15s · 9:16 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 105. UGC Style Soda Product Promo
+### 115. UGC Style Soda Product Promo
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1ga2v000b0akmzgt3d0i7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083135932472143872/img/CEB4kJT9ey1QoFfq.jpg" alt="UGC Style Soda Product Promo" width="700" /></a>
 
@@ -4223,7 +4734,7 @@ Continuous natural ambient kitchen sound, subtle upbeat pop background music und
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083136052638998714) · 15s · 16:9 · Product & Ads
 
 ---
-### 106. Vertical car transformation street-culture film
+### 116. Vertical car transformation street-culture film
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqz96001i04kzq1l6tfix"><img src="https://pbs.twimg.com/amplify_video_thumb/2082783021636161536/img/HayifMvKqD8RJZ2h.jpg" alt="Vertical car transformation street-culture film" width="700" /></a>
 
@@ -4349,7 +4860,7 @@ Feels like a premium car modification advertisement
 **Source:** [@fromjtown](https://x.com/fromjtown/status/2082783123830378938) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 107. Ultra-premium cinematic luxury perfume commercial
+### 117. Ultra-premium cinematic luxury perfume commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor0cq001k04kzeq05yk9g"><img src="https://pbs.twimg.com/amplify_video_thumb/2082775806666002432/img/fdFy_tI03kIixAwt.jpg" alt="Ultra-premium cinematic luxury perfume commercial" width="700" /></a>
 
@@ -4396,7 +4907,7 @@ Low quality, blurry, noise, flickering, unstable motion, distorted anatomy, bad 
 **Source:** [@SadiaMalik182](https://x.com/SadiaMalik182/status/2082776032042783085) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 108. Surreal Blue Studio Dance with a Horse
+### 118. Surreal Blue Studio Dance with a Horse
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqmml001104kzf2z75hto"><img src="https://pbs.twimg.com/amplify_video_thumb/2083300689606852608/img/vviCnuLIJP17YlBx.jpg" alt="Surreal Blue Studio Dance with a Horse" width="700" /></a>
 
@@ -4418,7 +4929,7 @@ Create a surreal 15-second fashion-film sequence inside a minimalist monochrome 
 **Source:** [@egeberkina](https://x.com/egeberkina/status/2083301476206588086) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 109. Velvet Crimson Luxury Lipstick `reconstructed`
+### 119. Velvet Crimson Luxury Lipstick `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6o400030akmqihho8x8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083033643392372736/img/goYVPzJiWeOqOJI3.jpg" alt="Velvet Crimson Luxury Lipstick" width="700" /></a>
 
@@ -4457,7 +4968,7 @@ Smudged makeup, uneven skin textures, dull colors, naturalistic documentary ligh
 **Source:** [@Aneeza__S](https://x.com/Aneeza__S/status/2083033717384380919) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 110. Luxury Sports Car Landing Page Motion
+### 120. Luxury Sports Car Landing Page Motion
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqt9n001a04kziw745ife"><img src="https://pbs.twimg.com/amplify_video_thumb/2082999549371809792/img/R-05d_1cnYweCszn.jpg" alt="Luxury Sports Car Landing Page Motion" width="700" /></a>
 
@@ -4547,7 +5058,7 @@ A premium automotive brand website, similar to a supercar launch page. Dark meta
 **Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2082999806948229386) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 111. Yellow Sunglasses in a Black Studio
+### 121. Yellow Sunglasses in a Black Studio
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqnks001204kzoml2c5b1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083210378759098368/img/wwUOVkeDWwXwQIfr.jpg" alt="Yellow Sunglasses in a Black Studio" width="700" /></a>
 
@@ -4621,7 +5132,7 @@ Composition: model centered, all type within the central third of the frame
 **Source:** [@shikoba_86](https://x.com/shikoba_86/status/2083225662316265763) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 112. The Future of Precision Motion `reconstructed`
+### 122. The Future of Precision Motion `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cfmr000704l1fv001u58"><img src="https://pbs.twimg.com/amplify_video_thumb/2082692156666568704/img/uaA9RKuIuQ2zLaM_.jpg" alt="The Future of Precision Motion" width="700" /></a>
 
@@ -4660,7 +5171,7 @@ Amateur lighting, shaky handheld camera, low resolution, dull muted colors, natu
 **Source:** [@iamrealsnow](https://x.com/iamrealsnow/status/2082692346651767244) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 113. Luxury checkered sports-coupe night-to-dawn commercial
+### 123. Luxury checkered sports-coupe night-to-dawn commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboquj8001c04kz46xravko"><img src="https://pbs.twimg.com/amplify_video_thumb/2082854597698207744/img/JucBtXsYhQijvL7f.jpg" alt="Luxury checkered sports-coupe night-to-dawn commercial" width="700" /></a>
 
@@ -4701,7 +5212,7 @@ coherent character and vehicle identity across every cut 📷Image1 , cinematic 
 **Source:** [@shirawiggles](https://x.com/shirawiggles/status/2082857595824451623) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 114. Elegant Minimalist Fashion Showcase
+### 124. Elegant Minimalist Fashion Showcase
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gep3000k0akmi39u68f3"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082745515326738432/pu/img/uz7nIzKtvxckfWIt.jpg" alt="Elegant Minimalist Fashion Showcase" width="700" /></a>
 
@@ -4731,7 +5242,7 @@ Create a polished 15-second luxury e-commerce fashion video.
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082745557085241351) · 15s · 9:16 · Product & Ads
 
 ---
-### 115. The Futuristic Ogee One E-Bike `reconstructed`
+### 125. The Futuristic Ogee One E-Bike `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwws000j04l1tibka61l"><img src="https://pbs.twimg.com/amplify_video_thumb/2082896876802609152/img/eCvfCkOa1nQ-NsIu.jpg" alt="The Futuristic Ogee One E-Bike" width="700" /></a>
 
@@ -4770,7 +5281,7 @@ Human riders, outdoor settings, traditional metal bike chains, straight frame ge
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082897903501148322) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 116. Luxury Emerald Necklace Storyboard
+### 126. Luxury Emerald Necklace Storyboard
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor12o001l04kzx3x3dd06"><img src="https://pbs.twimg.com/amplify_video_thumb/2082667162238439424/img/QgRHvmJ3RLfeocrW.jpg" alt="Luxury Emerald Necklace Storyboard" width="700" /></a>
 
@@ -4815,7 +5326,7 @@ Inspired by world-class luxury jewelry campaigns, premium fashion editorial, sof
 **Source:** [@itxabdullaa](https://x.com/itxabdullaa/status/2082667261718872509) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 117. Steal The Shine Lip Oil `reconstructed`
+### 127. Steal The Shine Lip Oil `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gdk3000i0akm36p3ywf3"><img src="https://pbs.twimg.com/amplify_video_thumb/2083026240370532352/img/va6iwEuk0e6iFJh2.jpg" alt="Steal The Shine Lip Oil" width="700" /></a>
 
@@ -4854,7 +5365,7 @@ Matte finishes, cluttered backgrounds, unkempt hair, muted colors, flat lighting
 **Source:** [@frametheory058](https://x.com/frametheory058/status/2083026293529125308) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
-### 118. SparkRush Ultra Fizz beach soft-drink commercial
+### 128. SparkRush Ultra Fizz beach soft-drink commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqqef001704kzvlwqvyzn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027608263102464/img/Uf_r7K2AuTU-GQ3y.jpg" alt="SparkRush Ultra Fizz beach soft-drink commercial" width="700" /></a>
 
@@ -4943,7 +5454,7 @@ CUT8 0:14-0:15
 **Source:** [@mi7_crypto](https://x.com/mi7_crypto/status/2083042578883383681) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 119. Fresh Picks Food Commercial `reconstructed`
+### 129. Fresh Picks Food Commercial `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20dfb00000bkyx75st2uw"><img src="https://pbs.twimg.com/amplify_video_thumb/2083194069178875904/img/NIixRt3u30ZFH2Xo.jpg" alt="Fresh Picks Food Commercial" width="700" /></a>
 
@@ -4982,7 +5493,7 @@ Messy plating, soft lighting, muted colors, camera panning, handheld movement, c
 **Source:** [@thisismariaa25](https://x.com/thisismariaa25/status/2083194269867663690) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
-### 120. Pink Grace in Golden Hour `reconstructed`
+### 130. Pink Grace in Golden Hour `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m5kl000804joprztsu80"><img src="https://pbs.twimg.com/amplify_video_thumb/2083207009852411905/img/6riNYByo0h0kqq3s.jpg" alt="Pink Grace in Golden Hour" width="700" /></a>
 
@@ -5021,7 +5532,7 @@ Cluttered backgrounds, harsh fluorescent lighting, fast handheld camera shaking,
 **Source:** [@KaiteeShiks](https://x.com/KaiteeShiks/status/2083207031281127803) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 121. NOIRLIFT Lash Lift Tutorial `reconstructed`
+### 131. NOIRLIFT Lash Lift Tutorial `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9t7000a0akmjcqdcnex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083447666487463936/img/RVsRnL68UlpR5BM1.jpg" alt="NOIRLIFT Lash Lift Tutorial" width="700" /></a>
 
@@ -5060,7 +5571,7 @@ Text morphing, inconsistent nail polish, distorted mirror reflections, unnatural
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083447690885829102) · 15s · 9:16 · Product & Ads · prompt reconstructed by us
 
 ---
-### 122. Strawberry Drink Transformation Commercial
+### 132. Strawberry Drink Transformation Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqo96001304kzzxwy97ex"><img src="https://pbs.twimg.com/amplify_video_thumb/2083189657689309184/img/0QRnAmUguoG3eCns.jpg" alt="Strawberry Drink Transformation Commercial" width="700" /></a>
 
@@ -5078,7 +5589,7 @@ Text morphing, inconsistent nail polish, distorted mirror reflections, unnatural
 **Source:** [@GumVue](https://x.com/GumVue/status/2083189719827878083) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 123. Luxury Mascara Beauty Application `reconstructed`
+### 133. Luxury Mascara Beauty Application `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9a5000104jogxhyetzx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082726198329933825/img/AoFwAnbE0YQ6DBfy.jpg" alt="Luxury Mascara Beauty Application" width="700" /></a>
 
@@ -5117,7 +5628,7 @@ Handheld camera shake, harsh shadows, cluttered backgrounds, unnatural eye track
 **Source:** [@AIwithAliya](https://x.com/AIwithAliya/status/2082727204501283226) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 124. Reflections of Urban Style `reconstructed`
+### 134. Reflections of Urban Style `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6bu000a04jo20pg701j"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082812199731675137/pu/img/XqJeZkBR_XlraiGl.jpg" alt="Reflections of Urban Style" width="700" /></a>
 
@@ -5156,7 +5667,7 @@ Mismatched reflections, distorted sunglasses frames, extra fingers during the ad
 **Source:** [@Itswsm105f](https://x.com/Itswsm105f/status/2082812240588353997) · 15s · 21:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 125. Prada Neon Luxury Perfume `reconstructed`
+### 135. Prada Neon Luxury Perfume `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g87i00060akm81vd0f00"><img src="https://pbs.twimg.com/amplify_video_thumb/2082849469339422720/img/3o4i2kVPntSlhKQ4.jpg" alt="Prada Neon Luxury Perfume" width="700" /></a>
 
@@ -5195,7 +5706,7 @@ Daylight, natural settings, flat lighting, cluttered backgrounds, casual streetw
 **Source:** [@sophiaparkerr_](https://x.com/sophiaparkerr_/status/2082849737510678554) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 126. Luxury perfume commercial
+### 136. Luxury perfume commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlxv001004kzvlht1oyl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083059373665116160/img/c1dXdYscwDPj7IWe.jpg" alt="Luxury perfume commercial" width="700" /></a>
 
@@ -5226,7 +5737,7 @@ Slow-motion hero shot of the luxury perfume bottle elegantly rotating as glowing
 **Source:** [@CaliraVal](https://x.com/CaliraVal/status/2083059583308751079) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 127. Dove Pure Softness Commercial `reconstructed`
+### 137. Dove Pure Softness Commercial `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m579000704joqovggbdr"><img src="https://pbs.twimg.com/amplify_video_thumb/2083606254367215616/img/Zd1jb7r8xhgKNGz1.jpg" alt="Dove Pure Softness Commercial" width="700" /></a>
 
@@ -5265,7 +5776,7 @@ Harsh shadows, cluttered countertops, deformed floating text, unnatural foam tex
 **Source:** [@IsabellaHan_](https://x.com/IsabellaHan_/status/2083606664209424824) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 128. Late-Night Ramen UGC Selfie-Vlog
+### 138. Late-Night Ramen UGC Selfie-Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsakc65j000004jw056b5d7s"><img src="https://pbs.twimg.com/amplify_video_thumb/2083461177083117568/img/vVytFY0M5qIjt1lZ.jpg" alt="Late-Night Ramen UGC Selfie-Vlog" width="700" /></a>
 
@@ -5304,7 +5815,7 @@ cinematic look, luxury commercial, perfect framing, CGI noodles, unrealistic ste
 **Source:** [@Taaruk_](https://x.com/Taaruk_/status/2083461207919612348) · 15s · 21:9 · Product & Ads
 
 ---
-### 129. Luxury Watch Storyboard Campaign
+### 139. Luxury Watch Storyboard Campaign
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqpch001504kznpd3dsgo"><img src="https://pbs.twimg.com/amplify_video_thumb/2083051589032660992/img/iWJaoMFiOxD8Biqv.jpg" alt="Luxury Watch Storyboard Campaign" width="700" /></a>
 
@@ -5351,7 +5862,7 @@ Commercial-grade production quality.
 **Source:** [@I_amShiti](https://x.com/I_amShiti/status/2083051609953903017) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 130. UGC Lip Oil Selfie Ad
+### 140. UGC Lip Oil Selfie Ad
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabndqw000104laqta5uqz5"><img src="https://pbs.twimg.com/amplify_video_thumb/2083075159360196608/img/8qyuXc9A-wgcu6Sr.jpg" alt="UGC Lip Oil Selfie Ad" width="700" /></a>
 
@@ -5377,7 +5888,7 @@ Authentic UGC creator content, realistic facial expressions, natural hand gestur
 **Source:** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2083075282186256521) · 15s · 16:9 · Product & Ads
 
 ---
-### 131. Black-and-Gold Perfume Commercial
+### 141. Black-and-Gold Perfume Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqost001404kzbcpqtnh8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083079175674417152/img/JIvzhVgjb7giBggC.jpg" alt="Black-and-Gold Perfume Commercial" width="700" /></a>
 
@@ -5405,7 +5916,7 @@ Photorealistic, Hollywood luxury TV commercial, ultra-detailed, flawless glass r
 **Source:** [@kingofdairyque](https://x.com/kingofdairyque/status/2083079304632520833) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 132. UGC Style Burger Review Vlog
+### 142. UGC Style Burger Review Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g64l00010akmlk6uo3a8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083436762995826688/img/0yqQAGpWhYgdRrk3.jpg" alt="UGC Style Burger Review Vlog" width="700" /></a>
 
@@ -5443,7 +5954,7 @@ cinematic grading, commercial production, CGI burger, fake cheese, distorted han
 **Source:** [@oggii_0](https://x.com/oggii_0/status/2083436822085165289) · 15s · 21:9 · Product & Ads
 
 ---
-### 133. Macro Beauty Routine Commercial `reconstructed`
+### 143. Macro Beauty Routine Commercial `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2yst000504lajr4yyccl"><img src="https://pbs.twimg.com/amplify_video_thumb/2083027153755713536/img/HazN6Bo7AV158Ic9.jpg" alt="Macro Beauty Routine Commercial" width="700" /></a>
 
@@ -5482,7 +5993,7 @@ Harsh shadows, cluttered background, camera movement, motion blur, skin blemishe
 **Source:** [@iamrealsnow](https://x.com/iamrealsnow/status/2083027203651178519) · 15s · 16:9 · Product & Ads · prompt reconstructed by us
 
 ---
-### 134. Luxury Headphone Product Showcase
+### 144. Luxury Headphone Product Showcase
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gbn4000f0akmo3opiscy"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082783299395538944/pu/img/DXW1Eq1OUCaY8ssH.jpg" alt="Luxury Headphone Product Showcase" width="700" /></a>
 
@@ -5508,7 +6019,7 @@ Create a 15-second luxury cinematic product showcase for premium wireless over-e
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082783319075291312) · 15s · 16:9 · Product & Ads
 
 ---
-### 135. Marble Staircase Lip Gloss Commercial
+### 145. Marble Staircase Lip Gloss Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqvk5001d04kz2i323lya"><img src="https://pbs.twimg.com/amplify_video_thumb/2082845774287978496/img/hyJLSh1icnfaiLTv.jpg" alt="Marble Staircase Lip Gloss Commercial" width="700" /></a>
 
@@ -5530,7 +6041,7 @@ Ultra-realistic beauty cinematography, luxury cosmetic campaign, smooth gimbal m
 **Source:** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2082845923152150697) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 136. Vertical Skincare Serum Commercial
+### 146. Vertical Skincare Serum Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnezs000304lajug6fbs1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083081494977986560/img/vgPZgorPhUF_xMEn.jpg" alt="Vertical Skincare Serum Commercial" width="700" /></a>
 
@@ -5548,7 +6059,7 @@ Cinematic luxury skincare product commercial, vertical 9:16, 15 seconds. A trans
 **Source:** [@noorlewisx](https://x.com/noorlewisx/status/2083081579262591469) · 15s · 9:16 · Product & Ads
 
 ---
-### 137. Quiet Luxury Skincare Campaign
+### 147. Quiet Luxury Skincare Campaign
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g6eb00020akms8yhdqvf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083012032279064576/img/QvG1RJ-3ZOfkL6S9.jpg" alt="Quiet Luxury Skincare Campaign" width="700" /></a>
 
@@ -5572,7 +6083,7 @@ Cold nights fading into warm dawn color science throughout — think a skincare 
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2083013658230317082) · 15s · 16:9 · Product & Ads
 
 ---
-### 138. NOVA X smartphone TVC
+### 148. NOVA X smartphone TVC
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqput001604kzbmxab8ml"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083048789905162240/pu/img/82vr1KACJ7LLMRmV.jpg" alt="NOVA X smartphone TVC" width="700" /></a>
 
@@ -5596,7 +6107,7 @@ Create a 15-second premium cinematic branding TVC for a futuristic smartphone br
 **Source:** [@UrMeer289](https://x.com/UrMeer289/status/2083048872566575568) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 139. Effortless Luxury Fashion Campaign
+### 149. Effortless Luxury Fashion Campaign
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g9jf00090akmx2wxemhz"><img src="https://pbs.twimg.com/amplify_video_thumb/2082804376343826432/img/E-2r1ZZ7d3rVdzWm.jpg" alt="Effortless Luxury Fashion Campaign" width="700" /></a>
 
@@ -5620,7 +6131,7 @@ Warm, glossy, early-2000s fashion-film color science throughout — think The De
 **Source:** [@AIwithJessica](https://x.com/AIwithJessica/status/2082804771220804089) · 15s · 16:9 · Product & Ads
 
 ---
-### 140. Refreshing Summer Juice Commercial
+### 150. Refreshing Summer Juice Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fna00050bkycsboc8da"><img src="https://pbs.twimg.com/amplify_video_thumb/2082533033853304832/img/Bfv_SKxmUN_cV_4i.jpg" alt="Refreshing Summer Juice Commercial" width="700" /></a>
 
@@ -5643,7 +6154,7 @@ Stay Cool. Stay Fresh.
 **Source:** [@navi_Ai2](https://x.com/navi_Ai2/status/2082533116732674155) · 15s · 16:9 · Product & Ads
 
 ---
-### 141. Strawberry seasonal match-cut food commercial
+### 151. Strawberry seasonal match-cut food commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqwv7001f04kzmxw5xflc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082827810046128128/img/v8KnNNINBug8X4AJ.jpg" alt="Strawberry seasonal match-cut food commercial" width="700" /></a>
 
@@ -5661,7 +6172,7 @@ Premium food commercial. Extreme macro shot of a single ripe strawberry falling 
 **Source:** [@HBCoop_](https://x.com/HBCoop_/status/2082827829172117943) · 15s · 21:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 142. White-Cyclorama Luxury Eyewear Campaign
+### 152. White-Cyclorama Luxury Eyewear Campaign
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqxw9001g04kzwxmznzyx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082820088584167424/img/w9No1fv9fd-hgj1C.jpg" alt="White-Cyclorama Luxury Eyewear Campaign" width="700" /></a>
 
@@ -5680,7 +6191,7 @@ Create a premium 9:16 fashion-eyewear commercial. Match the reference video’s 
 **Source:** [@hey_leomartin](https://x.com/hey_leomartin/status/2082820121882665060) · 15s · 9:16 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 143. UGC Skincare Product Promo
+### 153. UGC Skincare Product Promo
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8hn00070akmpjtn4por"><img src="https://pbs.twimg.com/amplify_video_thumb/2083010639748882432/img/l0l1V9NgcetYyhCQ.jpg" alt="UGC Skincare Product Promo" width="700" /></a>
 
@@ -5698,7 +6209,7 @@ UGC-style skincare video featuring a realistic young woman speaking directly to 
 **Source:** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2083011066800242986) · 15s · 16:9 · Product & Ads
 
 ---
-### 144. Mecha Mobile Game Season Ad
+### 154. Mecha Mobile Game Season Ad
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsab2uok000004i9fk7viwff"><img src="https://pbs.twimg.com/amplify_video_thumb/2083128170816192512/img/THKmP_Q75zOBaWYJ.jpg" alt="Mecha Mobile Game Season Ad" width="700" /></a>
 
@@ -5726,7 +6237,7 @@ UI 卡片沿轨迹收拢，机甲完成半周转身后正面定格。背景形�
 **Source:** [@liyue_ai](https://x.com/liyue_ai/status/2083128868668666020) · 15s · 16:9 · Product & Ads
 
 ---
-### 145. Neon Nightmare Burger Commercial
+### 155. Neon Nightmare Burger Commercial
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor2ke001n04kz30xie06s"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549359028076544/img/PMQJROMBjKOmhc0B.jpg" alt="Neon Nightmare Burger Commercial" width="700" /></a>
 
@@ -5744,7 +6255,7 @@ Cinematic 15-second commercial shot, fast-paced editing, dark humor, creepy come
 **Source:** [@xavier_mitjana](https://x.com/xavier_mitjana/status/2082549709240160587) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 146. Desert Runway Fashion Ad
+### 156. Desert Runway Fashion Ad
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabnd87000004la0a6o29z8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082897532448116736/img/qzCoyRxBb_3-ROlb.jpg" alt="Desert Runway Fashion Ad" width="700" /></a>
 
@@ -5762,7 +6273,7 @@ Cinematic 15-second commercial shot, fast-paced editing, dark humor, creepy come
 **Source:** [@noorwithwifi](https://x.com/noorwithwifi/status/2082897758084907132) · 15s · 16:9 · Product & Ads
 
 ---
-### 147. The Thief's Awkward Product Excuse
+### 157. The Thief's Awkward Product Excuse
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor1os001m04kzpxyog2uv"><img src="https://pbs.twimg.com/amplify_video_thumb/2082644975087673344/img/VYxlEJjsozQUtXeM.jpg" alt="The Thief's Awkward Product Excuse" width="700" /></a>
 
@@ -5780,7 +6291,7 @@ Cinematic 15-second commercial shot, fast-paced editing, dark humor, creepy come
 **Source:** [@ponzponz15](https://x.com/ponzponz15/status/2082646007444300101) · 15s · 3:4 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 148. High-Speed Sports Product Landing Page
+### 158. High-Speed Sports Product Landing Page
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqzsr001j04kznjprp6vm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776318475665408/img/X_FKBjcy7t8wAHo1.jpg" alt="High-Speed Sports Product Landing Page" width="700" /></a>
 
@@ -5798,7 +6309,7 @@ Create a dynamic product-landing-page UI/UX demo inspired by Nike's digital lang
 **Source:** [@Voxyz_ai](https://x.com/Voxyz_ai/status/2082777543824789559) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 149. Cyber-grunge fashion film with VHS glitch
+### 159. Cyber-grunge fashion film with VHS glitch
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqs0b001904kz5cjkdg6r"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083021093393072128/pu/img/Xzgglq3gkGzUO3gf.jpg" alt="Cyber-grunge fashion film with VHS glitch" width="700" /></a>
 
@@ -5820,7 +6331,7 @@ VHS glitches, CCTV dropouts, 90s grain, scanlines, chromatic aberration, flash-t
 **Source:** [@fal](https://x.com/fal/status/2083021146341978345) · 15s · 16:9 · Product & Ads · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 150. Fintech Motion Graphics — Card to Coins
+### 160. Fintech Motion Graphics — Card to Coins
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100147377671655632"><img src="https://pbs.twimg.com/amplify_video_thumb/2100146691110264832/img/GXaXY1YaU92wOjK2.jpg" alt="Fintech Motion Graphics — Card to Coins" width="700" /></a>
 
@@ -5862,7 +6373,7 @@ Premium financial identity, tactile paper simulation, kinetic typography, metall
 **Source:** [@egeberkina](https://x.com/egeberkina/status/2100147377671655632) · 14s · 16:9 · Product & Ads
 
 ---
-### 151. Luxury Perfume Commercial — Seven-Scene Romantic Evening
+### 161. Luxury Perfume Commercial — Seven-Scene Romantic Evening
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2105895582275657852"><img src="https://pbs.twimg.com/amplify_video_thumb/2105894791510990848/img/tBo1yGd68xf1IX1-.jpg" alt="Luxury Perfume Commercial — Seven-Scene Romantic Evening" width="700" /></a>
 
@@ -5898,7 +6409,7 @@ Maintain consistent character identities, realistic movements, seamless transiti
 **Source:** [@CaliraVal](https://x.com/CaliraVal/status/2105895582275657852) · 15s · 4:3 · Product & Ads
 
 ---
-### 152. Sprite Golf Hero — Refresh. Reload. Play.
+### 162. Sprite Golf Hero — Refresh. Reload. Play.
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106337250346664007"><img src="https://pbs.twimg.com/amplify_video_thumb/2106337036135247873/img/zd4luvFG9bGjHJkW.jpg" alt="Sprite Golf Hero — Refresh. Reload. Play." width="700" /></a>
 
@@ -5935,7 +6446,7 @@ Fast cuts, energetic commercial pacing, whip transitions, speed ramps, crisp sum
 
 ---
 
-### 153. Rose Glow Fashion Film — 13 Cuts + Kinetic Type
+### 163. Rose Glow Fashion Film — 13 Cuts + Kinetic Type
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106227539018764520"><img src="https://pbs.twimg.com/amplify_video_thumb/2106227278816669696/img/IXeF44bZJwLW1Q1Z.jpg" alt="Rose Glow Fashion Film — 13 Cuts + Kinetic Type" width="700" /></a>
 
@@ -5958,9 +6469,56 @@ CUTS: 1 close-up side gaze→camera, “ROSE”. 2 LOOK01, touch face, push-in, 
 **Source:** [@ImaStudio_ai](https://x.com/ImaStudio_ai/status/2106227539018764520) · 15s · 16:9 · Product & Ads
 
 ---
+### 164. One-Line Prompt: Syrup Cools into a Frost Pattern (Local Open Weights)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106751587121062213"><img src="https://upload.maynor1024.live/file/1791168957623_h3-2106751587121062213.jpg" alt="One-Line Prompt: Syrup Cools into a Frost Pattern (Local Open Weights)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Minimax H3, open weights, generated locally. Sunday breakfast, cabin rules. Prompt: "it cools into a lacy amber pattern like frost on a window" Durati…</summary>
+
+~~~~text
+Minimax H3, open weights, generated locally. Sunday breakfast, cabin rules.
+
+Prompt: "it cools into a lacy amber pattern like frost on a window"
+
+Duration: 15s. Camera: locked, slightly above. Rendered locally in ComfyUI, then Topaz to 4K.
+
+The pitcher travels one way across the tray. The lace line grows in the same direction, so the model has a path to draw.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/GlennHasABeard/status/2106751587121062213)
+
+**Source:** [@GlennHasABeard](https://x.com/GlennHasABeard/status/2106751587121062213) · 15s · 16:9 · Product & Ads
+
+---
+### 165. Harajuku Maid Café Hiring Ad (Japanese, In-Frame Text)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106874519415894294"><img src="https://upload.maynor1024.live/file/1791168967113_h3-2106874519415894294.jpg" alt="Harajuku Maid Café Hiring Ad (Japanese, In-Frame Text)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — 【15秒｜9:16｜実写系メイドカフェ求人CM｜原宿KAWAII POP｜セリフ＋ナレーション＋画面内テキスト表示あり｜BGMあり｜SEあり】 【全体仕様】 テーマ：「かわいいを、仕事に。」 映像スタイル：原宿KAWAIIカルチャー×メイドカフェ×ファッションCM。明るくポップでテンポが良く、求人広…</summary>
+
+~~~~text
+【15秒｜9:16｜実写系メイドカフェ求人CM｜原宿KAWAII POP｜セリフ＋ナレーション＋画面内テキスト表示あり｜BGMあり｜SEあり】 
+【全体仕様】 テーマ：「かわいいを、仕事に。」 映像スタイル：原宿KAWAIIカルチャー×メイドカフェ×ファッションCM。明るくポップでテンポが良く、求人広告として一瞬で内容が伝わる構成。 キャラクター：添付画像の5人を基準に、顔・髪型・髪色・衣装・アクセサリーを固定。黒×ピンクのゴシックメイドをメインキャラクターとして扱う。 背景：全編ピンク一色にしない。ピンク、ミント、ラベンダー、クリーム、ベビーブルー、白をカットごとに切り替える。背景や店内セットには、白い手書き文字、白ネオン文字、黒文字、ピンク文字、店内サイン、装飾ボード、ラベル、ハートネオンをしっかり表示する。 重要条件：今回はテロップ後入れではなく、映像生成の段階で文字をすべて表示する。背景文字も消さない。背景にある白文字、ネオン文字、装飾文字、求人見出し、ラベル類をはっきり読めるように表示する。白文字は背景に埋もれないよう、濃いピンク、黒、ラベンダー、ミント、クリームの面の上に配置し、縁取り、影、ネオン発光などで視認性を確保する。 画面内テキスト： 「かわいいを、仕事に。」「MAID CAFE RECRUIT」「NEW CAST」「JOIN US!」「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」「メイドさん募集中」「CAST WANTED」「ご応募お待ちしています♡」を各CUTに自然に表示する。英字、日本語ともに読みやすく、文字化けなし。 BGM：原宿系KAWAII POP。明るいエレクトロポップ、跳ねるシンセ、チップチューン、ハンドクラップ、キラキラベル。140BPM前後。 SE：ドアベル、POP、キラッ、カップ音、シャッター音。 音声：20代女性の明るく親しみやすい声。セリフ中はBGMを少し下げる。 
+【CUT1｜0:00-0:03】 Visuals：黒×ピンクのメイドが、黒×ネオンピンクのハートライト背景から振り向き、カメラを見る。指を口元に添えて小さく微笑む。背景に白ネオン文字と装飾文字を表示。 Camera：50mm F1.8、胸上アップ、軽いプッシュイン。 Motion：振り向く→目線→微笑む。 Lighting：白いソフトキー＋ピンクのリムライト。 VFX：小さなハートが一度だけPOP。 On-screen Text：大きく「かわいいを、仕事に。」、下に「MAID CAFE RECRUIT」、周辺に小さく「NEW CAST」。白文字とピンクネオン文字を併用。 SFX：ドアベル「チリン」→キラッ。 Dialogue：「ねえ、“かわいい”を仕事にしてみない？」 Emotion：ワクワク、憧れ。 Transition：ハート形ワイプ。 
+【CUT2｜0:03-0:07】 Visuals：ピンク衣装のメイドがストロベリードリンクを作る→ミント衣装のメイドが紅茶を運ぶ→カラフル衣装のメイドがカメラへ手を差し出す、短い3連モンタージュ。背景に店内サインや白い装飾文字を表示。 Camera：35mm〜50mm、テンポよく切り替える。 Motion：ドリンクを置く→カップを運ぶ→手を差し出す。 Lighting：クリーム、ミント、ベビーブルーと背景色を変化。 VFX：各切替で小さな星・ハートPOP。 On-screen Text：縦またはラベル風に「未経験OK」「週1日〜OK」「衣装貸与」「お友達と応募OK」をそれぞれ見やすく表示。背景ボードやネオンに「JOIN US!」も入れる。 SFX：コトッ→キラッ→POP。 Narration：「未経験でも大丈夫。仲間と一緒に、楽しくごほうし。」 Emotion：安心、楽しさ。 Transition：ビート同期カット。 
+【CUT3｜0:07-0:11】 Visuals：黒×ピンクのメイドとピンク衣装のメイドが、ケーキとドリンクを持ってラベンダー×クリームの店内を歩く。途中でカメラを見て笑顔。背景の壁面に白文字やメニュー風装飾を表示。 Camera：35mm F2.0、後退しながら2人を追う。 Motion：歩く→目線→軽く手を振る。 Lighting：柔らかい暖色照明。 On-screen Text：大きく「メイドさん募集中」、サブで「CAST WANTED」。背景の白い手書き文字として「JOIN US!」も見えるように表示。 SFX：足音、食器音、軽いキラッ。 Dialogue（黒×ピンク）：「一緒なら、もっと楽しいよ♡」 Narration：「あなたの“好き”を、ここで。」 Emotion：親近感、期待。 Transition：シャッター音で切替。
+ 【CUT4｜0:11-0:15】 Visuals：5人全員が明るいメイドカフェ中央に集合。背景は白・クリーム基調に、ピンク、ミント、ラベンダーの差し色。5人が笑顔で一歩前へ出て、カメラへ手を差し出す。背景には大きなネオン文字とリボン風見出しを表示。 Camera：28mm F2.8、全員が入るワイド→最後だけ軽くプッシュイン。 Motion：集合→一歩前へ→手を差し出す。 Lighting：明るいヒーローライティング。 VFX：背後にハート型ライトがふわっと点灯。 On-screen Text：上部または中央に「MAID CAFE RECRUIT」または「メイドさん募集中」、下部のリボンバナーに「ご応募お待ちしています♡」。サブで「JOIN US!」を小さく配置。 SFX：キラッ→ベル。 Dialogue（5人）：「一緒に働こっ♡」 Narration：「メイドさん、募集中。」 BGM：最後のビートで気持ちよく締める。 Emotion：歓迎、楽しさ、応募したくなる余韻。 Transition：白フェードアウト。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/su_nagomi/status/2106874519415894294)
+
+**Source:** [@su_nagomi](https://x.com/su_nagomi/status/2106874519415894294) · 15s · 16:9 · Product & Ads
+
+---
 ## Character & Performance
 
-### 154. Cyberpunk Ice-Blue Character Awakening
+### 166. Cyberpunk Ice-Blue Character Awakening
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqaem000j04kz9ysbqup1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082829859945095168/img/mZ8MZFbcc58C1feK.jpg" alt="Cyberpunk Ice-Blue Character Awakening" width="700" /></a>
 
@@ -5978,7 +6536,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 **Source:** [@ainextastro](https://x.com/ainextastro/status/2082830892209221921) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 155. Sitcom Game Show Choice
+### 167. Sitcom Game Show Choice
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47v5o000304l1j6q1veqt"><img src="https://pbs.twimg.com/amplify_video_thumb/2083130633048694784/img/6bfTlMdE8iKutjpq.jpg" alt="Sitcom Game Show Choice" width="700" /></a>
 
@@ -6012,7 +6570,7 @@ Use the uploaded image as the exact source image and first frame. Preserve the o
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083130683183255894) · 15s · 16:9 · Character & Performance
 
 ---
-### 156. Pizza night UGC Domino’s vlog
+### 168. Pizza night UGC Domino’s vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborjm9002d04kz9tn4uiw9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799495843295232/img/r2dr2vS7Z7fKbmY1.jpg" alt="Pizza night UGC Domino’s vlog" width="700" /></a>
 
@@ -6073,7 +6631,7 @@ cinematic grade, overly smooth camera moves, studio lighting, professional voice
 **Source:** [@ShamiWeb3](https://x.com/ShamiWeb3/status/2082799917140197798) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 157. Found Footage Ghoul Attack `reconstructed`
+### 169. Found Footage Ghoul Attack `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cenv000504l1qr735c3x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082493201869348864/img/1ON-XOrowJjDPQ26.jpg" alt="Found Footage Ghoul Attack" width="700" /></a>
 
@@ -6112,7 +6670,7 @@ Smooth camera stabilization, professional three-point lighting, cheerful atmosph
 **Source:** [@HauntedAI](https://x.com/HauntedAI/status/2082494343063928966) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 158. Elegant White Swimwear Studio Editorial `reconstructed`
+### 170. Elegant White Swimwear Studio Editorial `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g78900050akmkwng1wyb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083372215303831552/img/w6stuCBDrBGbR2aS.jpg" alt="Elegant White Swimwear Studio Editorial" width="700" /></a>
 
@@ -6151,7 +6709,7 @@ Cluttered backgrounds, colored wardrobe, messy hair, low-resolution artifacts, c
 **Source:** [@langohi](https://x.com/langohi/status/2083372251127369947) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
-### 159. Classroom Acoustic Guitar Session `reconstructed`
+### 171. Classroom Acoustic Guitar Session `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4962z000704l1xzxnx1zp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083332470938963968/img/JBUZQBCQIzbeuptu.jpg" alt="Classroom Acoustic Guitar Session" width="700" /></a>
 
@@ -6190,7 +6748,7 @@ Camera movement, quick cuts, heavy shadows, distorted fingers, electric guitars.
 **Source:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083333106808098959) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
-### 160. Anime Cat Girl's Morning Dash `reconstructed`
+### 172. Anime Cat Girl's Morning Dash `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cgi7000904l1gp4vwdj9"><img src="https://pbs.twimg.com/amplify_video_thumb/2082677482504015873/img/DZ3GF350WWqNbZFF.jpg" alt="Anime Cat Girl's Morning Dash" width="700" /></a>
 
@@ -6229,7 +6787,7 @@ AVOID
 **Source:** [@Ayu_AI_0912](https://x.com/Ayu_AI_0912/status/2082678536649965834) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 161. Janitor vs Mechanical Mouse `reconstructed`
+### 173. Janitor vs Mechanical Mouse `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zw42000h04l17zgpmgc1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082720255126777856/img/EZf6zNnIkKAS2hQ_.jpg" alt="Janitor vs Mechanical Mouse" width="700" /></a>
 
@@ -6268,7 +6826,7 @@ Dark shadows, slow motion, shallow depth of field, realistic violence, unlit bac
 **Source:** [@kingofdairyque](https://x.com/kingofdairyque/status/2082720442549182727) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 162. Neon Warehouse K-Pop Performance `reconstructed`
+### 174. Neon Warehouse K-Pop Performance `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2uui000004lati12avcx"><img src="https://pbs.twimg.com/amplify_video_thumb/2082823695522017280/img/fA4P2jZhVX1oXKBm.jpg" alt="Neon Warehouse K-Pop Performance" width="700" /></a>
 
@@ -6307,7 +6865,7 @@ Natural sunlight, acoustic instruments, slow pacing, empty environments, vintage
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2082823980709560554) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 163. Cheers and Laughter at Izakaya `reconstructed`
+### 175. Cheers and Laughter at Izakaya `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cdr5000304l1vqe3zbs3"><img src="https://pbs.twimg.com/amplify_video_thumb/2082806540705345536/img/YL1GnG2Xz22kU8kz.jpg" alt="Cheers and Laughter at Izakaya" width="700" /></a>
 
@@ -6346,7 +6904,7 @@ Cuts, camera movement, zooming, serious expressions, daylight, empty glasses.
 **Source:** [@foxyy4i](https://x.com/foxyy4i/status/2082807563842920724) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 164. Tropical Water Park Challenge `reconstructed`
+### 176. Tropical Water Park Challenge `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63h0j000004jx893xozou"><img src="https://pbs.twimg.com/amplify_video_thumb/2083364295791013888/img/vJKHlcTzBMOjGyB7.jpg" alt="Tropical Water Park Challenge" width="700" /></a>
 
@@ -6385,7 +6943,7 @@ Overcast skies, slow motion, motion blur, distorted text, missing water reflecti
 **Source:** [@seisei_ai_1st](https://x.com/seisei_ai_1st/status/2083365015034483139) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 165. Charming Portrait at Serenity Cafe `reconstructed`
+### 177. Charming Portrait at Serenity Cafe `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63qgp000k04jx9oks6fnf"><img src="https://pbs.twimg.com/amplify_video_thumb/2083563998734397440/img/WomcENlmZMWlbq2W.jpg" alt="Charming Portrait at Serenity Cafe" width="700" /></a>
 
@@ -6424,7 +6982,7 @@ Harsh directional shadows, camera panning, extreme wide shots, distorted typogra
 **Source:** [@poruru_ai](https://x.com/poruru_ai/status/2083564736327913541) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 166. Vibrant Tennis Stadium Selfie `reconstructed`
+### 178. Vibrant Tennis Stadium Selfie `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g7uj000004jokl1u62p8"><img src="https://pbs.twimg.com/amplify_video_thumb/2083223801370697728/img/z6-x24ZUbY2ZqYPz.jpg" alt="Vibrant Tennis Stadium Selfie" width="700" /></a>
 
@@ -6463,7 +7021,7 @@ Camera cuts, zooming, unnatural body proportions, distorted text, artificial stu
 **Source:** [@KeorUnreal](https://x.com/KeorUnreal/status/2083224045504315549) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
-### 167. Silent Echoes of Burgundy `reconstructed`
+### 179. Silent Echoes of Burgundy `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63s47000n04jx58t92k87"><img src="https://pbs.twimg.com/amplify_video_thumb/2083052507987881984/img/9JJTybOc7JJNmIIp.jpg" alt="Silent Echoes of Burgundy" width="700" /></a>
 
@@ -6502,7 +7060,7 @@ Other characters, dialogue, fast-paced action, on-screen text, harsh artificial 
 **Source:** [@nbykos](https://x.com/nbykos/status/2083054699088163201) · 15s · 16:9 · Character & Performance · prompt reconstructed by us
 
 ---
-### 168. Street Style Dance in Shibuya `reconstructed`
+### 180. Street Style Dance in Shibuya `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5chcm000b04l1trgtwr3u"><img src="https://pbs.twimg.com/amplify_video_thumb/2082813119949340672/img/NnyJo_SERECOGvY4.jpg" alt="Street Style Dance in Shibuya" width="700" /></a>
 
@@ -6541,7 +7099,7 @@ Morphing limbs, unstable facial features, camera cuts, overexposed lighting, shi
 **Source:** [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/2082814238549229756) · 15s · 9:16 · Character & Performance · prompt reconstructed by us
 
 ---
-### 169. Joyful Fashion Walk in Alley
+### 181. Joyful Fashion Walk in Alley
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb589kc000004l16hf51f50"><img src="https://pbs.twimg.com/amplify_video_thumb/2083583229815066624/img/RvMQMqCNGSEpPqbg.jpg" alt="Joyful Fashion Walk in Alley" width="700" /></a>
 
@@ -6559,7 +7117,7 @@ Ultra realistic cinematic video, shot on ARRI Alexa 35 with spherical lens, natu
 **Source:** [@Kiber_Alla](https://x.com/Kiber_Alla/status/2083583963512062019) · 15s · 16:9 · Character & Performance
 
 ---
-### 170. Korean Idol VHS Beauty Vlog
+### 182. Korean Idol VHS Beauty Vlog
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq1pn000804kzw04u20pj"><img src="https://pbs.twimg.com/amplify_video_thumb/2083043141054054400/img/4Flo2VbuRU6HadtD.jpg" alt="Korean Idol VHS Beauty Vlog" width="700" /></a>
 
@@ -6577,7 +7135,7 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 **Source:** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2083043197937209852) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 171. CEO and Cleaning Lady Drama
+### 183. CEO and Cleaning Lady Drama
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xher000e04l1s6p4upas"><img src="https://pbs.twimg.com/amplify_video_thumb/2082650435702448129/img/tc349pyDIc760PJh.jpg" alt="CEO and Cleaning Lady Drama" width="700" /></a>
 
@@ -6616,7 +7174,7 @@ DV 16mm camcorder vlog with soft VHS tape quality, handheld POV by CHASE and mir
 **Source:** [@drjoetw](https://x.com/drjoetw/status/2082650526362333627) · 15s · 9:16 · Character & Performance
 
 ---
-### 172. Dark Rap Fashion Zine Music Video
+### 184. Dark Rap Fashion Zine Music Video
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqyei001h04kzp66zv69n"><img src="https://pbs.twimg.com/amplify_video_thumb/2082817352001835008/img/Csp-Dx37Ynv9DbNe.jpg" alt="Dark Rap Fashion Zine Music Video" width="700" /></a>
 
@@ -6634,7 +7192,7 @@ Style: dark-rap -rap music video with photoreal high-fashion polish and the text
 **Source:** [@MO_IAI](https://x.com/MO_IAI/status/2082818054598066367) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 173. Beat-Synced K-Pop Multimodal MV
+### 185. Beat-Synced K-Pop Multimodal MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborcs3002204kz0d6tlyn8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082932476859858944/img/I1Ekax_d3V6ltDCL.jpg" alt="Beat-Synced K-Pop Multimodal MV" width="700" /></a>
 
@@ -6652,7 +7210,7 @@ Make an MV from Audio1 . Show these Kpop members from Image1 singing and dancing
 **Source:** [@aisearchio](https://x.com/aisearchio/status/2082932693613043716) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 174. Hip-Hop Character Lip-Sync Performance
+### 186. Hip-Hop Character Lip-Sync Performance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborbow002004kz6heeuxgb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064633179467776/img/_q0bXQhlvvcFUIBq.jpg" alt="Hip-Hop Character Lip-Sync Performance" width="700" /></a>
 
@@ -6670,7 +7228,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 **Source:** [@bennash](https://x.com/bennash/status/2083065653104107776) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 175. Grimy hip-hop music video mood
+### 187. Grimy hip-hop music video mood
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborc8j002104kzpisyzrwz"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032212849692672/img/f7-vkPSjS3qIey-c.jpg" alt="Grimy hip-hop music video mood" width="700" /></a>
 
@@ -6688,7 +7246,7 @@ hip hop music video, make the character from @Video1 dance to the beat from musi
 **Source:** [@tebasaki3D](https://x.com/tebasaki3D/status/2083032443226030578) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 176. Would you like to dance
+### 188. Would you like to dance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborfop002704kzvgwezww4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082612219984896000/img/OVyGlOA7F8wNsxd1.jpg" alt="Would you like to dance" width="700" /></a>
 
@@ -6706,9 +7264,71 @@ Would you like to dance?
 **Source:** [@OrctonAI](https://x.com/OrctonAI/status/2082612279866986858) · 15s · 16:9 · Character & Performance · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
+### 189. Elf Girl Transforms into Biomechanical Armor (Local ComfyUI)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106575030641463391"><img src="https://upload.maynor1024.live/file/1791168946886_h3-2106575030641463391.jpg" alt="Elf Girl Transforms into Biomechanical Armor (Local ComfyUI)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — prompt: r34l1sm subject_definitions: &lt;Subject 1&gt; is the same character throughout the transformation. &lt;Picture 1&gt; defines her blonde hair, pointed elf…</summary>
+
+~~~~text
+prompt:
+r34l1sm
+subject_definitions:
+<Subject 1> is the same character throughout the transformation. <Picture 1> defines her blonde hair, pointed elf ears, black eyepatch covering her anatomical left eye, dark navy jacket with black sleeves, black gloves, fitted black armored trousers, and combat boots. Adapt her face toward a natural East Asian appearance: a gentle oval contour, softly defined cheekbones, almond-shaped eyes with subtle eyelid creases, a moderately low nasal bridge, and a softly rounded nose tip. Preserve individual facial proportions and natural skin texture.
+
+<Picture 2> defines her completed form from head to feet: ivory-gray biomechanical armor, a broad angular skull-like helmet, rib-shaped chest plates, dark organic structures between perforated plates, articulated clawed hands, armored thighs and shins, segmented ankles, and elongated armored feet with distinct clawed toes. Use both images for appearance only; exclude their white backgrounds, multiple views, and portrait panels.
+
+summary:
+[reference generation] A 15-second Hollywood science-fiction transformation in one uninterrupted shot. <Subject 1> stands at the outermost edge of a skyscraper beneath heavy daytime storm clouds, facing outward toward the street throughout. The camera moves from an elevated rear view into a facial close-up, then tracks downward following the transformation from head to feet. A blue magic circle on her eyepatch continuously releases black smoke and luminous blue particles until her entire body transforms into the form from <Picture 2>. She finishes in a natural deep crouch, both hands grounded between her legs, looking straight ahead over the street.
+
+retention_analysis:
+<Subject 1> (throughout [Shot 1]): partially_preserved — preserve the initial hairstyle, ears, eyepatch, clothing, and proportions from <Picture 1>, adapting her face toward the East Asian appearance defined above. Maintain that face until the helmet encloses it. Transform every region, including both boots, into the complete design from <Picture 2>. Preserve rooftop geography, supported foot contact, and the same outward facing direction throughout.
+
+detailed_description:
+Hollywood feature-film science fiction with photorealistic materials, precise camera choreography, deep directional shadows, and layered volumetric smoke. Daytime beneath dense gray storm clouds, with readable buildings and streets. Use explicitly positioned directional daylight and rooftop practical lights. No world light, ambient dome illumination, or uniform environmental fill.
+
+[Shot 1] One uninterrupted 15-second take with a consistent 35mm cinema-lens perspective. Her feet, pelvis, chest, and head remain oriented outward toward the street beyond the rooftop edge throughout. Only the camera changes position; she never rotates to follow it or faces the rooftop interior.
+
+During approximately zero to three seconds, begin above and behind <Subject 1>'s right shoulder, looking steeply down past her boots toward the street. Both feet stand fully supported at the concrete rooftop's outermost edge, toes aligned with its exterior boundary. No railing separates her from the drop.
+
+Smoothly descend and arc around her right side into open air above the street, arriving in a tight frontal three-quarter facial close-up looking back toward her, with the rooftop behind her. Directional daylight through a cloud opening defines her hair; a maintenance fixture provides neutral-white side light, and an aircraft-warning fixture adds a faint red rim. Keep these sources fixed. Intense blue light builds beneath her opaque eyepatch, illuminating adjacent skin. Her uncovered eye remains unchanged.
+
+During approximately three to five seconds, <Subject 1> (S1), with a calm, low female voice, says, <d>[Japanese] もう、眠らなくていい。</d> Speak softly and deliberately, briefly pausing after “もう,” with synchronized lips, relaxed shoulders, and a steady forward gaze.
+
+As the line ends, a blue magic circle inscribes concentric rings, geometric lines, and tiny arcane glyphs directly onto the eyepatch's curved surface, contained within its boundary. Dense black smoke interwoven with luminous blue particles continuously pours from beneath its edges. Particles illuminate curling turbulence from within before drifting outward.
+
+During approximately five to seven seconds, physically descend and gently tilt downward, following the smoke through her neck, shoulders, and chest. Biomechanical structures emerge and rib-shaped plates interlock. Gaps keep the changing surfaces visible.
+
+During approximately seven to nine seconds, continue across her abdomen, hands, hips, and thighs. Clothing dissolves, gloves disappear, fingers extend into articulated claws, and ivory-gray armor forms over dark organic structures.
+
+During approximately nine to eleven seconds, track down both knees, shins, ankles, and feet. Clearly show both boots disintegrating completely: shafts, laces, toe caps, heels, and rubber soles disappear. Segmented ankle armor connects into elongated clawed feet matching <Picture 2>. Both feet remain supported on the same concrete area, with toes still pointing outward toward the street.
+
+The eyepatch continuously emits throughout this downward movement, including when above the frame. The helmet forms around her head while leaving the emitting eyepatch exposed until every other region is complete.
+
+During approximately eleven to twelve seconds, smoothly retreat and tilt upward into a full-body composition. Reveal the final helmet plates enclosing the eyepatch, completing the transformation and stopping emission.
+
+During approximately twelve to fifteen seconds, she naturally lowers into a deep crouch without changing her facing direction. Her hips shift slightly backward for balance, knees bend and open in line with her feet, and her torso inclines forward. Both arms relax between her thighs. Clawed fingertips contact the concrete first, followed by palms taking part of her weight between her feet, fully inside the rooftop boundary. Elbows remain softly bent.
+
+Gently decelerate into a stable four-point stance with a subtle final balance adjustment. Keep both grounded hands and transformed feet visible. Her chest remains directed toward the street; her helmet stays raised and her gaze fixed straight ahead toward the distant city at eye level. Residual smoke disperses only after transformation is complete, and blue particles fade. No cuts, flashes, camera jumps, or full-frame smoke concealment.
+
+overall_soundscape:
+Rooftop wind, distant traffic, and low thunder persist. Wind and electrical hum soften beneath the Japanese dialogue. The magic circle sustains a fine resonance throughout emission, accompanied by smoke hissing, particle crackling, armor scraping, and locking clicks. Subtle joint sounds and fingertip-to-palm contact accompany the natural descent into the crouch.
+
+non_diegetic_music:
+A low sustained synthesizer tone rises during transformation, remaining quiet beneath dialogue. One deep percussion impact accompanies the completed helmet, followed by a fading low resonance beneath the final grounded stance.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/Tomw852/status/2106575030641463391)
+
+**Source:** [@Tomw852](https://x.com/Tomw852/status/2106575030641463391) · 15s · 16:9 · Character & Performance
+
+---
 ## VFX & Transitions
 
-### 177. Y2K K-Pop Candy Typography Music Video
+### 190. Y2K K-Pop Candy Typography Music Video
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor5eu001q04kz1zhzjtoi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083240391483248640/img/h0WIFWLrpMCb16FL.jpg" alt="Y2K K-Pop Candy Typography Music Video" width="700" /></a>
 
@@ -6744,7 +7364,7 @@ Shot 7 — Group Rap Performance「UNBREAKABLE」 Three members together.
 **Source:** [@LeoCreaIA](https://x.com/LeoCreaIA/status/2083240416166748313) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 178. Mona Lisa Character Selection Screen
+### 191. Mona Lisa Character Selection Screen
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20d0h000004l9pu7c8r0i"><img src="https://pbs.twimg.com/amplify_video_thumb/2083552730233114624/img/zZaVXYLxeHSBXpiF.jpg" alt="Mona Lisa Character Selection Screen" width="700" /></a>
 
@@ -6762,7 +7382,7 @@ Use @Image 1 for the character and the menu interface style. Use @Image 2 for th
 **Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2083555429758464203) · 15s · 16:9 · VFX & Transitions
 
 ---
-### 179. Seamless-loop cinematic warrior blade reconstruction
+### 192. Seamless-loop cinematic warrior blade reconstruction
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq6wq000e04kz9dl0yo7y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082933612463210497/img/kWpEnLDDmzRCZrKR.jpg" alt="Seamless-loop cinematic warrior blade reconstruction" width="700" /></a>
 
@@ -6775,7 +7395,7 @@ Use @Image 1 for the character and the menu interface style. Use @Image 2 for th
 **Source:** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2082934406910513162) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 180. Lilia Astra title sequence
+### 193. Lilia Astra title sequence
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboq5qa000d04kzbto3q1oo"><img src="https://pbs.twimg.com/amplify_video_thumb/2082945330925240322/img/v7Ke-e6Pa0EJnv3G.jpg" alt="Lilia Astra title sequence" width="700" /></a>
 
@@ -6907,7 +7527,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 **Source:** [@haruuraeadss](https://x.com/haruuraeadss/status/2082945363431080299) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 181. Glacia Ice UI Interactive Loop
+### 194. Glacia Ice UI Interactive Loop
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gec6000504jojh8a34bi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083178671440023552/img/VMAqXAYVXbVbBr_s.jpg" alt="Glacia Ice UI Interactive Loop" width="700" /></a>
 
@@ -6996,7 +7616,7 @@ Camera state: position=three-quarter and over-shoulder; height=eye level then lo
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083180088775045626) · 15s · 16:9 · VFX & Transitions
 
 ---
-### 182. Modern warfare FPS gameplay
+### 195. Modern warfare FPS gameplay
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor3s2001o04kzmlzbzaq7"><img src="https://pbs.twimg.com/amplify_video_thumb/2083064240735502337/img/Q-HhsorV1hPAqQRR.jpg" alt="Modern warfare FPS gameplay" width="700" /></a>
 
@@ -7014,7 +7634,7 @@ Camera: First-person perspective at eye level with authentic handheld player mov
 **Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2083064417798025721) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 183. Colorful Paint-Weapon Selection Screen
+### 196. Colorful Paint-Weapon Selection Screen
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor89d001v04kzrzbh8jwr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082877570417033217/img/Z2pmB-iMgeryc30H.jpg" alt="Colorful Paint-Weapon Selection Screen" width="700" /></a>
 
@@ -7050,7 +7670,7 @@ The world loads into a bright, colorful ink-covered city filled with graffiti, p
 **Source:** [@craftian_keskin](https://x.com/craftian_keskin/status/2082893990995619967) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 184. 80s Sci-Fi Robot Transformation
+### 197. 80s Sci-Fi Robot Transformation
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20fws00060bky88rfapdc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082795304978673664/img/ziSEtz-3uEN1E0Kg.jpg" alt="80s Sci-Fi Robot Transformation" width="700" /></a>
 
@@ -7088,7 +7708,7 @@ Visual requirements: authentic 35mm mid-1980s film photography, anamorphic compo
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2082795364793409884) · 15s · 16:9 · VFX & Transitions
 
 ---
-### 185. Neon Magic in the Laundromat `reconstructed`
+### 198. Neon Magic in the Laundromat `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63hk0000104jx89jowvym"><img src="https://pbs.twimg.com/amplify_video_thumb/2082496011889725440/img/VCp2pslUtSOy3MDS.jpg" alt="Neon Magic in the Laundromat" width="700" /></a>
 
@@ -7127,7 +7747,7 @@ Third-person perspective, photorealistic CGI entities, natural daylight, static 
 **Source:** [@RenLeanna](https://x.com/RenLeanna/status/2082496075773202796) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 186. One-Take Outfit Morph on a City Street `reconstructed`
+### 199. One-Take Outfit Morph on a City Street `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2wb2000104la7jiv1p1c"><img src="https://pbs.twimg.com/amplify_video_thumb/2083346630175064064/img/gS_Uw79DU86aXpPc.jpg" alt="One-Take Outfit Morph on a City Street" width="700" /></a>
 
@@ -7166,7 +7786,7 @@ Cuts, camera shake, inconsistent facial identity, warped architecture, changing 
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2083346766154318153) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 187. Neon Street Wardrobe Transformation `reconstructed`
+### 200. Neon Street Wardrobe Transformation `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63oiy000f04jxd05zhj2q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082672128848228352/img/O_Sl2Mdbmyq-r2Q9.jpg" alt="Neon Street Wardrobe Transformation" width="700" /></a>
 
@@ -7205,7 +7825,7 @@ Motion blur, anatomical distortions, inconsistent background architecture, muted
 **Source:** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2082672185437544729) · 15s · 9:16 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 188. Dynamic 3D Typography VFX Montage `reconstructed`
+### 201. Dynamic 3D Typography VFX Montage `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gaby000c0akmnt812y7c"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082911619546324992/pu/img/EWQEBeflj1yinINd.jpg" alt="Dynamic 3D Typography VFX Montage" width="700" /></a>
 
@@ -7244,7 +7864,7 @@ Misspelled text, flat 2D overlays, static framing, low contrast, soft focus.
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082911709296046099) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 189. Hear Beyond Reality `reconstructed`
+### 202. Hear Beyond Reality `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gcfl000304jodew56bkg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083596375414165505/img/LmwpPreHadpBXb6z.jpg" alt="Hear Beyond Reality" width="700" /></a>
 
@@ -7283,7 +7903,7 @@ Visible brand logos, abrupt camera cuts, poorly lit faces, mismatched eyelines, 
 **Source:** [@jasminekhan90_](https://x.com/jasminekhan90_/status/2083596412852601051) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 190. Dark Fashion Energy Trails `reconstructed`
+### 203. Dark Fashion Energy Trails `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5cg46000804l1od2ya1kk"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2082889085627043840/pu/img/P4MTIpmtp9zwlMGU.jpg" alt="Dark Fashion Energy Trails" width="700" /></a>
 
@@ -7322,7 +7942,7 @@ Natural sunlight, smooth cinematic panning, slow pacing, pastel colors, acoustic
 **Source:** [@CharaspowerAI](https://x.com/CharaspowerAI/status/2082889113296916632) · 15s · 1:1 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 191. Y2K Typography Idol Cuts `reconstructed`
+### 204. Y2K Typography Idol Cuts `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsal2x0t000204laffyzlp4t"><img src="https://pbs.twimg.com/amplify_video_thumb/2082591265296879616/img/KUxIacXKgQagDkbV.jpg" alt="Y2K Typography Idol Cuts" width="700" /></a>
 
@@ -7361,7 +7981,7 @@ Camera shake, natural environments, shallow depth of field, slow pacing, 3D anim
 **Source:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI/status/2082592331451232271) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 192. Fantasy Deck-Builder Battle UI
+### 205. Fantasy Deck-Builder Battle UI
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor7kq001u04kz144u9zx2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082909305062273024/img/pdZ3rfdrDzNEZ6md.jpg" alt="Fantasy Deck-Builder Battle UI" width="700" /></a>
 
@@ -7386,7 +8006,7 @@ Negative: no UI drift or warping, no invented card names, no misspellings, no go
 **Source:** [@AllaAisling](https://x.com/AllaAisling/status/2082909383424446745) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 193. Seamless Wardrobe Morph Journey `reconstructed`
+### 206. Seamless Wardrobe Morph Journey `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1m6kh000b04jouxkedxwn"><img src="https://pbs.twimg.com/amplify_video_thumb/2082688053810987008/img/ezbFcwHOAOR8oHZj.jpg" alt="Seamless Wardrobe Morph Journey" width="700" /></a>
 
@@ -7425,7 +8045,7 @@ Camera pans, subject looking away, jagged transition cuts, facial distortion, le
 **Source:** [@AIwithkhan](https://x.com/AIwithkhan/status/2082688149470470241) · 15s · 16:9 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 194. Infinite Journey of Seamless Transformations `reconstructed`
+### 207. Infinite Journey of Seamless Transformations `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gd7s000404jo1n5fqf2x"><img src="https://pbs.twimg.com/amplify_video_thumb/2082776732008869889/img/dv6yYo940i929WgB.jpg" alt="Infinite Journey of Seamless Transformations" width="700" /></a>
 
@@ -7464,7 +8084,7 @@ Camera cuts, facial feature changes, breaking eye contact, jerky movements, inco
 **Source:** [@kathae909](https://x.com/kathae909/status/2082777211094835242) · 15s · 4:3 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 195. Urban Fantasy Armor Transformation `reconstructed`
+### 208. Urban Fantasy Armor Transformation `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63q3o000j04jxx6eycljh"><img src="https://pbs.twimg.com/amplify_video_thumb/2083409160759365632/img/NZBEMLMytSOS8zp1.jpg" alt="Urban Fantasy Armor Transformation" width="700" /></a>
 
@@ -7503,7 +8123,7 @@ Bright saturated daylight, 2D anime styling, static tripod framing, visible gore
 **Source:** [@iX00AI](https://x.com/iX00AI/status/2083410197423485347) · 15s · 9:16 · VFX & Transitions · prompt reconstructed by us
 
 ---
-### 196. Storm-Cliff Golf Physics Challenge
+### 209. Storm-Cliff Golf Physics Challenge
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor8t3001w04kz6i7t4utm"><img src="https://pbs.twimg.com/amplify_video_thumb/2082799369359695872/img/kThOwGl2hm7YGIbu.jpg" alt="Storm-Cliff Golf Physics Challenge" width="700" /></a>
 
@@ -7523,7 +8143,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 **Source:** [@Dheepanratnam](https://x.com/Dheepanratnam/status/2082799981426037151) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 197. Ink-wash shrimp leap into futuristic city
+### 210. Ink-wash shrimp leap into futuristic city
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqf36000q04kzueovfvjd"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" alt="Ink-wash shrimp leap into futuristic city" width="700" /></a>
 
@@ -7541,7 +8161,7 @@ A dramatic sports sequence begins on a lush, windswept coastal cliff during a vi
 **Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082746108493848857) · 15s · 16:9 · VFX & Transitions · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 198. Paint Bursts Out of a Giant Billboard
+### 211. Paint Bursts Out of a Giant Billboard
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2101177915849539729"><img src="https://pbs.twimg.com/amplify_video_thumb/2101177717991542784/img/OeCygLAXPaxVoOQu.jpg" alt="Paint Bursts Out of a Giant Billboard" width="700" /></a>
 
@@ -7617,7 +8237,7 @@ MAIN_BILLBOARDをフェード、暗転、瞬間的な置換で白化・復元し
 **Source:** [@ai_lifehack55](https://x.com/ai_lifehack55/status/2101177915849539729) · 15s · 1:1 · VFX & Transitions
 
 ---
-### 199. Ink-Drop Typography Reveal
+### 212. Ink-Drop Typography Reveal
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099135809316409686"><img src="https://pbs.twimg.com/amplify_video_thumb/2099135766303838208/img/93m7aKHGvpaQZx79.jpg" alt="Ink-Drop Typography Reveal" width="700" /></a>
 
@@ -7643,7 +8263,7 @@ Preserve the exact text "AZED AI" throughout. Exact spelling, capitalization, sp
 **Source:** [@azed_ai](https://x.com/azed_ai/status/2099135809316409686) · 15s · 16:9 · VFX & Transitions
 
 ---
-### 200. Living Collage — Every Grid Cell Moves
+### 213. Living Collage — Every Grid Cell Moves
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2099103139068608933"><img src="https://pbs.twimg.com/amplify_video_thumb/2099103085863854089/img/MLB7U_YinDiag3d2.jpg" alt="Living Collage — Every Grid Cell Moves" width="700" /></a>
 
@@ -7661,7 +8281,7 @@ A cinematic multi-panel grid where every individual frame simultaneously comes a
 **Source:** [@zeng_wt](https://x.com/zeng_wt/status/2099103139068608933) · 15s · 16:9 · VFX & Transitions
 
 ---
-### 201. BURN — Environment-Forged Pyro Title Sequence
+### 214. BURN — Environment-Forged Pyro Title Sequence
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106398901267812627"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2106398870762631168/pu/img/yDTQW3yG8LiDxZzV.jpg" alt="BURN — Environment-Forged Pyro Title Sequence" width="700" /></a>
 
@@ -7681,7 +8301,7 @@ Extreme Hollywood pyro title sequence: begin inside a microscopic droplet of fue
 ---
 ## Camera Motion
 
-### 202. Concrete-Plaza Kickflip Drop
+### 215. Concrete-Plaza Kickflip Drop
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboram6001z04kzkda7f0i4"><img src="https://pbs.twimg.com/amplify_video_thumb/2082683540429586432/img/ygYWxxtzYyXfqa26.jpg" alt="Concrete-Plaza Kickflip Drop" width="700" /></a>
 
@@ -7701,7 +8321,7 @@ SCENE CONTEXT Late afternoon, empty two-level concrete plaza. A young woman skat
 **Source:** [@eijo_AIart](https://x.com/eijo_AIart/status/2082684613475082714) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 203. Mumbai monsoon FPV drone flight
+### 216. Mumbai monsoon FPV drone flight
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqeiq000p04kzqun00ttw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082737859489046528/img/dZcqqC0uYg7jfVgJ.jpg" alt="Mumbai monsoon FPV drone flight" width="700" /></a>
 
@@ -7743,7 +8363,7 @@ IMPORTANT  Do not show the green route line. No text, captions, logos, or waterm
 **Source:** [@CurieuxExplorer](https://x.com/CurieuxExplorer/status/2082747871103942674) · 15s · 3:4 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 204. Dynamic Urban Parkour Flow `reconstructed`
+### 217. Dynamic Urban Parkour Flow `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63ita000404jx0qlnqhwk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082735950707195904/img/b9ybN1upIYdvWb_V.jpg" alt="Dynamic Urban Parkour Flow" width="700" /></a>
 
@@ -7782,7 +8402,7 @@ Slow motion, static tripod shots, nighttime scenes, indoor settings, formal clot
 **Source:** [@HustleXR](https://x.com/HustleXR/status/2082735985864130911) · 15s · 16:9 · Camera Motion · prompt reconstructed by us
 
 ---
-### 205. Nightclub Breakdance Camera Orbit
+### 218. Nightclub Breakdance Camera Orbit
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbordvx002404kzavn0rwf1"><img src="https://pbs.twimg.com/amplify_video_thumb/2082754232755642368/img/XbpYqr2h6oX_rKAv.jpg" alt="Nightclub Breakdance Camera Orbit" width="700" /></a>
 
@@ -7823,7 +8443,7 @@ or children."
 **Source:** [@luisnomad](https://x.com/luisnomad/status/2082754694250717186) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 206. Cinematic Drone Flight Over Barcelona
+### 219. Cinematic Drone Flight Over Barcelona
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb5qbbr000104l1lv5wp3pb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083056439854309376/img/DFzzmaMiGh2jLSVR.jpg" alt="Cinematic Drone Flight Over Barcelona" width="700" /></a>
 
@@ -7843,7 +8463,7 @@ The red drawn line must not appear in the video; it is only a hidden flight-path
 **Source:** [@Diplomeme](https://x.com/Diplomeme/status/2083056488122380671) · 15s · 1:1 · Camera Motion
 
 ---
-### 207. Sunrise Wingsuit Canyon Run
+### 220. Sunrise Wingsuit Canyon Run
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbora1x001y04kzu423fe6k"><img src="https://pbs.twimg.com/amplify_video_thumb/2082731250360475648/img/uykEin4dHtvht4DH.jpg" alt="Sunrise Wingsuit Canyon Run" width="700" /></a>
 
@@ -7861,7 +8481,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 **Source:** [@sebatheepan](https://x.com/sebatheepan/status/2082731549707927857) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 208. Raw Ringside Boxing Match
+### 221. Raw Ringside Boxing Match
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xfpd000b04l1jlm28ov6"><img src="https://pbs.twimg.com/amplify_video_thumb/2083032979555639296/img/hP4q_CcPc9bRsQXn.jpg" alt="Raw Ringside Boxing Match" width="700" /></a>
 
@@ -7905,7 +8525,7 @@ CANYON WINGSUIT THREAD WORLD BUILD A wingsuit pilot threading an impossible cany
 **Source:** [@johnAGI168](https://x.com/johnAGI168/status/2083033353679221043) · 15s · 9:16 · Camera Motion
 
 ---
-### 209. Jetpack Dive Through a Mountain Gorge
+### 222. Jetpack Dive Through a Mountain Gorge
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbor96b001x04kzqpumsjqs"><img src="https://pbs.twimg.com/amplify_video_thumb/2082793987266711552/img/7NTXdwjcZVFoOsbB.jpg" alt="Jetpack Dive Through a Mountain Gorge" width="700" /></a>
 
@@ -7923,7 +8543,7 @@ Ultra-fast paced cinematic action sequence, a man in a sleek black tactical suit
 **Source:** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2082794108998078815) · 15s · 16:9 · Camera Motion · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 210. Speeder Chase Across Cliff City
+### 223. Speeder Chase Across Cliff City
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1gb4e000d0akmog2c2pey"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499279680405504/img/sccNuuy1xWEtEzVo.jpg" alt="Speeder Chase Across Cliff City" width="700" /></a>
 
@@ -7941,7 +8561,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 **Source:** [@umesh_ai](https://x.com/umesh_ai/status/2082499539735588916) · 15s · 16:9 · Camera Motion
 
 ---
-### 211. Dramatic Cliff Overlook Shot
+### 224. Dramatic Cliff Overlook Shot
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb47w6q000504l1cfmexapu"><img src="https://pbs.twimg.com/amplify_video_thumb/2082700212683022336/img/Be5dh9dZtKe1bPos.jpg" alt="Dramatic Cliff Overlook Shot" width="700" /></a>
 
@@ -7959,7 +8579,7 @@ The shot opens tight on a beautiful woman face, wind tearing at her coat as she 
 **Source:** [@umesh_ai](https://x.com/umesh_ai/status/2082700637444452380) · 15s · 16:9 · Camera Motion
 
 ---
-### 212. Cinematic Warrior Orbital Shot
+### 225. Cinematic Warrior Orbital Shot
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0sw000204jp6odmqkv1"><img src="https://pbs.twimg.com/amplify_video_thumb/2083532443408113665/img/t1N0rkwgcQwFkHae.jpg" alt="Cinematic Warrior Orbital Shot" width="700" /></a>
 
@@ -7977,7 +8597,7 @@ slow 180-degree orbital as she rises to face the third raider, khopesh raised, t
 **Source:** [@Malzahran2](https://x.com/Malzahran2/status/2083532686845497568) · 15s · 16:9 · Camera Motion
 
 ---
-### 213. Cyber Anime AMV — Typography & Crash Zooms
+### 226. Cyber Anime AMV — Typography & Crash Zooms
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100376185200947214"><img src="https://pbs.twimg.com/amplify_video_thumb/2100285546102931456/img/12pzp3_fmQhQviZf.jpg" alt="Cyber Anime AMV — Typography & Crash Zooms" width="700" /></a>
 
@@ -8001,9 +8621,57 @@ Sharp modern cel-shaded anime style, aggressive motion smear, chromatic aberrati
 **Source:** [@IqrasaifiAI](https://x.com/IqrasaifiAI/status/2100376185200947214) · 15s · 16:9 · Camera Motion
 
 ---
+### 227. Seaside Tourist Clip — Deliberately Amateur Phone-Video Look
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106585331244183660"><img src="https://upload.maynor1024.live/file/1791168960949_h3-2106585331244183660.jpg" alt="Seaside Tourist Clip — Deliberately Amateur Phone-Video Look" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — 自然、非专业拍摄游客视频。MiniMax H3 本地提示语： subject_definitions: &lt;Subject 1&gt;: The solitary young adult woman at the seaside, with a slim build, long loose dark hai…</summary>
+
+~~~~text
+自然、非专业拍摄游客视频。MiniMax H3 本地提示语：
+subject_definitions:
+<Subject 1>: The solitary young adult woman at the seaside, with a slim build, long loose dark hair, a light sleeveless cropped top, and a dark loose denim skirt or wide-leg denim lower garment. Her face remains largely obscured by her hair and bowed profile. Source(s): <Picture 1>.
+
+summary:
+A serene, photorealistic wide coastal sunset portrait: a solitary young woman stands casually beside the rope railing as the breeze moves her hair; she later brushes it back, while the landscape remains the visual focus.
+Hard constraints: One continuous fixed-camera shot with no cuts, pans, tilts, zooms, reframing, or camera travel. | Begin from the supplied coastal sunset composition and retain the woman at the left side of the wide frame. | Preserve the woman’s long loose dark hair, light sleeveless cropped top, and dark loose denim lower garment. | Keep the tropical rocky shore, rope railing, foreground foliage, rippled ocean, distant mountains, low sun, and warm sunset reflection visible. | Action remains understated and natural: wind moves the woman’s hair, then she casually brushes the strands back. | No narration, subtitles, or spoken dialogue.
+Generation controls (authoritative) —
+Prompt-text rule: every section label and descriptive sentence is silent production direction, never speech content. Do not speak, recite, chant, sing, or read this prompt aloud.
+Background music: enabled. Generate a context-appropriate non-diegetic score unless the user explicitly requests silence or no music.
+Dialogue permission is enabled, but this plan contains no dialogue lines. Generate no character speech, conversation, chanting, singing, or other vocals.
+Dialogue language: automatic. Preserve each explicit <d> language tag; otherwise use the language required by the scene and user intent.
+Narration: disabled. Generate no narrator, voice-over, spoken description, or audible reading of prompt text, section labels, instructions, asset tags, or metadata.
+Subtitles: disabled. Do not render subtitles or dialogue captions.
+Creative direction (authoritative within explicit user intent and reference fidelity)
+Priority: Apply these creative directives clearly wherever they do not conflict with explicit user requirements, identity retention, or fixed first/last-frame composition.
+Camera execution: Follow the action continuously in a single unbroken take, using only motivated pans, small translations, and reframing needed to preserve spatial clarity.
+Look: Treat connected visual references as authoritative for identity, wardrobe, objects, environment, composition, lighting, color, and medium; do not impose an unrelated restyle.
+Pacing and composition: Use moderate, readable motion with natural acceleration and enough settling time for each important beat. Use exactly one continuous shot with no hidden or explicit cuts; express all action beats through blocking, performance, camera motion, reframing, and synchronized sound. An explicit user-requested shot or cut count remains authoritative over this density preference. Compose for a wide frame: use lateral space, environment, foreground and background depth, while keeping the primary subject hierarchy unmistakable.
+
+retention_analysis:
+<Picture 1> -> first_frame: Use as the authoritative first-frame visual reference for the woman's identity and wardrobe, the tropical seaside environment, sunset lighting and color, wide composition, rope railing, vegetation framing, ocean, rocks, and distant mountainous coastline..
+
+detailed_description:
+[Shot 1] At 00:00.000-00:15.083, At golden hour on the tropical rocky shoreline, the young woman stands in relaxed profile beside the diagonal rope railing with her head slightly bowed. Her long dark hair shifts naturally across her face and shoulders in the sea breeze while palm fronds and foreground leaves stir subtly. The ocean ripples below the warm sun reflection and distant mountains remain still on the horizon. After a quiet settling beat, she lifts one hand and casually sweeps the windblown strands back from her face, then lets her hand lower naturally as her hair settles. Preserve the photographic realism, subdued shadow detail, and warm sunset highlights of the reference. Camera: Locked-off wide landscape framing, matching the supplied first-frame composition: the woman remains in the left third, ocean and mountainous horizon occupy the center, and the low sun remains in the upper-right. No camera movement, zoom, or reframing. Motion: Natural, moderate environmental motion only: continuously rippling water, lightly swaying vegetation, and wind-driven hair. The woman makes one slow, readable hair-brushing gesture around the middle-to-late portion of the take, then returns to a relaxed still pose. Synchronized audio: 0.0-15.083333: gentle waves lap against shoreline rocks.; 0.0-15.083333: soft wind rustles nearby foliage and lightly catches the woman's hair.; 0.0-15.083333: subdued ambient score remains soft beneath the natural shore sounds.
+
+overall_soundscape:
+Quiet golden-hour shore ambience: gentle small waves around near rocks, a soft sea breeze through palm fronds and leaves, and distant open-water atmosphere. No voices or narration. No narration, voice-over, spoken description, or audible prompt reading.
+
+non_diegetic_music:
+Soft, sparse ambient cinematic score with warm sustained tones and a very light acoustic texture; remain subdued beneath the natural seaside atmosphere, gently rising during the hair-brushing gesture and fading calmly at the end.
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/listudio/status/2106585331244183660)
+
+**Source:** [@listudio](https://x.com/listudio/status/2106585331244183660) · 18s · 16:9 · Camera Motion
+
+---
 ## Reference & Consistency
 
-### 214. Fantasy MMORPG Gameplay Reveal
+### 228. Fantasy MMORPG Gameplay Reveal
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xgx4000d04l10xty7iwb"><img src="https://pbs.twimg.com/amplify_video_thumb/2083085291691319296/img/zEXiiVypelJy1CeR.jpg" alt="Fantasy MMORPG Gameplay Reveal" width="700" /></a>
 
@@ -8042,7 +8710,7 @@ Reconstruct each multi-view subject as one coherent 3D asset without averaging o
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2083085328710238400) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 215. Divine Ascension Web Interface
+### 229. Divine Ascension Web Interface
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2guus00000ajfae9hxtax"><img src="https://pbs.twimg.com/amplify_video_thumb/2083087808584101888/img/YJQUBTO4YrEgmQRA.jpg" alt="Divine Ascension Web Interface" width="700" /></a>
 
@@ -8132,7 +8800,7 @@ Reconstruct each multi-view subject as one coherent 3D asset without averaging o
 **Source:** [@Cia0_exe](https://x.com/Cia0_exe/status/2083090068378616089) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 216. Chibi Card Battle Game Spot
+### 230. Chibi Card Battle Game Spot
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t1gj000404jp58a34rrg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083200281681244160/img/HMoAH6bI63vla0DX.jpg" alt="Chibi Card Battle Game Spot" width="700" /></a>
 
@@ -8217,7 +8885,7 @@ Kikichan（Image5）向前踏出一步，九条白色狐尾像扇子一样"唰"�
 **Source:** [@Preda2005](https://x.com/Preda2005/status/2083203349739192726) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 217. Industrial Dark Pop Performance
+### 231. Industrial Dark Pop Performance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb2bmja00000akodlqowy4y"><img src="https://pbs.twimg.com/amplify_video_thumb/2082853327927209984/img/kXZufT3tsmRomY-M.jpg" alt="Industrial Dark Pop Performance" width="700" /></a>
 
@@ -8235,7 +8903,7 @@ Kikichan（Image5）向前踏出一步，九条白色狐尾像扇子一样"唰"�
 **Source:** [@ivanka_humeniuk](https://x.com/ivanka_humeniuk/status/2082854898907931081) · 15s · 1:1 · Reference & Consistency
 
 ---
-### 218. Surreal 3D Cartoon Traveler
+### 232. Surreal 3D Cartoon Traveler
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb478qz000104l1sm6men39"><img src="https://pbs.twimg.com/amplify_video_thumb/2082549060335226880/img/pfjp8U3C5-uRYLTS.jpg" alt="Surreal 3D Cartoon Traveler" width="700" /></a>
 
@@ -8289,7 +8957,7 @@ Exactly one traveler. No identity or wardrobe changes, extra limbs, malformed ha
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082549084381126957) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 219. Sci-Fi Cyborg Confrontation
+### 233. Sci-Fi Cyborg Confrontation
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4xg32000c04l1ybudmjmk"><img src="https://pbs.twimg.com/amplify_video_thumb/2082519284975054848/img/ozktwMKlrP63V3TA.jpg" alt="Sci-Fi Cyborg Confrontation" width="700" /></a>
 
@@ -8317,7 +8985,7 @@ Create a 15-second ultra-cinematic confrontation in the ruined streets of Sector
 **Source:** [@LudovicCreator](https://x.com/LudovicCreator/status/2082519983842595100) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 220. Seamless Character 360 Orbit
+### 234. Seamless Character 360 Orbit
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb479v7000204l1p3r1tr01"><img src="https://pbs.twimg.com/amplify_video_thumb/2082534851224514560/img/I05cpv8kdt-8wE2x.jpg" alt="Seamless Character 360 Orbit" width="700" /></a>
 
@@ -8363,7 +9031,7 @@ Premium photorealistic travel-fashion film, natural skin and linen texture, warm
 **Source:** [@PromptSin](https://x.com/PromptSin/status/2082534878139355561) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 221. Cozy Winter Cabin Memories
+### 235. Cozy Winter Cabin Memories
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb58a3c000104l1cok71l7q"><img src="https://pbs.twimg.com/amplify_video_thumb/2082501768018366464/img/3UGFF4kJ7fukMPBn.jpg" alt="Cozy Winter Cabin Memories" width="700" /></a>
 
@@ -8389,7 +9057,7 @@ Natural smartphone video quality, slight real handheld shake, smooth normal fram
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2082502202539810991) · 15s · 16:9 · Reference & Consistency
 
 ---
-### 222. Photoreal Character Turnaround Sheet
+### 236. Photoreal Character Turnaround Sheet
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqlcl000z04kznsc0hae2"><img src="https://pbs.twimg.com/amplify_video_thumb/2082499628524806144/img/RO3FacAydnwOLvMB.jpg" alt="Photoreal Character Turnaround Sheet" width="700" /></a>
 
@@ -8435,7 +9103,7 @@ SHOT 7：正面の立ち姿・横向き（右）の立ち姿・後ろ向きの�
 **Source:** [@aiehon_aya](https://x.com/aiehon_aya/status/2082501605803597837) · 15s · 16:9 · Reference & Consistency · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 223. Character Detail Montage — 20-Shot Face Reveal
+### 237. Character Detail Montage — 20-Shot Face Reveal
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100258514132217859"><img src="https://pbs.twimg.com/amplify_video_thumb/2100258256723509248/img/1pZJCQnJPm8OYE2t.jpg" alt="Character Detail Montage — 20-Shot Face Reveal" width="700" /></a>
 
@@ -8489,7 +9157,7 @@ No added props, scenery, text, graphic overlays or split screens.
 **Source:** [@aimikoda](https://x.com/aimikoda/status/2100258514132217859) · 15s · 1:1 · Reference & Consistency
 
 ---
-### 224. Airport Arrival Through Fans & Paparazzi (Ref2V)
+### 238. Airport Arrival Through Fans & Paparazzi (Ref2V)
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2104131439428247769"><img src="https://pbs.twimg.com/amplify_video_thumb/2104129747953573888/img/qmQQ13xVk-LuOa5E.jpg" alt="Airport Arrival Through Fans & Paparazzi (Ref2V)" width="700" /></a>
 
@@ -8527,7 +9195,7 @@ No subtitles, text, watermark, logo, or legible readable text; the overhead airp
 ---
 ## Video Editing
 
-### 225. Cyber Grunge K-Pop MV
+### 239. Cyber Grunge K-Pop MV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3t0ab000004jp8hfbfcbj"><img src="https://pbs.twimg.com/media/HOiNPd4bMAAp5fu.jpg" alt="Cyber Grunge K-Pop MV" width="700" /></a>
 
@@ -8701,7 +9369,7 @@ SHOT 18｜14.0–15.0s
 **Source:** [@liandeli2](https://x.com/liandeli2/status/2083070647660609837) · 15s · 16:9 · Video Editing
 
 ---
-### 226. 3x3 contact sheet female rapper grid performance
+### 240. 3x3 contact sheet female rapper grid performance
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbord64002304kzadkw5y15"><img src="https://pbs.twimg.com/amplify_video_thumb/2082846410349703168/img/X1SVoW46ix7iEcMr.jpg" alt="3x3 contact sheet female rapper grid performance" width="700" /></a>
 
@@ -8719,7 +9387,7 @@ Use @Image 1 as the exact opening frame. It is a 3x3 contact sheet of nine separ
 **Source:** [@lukasersil](https://x.com/lukasersil/status/2082847686185672833) · 15s · 16:9 · Video Editing · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 227. Hard sci-fi desert 3x3 grid animation sequence
+### 241. Hard sci-fi desert 3x3 grid animation sequence
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqj32000w04kzaogd0479"><img src="https://pbs.twimg.com/amplify_video_thumb/2082610596818685952/img/atJYEAotpCKnNMEn.jpg" alt="Hard sci-fi desert 3x3 grid animation sequence" width="700" /></a>
 
@@ -8758,7 +9426,7 @@ Photorealistic, ultra-detailed skin and fabric textures, perfect sand physics, c
 **Source:** [@techhalla](https://x.com/techhalla/status/2082611421225845158) · 15s · 1:1 · Video Editing · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 228. Boundless Journey Across Surreal Worlds `reconstructed`
+### 242. Boundless Journey Across Surreal Worlds `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zuua000f04l12f3kcyfj"><img src="https://pbs.twimg.com/amplify_video_thumb/2082869570709417984/img/BhZa3fohdWz8mtzd.jpg" alt="Boundless Journey Across Surreal Worlds" width="700" /></a>
 
@@ -8797,7 +9465,7 @@ Wardrobe changes, character morphing, camera shake, shallow depth of field obscu
 **Source:** [@ZephyraLeigh](https://x.com/ZephyraLeigh/status/2082869776926552278) · 15s · 16:9 · Video Editing · prompt reconstructed by us
 
 ---
-### 229. Avant-Garde Kinetic Fashion Lookbook `reconstructed`
+### 243. Avant-Garde Kinetic Fashion Lookbook `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb3u758000104l5kkn3wxil"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2083536033929416704/pu/img/wXY4DTske5TLJOYI.jpg" alt="Avant-Garde Kinetic Fashion Lookbook" width="700" /></a>
 
@@ -8836,7 +9504,7 @@ Soft focus, warm natural sunlight, organic environments, slow crossfades, shaky 
 **Source:** [@zahra4sure](https://x.com/zahra4sure/status/2083536105068966324) · 15s · 16:9 · Video Editing · prompt reconstructed by us
 
 ---
-### 230. Surreal Crimson Sports Fusion `reconstructed`
+### 244. Surreal Crimson Sports Fusion `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb63mzj000d04jxqqveycm8"><img src="https://pbs.twimg.com/amplify_video_thumb/2082784127728656384/img/ORRA44iM270MVkTh.jpg" alt="Surreal Crimson Sports Fusion" width="700" /></a>
 
@@ -8875,7 +9543,7 @@ Muted colors, flat lighting, continuous long takes, realistic physics, mundane s
 **Source:** [@ibexdream](https://x.com/ibexdream/status/2082785689758826676) · 15s · 9:16 · Video Editing · prompt reconstructed by us
 
 ---
-### 231. DV Camcorder Gym Vlog POV
+### 245. DV Camcorder Gym Vlog POV
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g5tj00000akmfc12aypp"><img src="https://pbs.twimg.com/amplify_video_thumb/2083048714990755840/img/DUZs0Q7QbrW1xq5v.jpg" alt="DV Camcorder Gym Vlog POV" width="700" /></a>
 
@@ -8904,7 +9572,7 @@ Selfie: grabs bag and shake, waves. "Alright, I'm heading out—see you guys."
 **Source:** [@doctorwasif](https://x.com/doctorwasif/status/2083048782581858681) · 15s · 16:9 · Video Editing
 
 ---
-### 232. Paris Octopus — Six Camera Angles From One Clip
+### 246. Paris Octopus — Six Camera Angles From One Clip
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2102318276642553907"><img src="https://pbs.twimg.com/amplify_video_thumb/2102317347700633600/img/s5RdI3REMqp6M2lz.jpg" alt="Paris Octopus — Six Camera Angles From One Clip" width="700" /></a>
 
@@ -8922,9 +9590,169 @@ Overcast light, soft light, daytime, documentary photography style, mixed tones,
 **Source:** [@steftranquillin](https://x.com/steftranquillin/status/2102318276642553907) · 10s · 4:5 · Video Editing
 
 ---
+### 247. Kinetic Typography Battle — Prompt-Generation Brief (H3 × WAN 3.0)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106653217094533508"><img src="https://upload.maynor1024.live/file/1791168952348_h3-2106653217094533508.jpg" alt="Kinetic Typography Battle — Prompt-Generation Brief (H3 × WAN 3.0)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — MiniMaxH3＆WAN3.0 プロンプト生成指示書公開 構造改訂版 キネティックタイポグラフィ対決 画像を差し替えるだけでもオリジナルに見える？かもですが、タイポグラフィも変更できるように指示書を作成📝 プロンプトに組み込んで変数化すると、プロンプトの文字数が長くなるので今回は指示書形式で公開で…</summary>
+
+~~~~text
+MiniMaxH3＆WAN3.0 プロンプト生成指示書公開
+構造改訂版 キネティックタイポグラフィ対決
+
+画像を差し替えるだけでもオリジナルに見える？かもですが、タイポグラフィも変更できるように指示書を作成📝
+
+プロンプトに組み込んで変数化すると、プロンプトの文字数が長くなるので今回は指示書形式で公開です🎥
+
+※添付動画とプロンプト
+・アスペクト比は16:9
+・前半15秒がMiniMax H3（不安定かも）
+・後半15秒がWAN3.0（安定してるかも）
+・両方ともプロンプトは共通
+
+※使用アグレゲータ
+・SJinn MiniMax H3 2K
+・SJinn WAN3.0 480p（アップスケール）
+
+※注意点
+・アグレゲータはSJinnのみで生成
+・ゆらぎはあります
+
+※指示書の使い方
+①USER INPUTを修正（現在は記載済み）
+②常に新しいチャットを開く（重要）
+③指示書を投入
+④出力プロンプトと全身画像を投入
+
+※投入指示書（ChatGPT Sol5.6想定）
+👇️👇️👇️
+【目的】
+以下の【USER INPUT】を、後述する【基準プロンプト】の指定箇所だけへ反映し、動画生成へそのまま投入できる完成プロンプトを1つ出力する。
+基準プロンプトの構造、文章、SHOT数、秒数、人物、背景、色、モーショングラフィックス、タイポグラフィ質感、カメラ、編集、SOUND、NEGATIVEは変更しない。
+
+【USER INPUT】
+REFERENCE IMAGE：image1
+MAIN TYPE：HACH
+OPENING TYPE：HA
+TYPE 1：SHIFT
+TYPE 2：BOLD
+TYPE 3：FLOW
+RAPID TYPE：BOLD / CALM / DEEP / TRUE
+
+【入力ルール】
+各TYPEには表示したい文字列だけを入力する。括弧「」は入力しない。
+RAPID TYPEは4語を ` / ` で区切り、左から順に使用する。
+REFERENCE IMAGEには、使用環境で参照画像を呼び出すための識別子をそのまま入力する。入力された識別子を別形式へ変換しない。
+
+【反映ルール】
+後述する【基準プロンプト】を唯一の親として使用する。入力値は以下の指定箇所だけへ反映し、同じ文字列が別の場所に存在しても全文検索による一括置換は行わない。
+1．REFERENCE IMAGE：`[REFERENCE]` の先頭にある `［REFERENCE IMAGE］` だけをUSER INPUTのREFERENCE IMAGEへ置換する。
+2．MAIN TYPE：Shot 3 `[START]` の `HACH`、Shot 3 `[END]` の `HACH`、Shot 13 `[START]` の `HACH` の3箇所だけを置換する。
+3．OPENING TYPE：Shot 1 `[START]` の `HA`、Shot 1 `[END]` の `HA` の2箇所だけを置換する。
+4．TYPE 1：Shot 5 `[START]` の `SHIFT`、Shot 5 `[END]` の `SHIFT` の2箇所だけを置換する。
+5．TYPE 2：Shot 6 `[START]` の `BOLD`、Shot 6 `[MAIN EVENT]` の `BOLD`、Shot 6 `[END]` の `BOLD` の3箇所だけを置換する。Shot 8の `BOLD` には反映しない。
+6．TYPE 3：Shot 7 `[START]` の `FLOW`、Shot 7 `[END]` の `FLOW` の2箇所だけを置換する。
+7．RAPID TYPE：入力された4語を左から順に、Shot 8 `[MAIN EVENT]` 内の `「BOLD」「CALM」「DEEP」「TRUE」` の4箇所だけへ反映する。他SHOTに同じ文字列が存在しても変更しない。
+
+【基準プロンプト保護】
+指定した置換箇所以外は一切変更しない。文章の改善、要約、短縮、言い換え、補足、再設計を行わない。
+見出し、順序、SHOT数、秒数、START／MAIN EVENT／END、句読点、全角半角、記号、改行構造を変更しない。
+背景、色、インク、ダメージプリント、人物固定、Shot 4、Shot 11、Shot 12、Shot 13、SOUND、NEGATIVEへ新しい条件を追加しない。
+入力値から人物、世界観、配色、演出を推測して変更しない。入力値と同じ文字列が基準プロンプトの別箇所に存在していても、指定箇所以外は置換しない。
+
+【出力形式】
+完成プロンプトは、基準プロンプトの文字列をそのまま保持したプレーンテキストとして出力する。Markdown用のエスケープ処理を行わない。
+基準プロンプトに存在しないバックスラッシュ「\」を追加しない。半角チルダ「~」はそのまま出力し、「\~」へ変換しない。
+見出し、SHOT見出し、START／MAIN EVENT／END、通常文章の行末にバックスラッシュ「\」を追加しない。
+角括弧、丸括弧、引用符、スラッシュ、チルダ、記号をMarkdown表示のためにエスケープしない。表示上の都合による記号の追加・変換を行わない。
+
+【出力前チェック】
+完成後、【基準プロンプト】と全文比較する。差分として許可するのは【反映ルール】で指定した箇所だけとし、指定外差分が1文字でもあれば基準プロンプトへ戻す。
+`［REFERENCE IMAGE］` は必ずUSER INPUTのREFERENCE IMAGEへ置換し、完成プロンプトには残さない。
+基準プロンプトに存在しないバックスラッシュ「\」が追加されていないこと、SHOT時間の半角チルダ「~」が「\~」になっていないこと、各行末に不要なバックスラッシュ「\」が追加されていないことを確認する。
+今回記入済みのUSER INPUTを使用した場合は、指定された参照画像識別子とタイポだけを所定箇所へ反映し、それ以外の本文に1文字も差分を生じさせない。
+
+【出力】
+完成した投入用プロンプト全文だけを1つのコードブロックで出力する。コードブロック内の本文にはMarkdownエスケープを加えず、プレーンテキストをそのまま入れる。
+管理用Title行、説明、変更点、注意書き、差分一覧、前置き、後書きは出力しない。
+
+【基準プロンプト】
+[DECLARATION]
+HIGH-END FASHION EDITORIAL MOTION GRAPHICS。15秒、16:9、2K前提、全13SHOT。プレミアムAAAモーショングラフィックス × ハイファッションエディトリアル × 実験的グラフィックデザイン × ダメージプリントキャンペーン。核は「静かな人物＋爆発的に動くグラフィック世界」。巨大タイポ、リング、インク、ブロック、フィルム、ラインが画面のエネルギーを担う。
+[REFERENCE]
+［REFERENCE IMAGE］ 参照人物。顔、髪、メイク、年齢感、体型、身長感、頭身、全身比率、衣装、靴、アクセサリーのみ固定参照し、背景は除外。
+[CONDITION]
+全SHOTで同一人物・体型・衣装・靴・アクセサリーを維持。人物は踊らず動きを最小限にする。背景基調はエイジドクリーム〜ウォームオフホワイトの明るい多層面。真っ黒／暗色背景主体にしない。ウォームチャコール／ごく暗いオリーブブラックは局所的な暗部、巨大タイポ、ライン、ブロック、リング、補助MGのコントラストに限定する。アクセントはバーントオレンジ、ラストレッド、ダークオリーブ、エイジドクリーム。背景はベタ面にせず、薄い擦れ、粒子、円弧、濃淡差を持つ。巨大文字の文字面そのものに、かすれ、擦過傷、印刷ムラ、欠けを持たせたダメージプリント質感を与える。周囲のインクや背景だけでなく文字本体に質感を入れ、可読性は維持する。全SHOTを①人物・巨大タイポ・主役MG、②動く脇役（リング、細線、インク、ブロック、フィルム断片、スキャンライン、スピードトレイル）、③常在脇役（数字や文字を伴わない抽象バーコード、十字、クロップマーク、目盛り、小矩形、ドットグリッド）、④背景層（円弧、リング断片、水平／垂直線、印刷ノイズ、擦れ）の4層で構成する。③④は主役化せず、各SHOTで③を最低3種類残し、空白背景にしない。黒系／暗色系の巨大タイポには黒インクを主役として重ねず、ラストレッドまたはダークオリーブを優先する。黒インクは文字を潰さず、背後または周辺の補助要素に限定する。固定タイポ以外の文字・数字・疑似文字は出さない。編集はハードカット、グラフィックマッチカット、スナップズーム、前景ワイプ、タイポストレッチ、フィルムストリップ、スピードランプ、控えめなインパクトシェイク。
+[SHOT FLOW]
+[Shot 1｜0.00~1.00秒]
+[START]巨大な「HA」。
+[MAIN EVENT]オリーブリングが拡張し、ラストレッドのインクと細線が走る。円弧、擦れ、十字、抽象バーコード、目盛りを重ねる。
+[END]「HA」とリングが画面を支配。
+[Shot 2｜1.00~1.90秒]
+[START]参照人物の目の極端なマクロ。
+[MAIN EVENT]オレンジのスキャンリング、水平スキャンライン、円弧、ターゲット線。目盛り、クロップマーク、技術図形を重ねる。
+[END]目＋スキャン要素を保持。
+[Shot 3｜1.90~3.00秒]
+[START]巨大な縦組み「HACH」。
+[MAIN EVENT]文字の背後から参照人物が現れ、オリーブリングが人物の前後を横切る。細線、円弧、ドットグリッド、抽象バーコードで奥行きを作る。
+[END]人物＋「HACH」を保持。
+[Shot 4｜3.00~4.10秒]
+[START]非対称エディトリアルパネル。
+[MAIN EVENT]同一人物の顔、横顔、衣装、目を4パネルで見せる。均等2×2にせず、比率を変え一部を重ね、細線、矩形、円弧、インク擦れで一画面としてつなぐ。
+[END]4パネル統合画面。
+[Shot 5｜4.10~5.20秒]
+[START]参照人物＋巨大な「SHIFT」。
+[MAIN EVENT]人物の周囲をリングが回転。インクスラッシュ、水平線、ブロックが動き、円弧、抽象バーコード、クロップマークを残す。
+[END]「SHIFT」とリングを保持。
+[Shot 6｜5.20~6.20秒]
+[START]エイジドクリーム背景＋巨大な「BOLD」。
+[MAIN EVENT]ラストレッドのインクスラッシュを主に使い、薄いリング、細線、矩形、印刷ノイズ、十字、目盛りを重ねる。黒系「BOLD」の可読性を保ち、インクは文字を潰さない。
+[END]「BOLD」を高可読で保持。
+[Shot 7｜6.20~7.30秒]
+[START]巨大な「FLOW」＋参照人物。
+[MAIN EVENT]人物がわずかに頭を動かし、透明で控えめなモーショントレイルを残す。水平スピードライン、スキャン線、リング断片、抽象バーコード、クロップマークが流れる。
+[END]「FLOW」と薄い残像を保持。
+[Shot 8｜7.30~8.50秒]
+[START]高速タイポ連打。
+[MAIN EVENT]「BOLD」「CALM」「DEEP」「TRUE」の4語をすべて見せ、語の切替に同期してリング、ブロック、インク、ラインも切り替える。背景にグリッド、円弧、目盛り、十字、抽象バーコード。
+[END]4語を見せ切る。
+[Shot 9｜8.50~9.60秒]
+[START]座った参照人物のポートレート。
+[MAIN EVENT]ターゲティングサークル、拡張・収縮リング、水平線、ブロック。背景に十字、クロップマーク、小矩形、印刷ノイズ。
+[END]静かなポートレートを保持。
+[Shot 10｜9.60~10.60秒]
+[START]極端な顔クローズアップ。
+[MAIN EVENT]半透明プリントフィルムを2〜3層、位置と奥行きをずらして重ね、擦れた端、印刷傷、細いスキャンライン、軽いパララックスを与える。顔は常に鮮明。
+[END]顔＋フィルム層を保持。
+[Shot 11｜10.60~11.70秒]
+[START]水平フィルムストリップ。
+[MAIN EVENT]同一人物の4つの抑制されたポーズを高速で見せる。薄いブロック、リング断片、ライン、インク擦れ、十字、目盛り、小矩形を重ねる。
+[END]4ポーズを一続きのフィルムとして見せる。
+[Shot 12｜11.70~13.50秒]
+[START]中央の参照人物が鮮明に静止し、主要MGはいったん引く。薄いライン、ノイズ、ターゲット痕跡は残す。
+[MAIN EVENT]左右へ透明な時間差モーショントレイルを長く伸ばし、外側ほど薄くする。独立人物にはせず中央人物から生じた連続エコーとする。ビートドロップでクリームのブラシ、ラストレッドのインク、オリーブのブロック、オレンジリング、固定タイポ断片、スピードラインを最大密度で爆発的に展開する。
+[END]中央人物と残像を認識できる最大密度のクライマックス。
+[Shot 13｜13.50~15.00秒]
+[START]巨大な「HACH」。参照人物は画面右1/3に座る。
+[MAIN EVENT]背後に大きなオリーブリングと薄い補助リング。人物と文字以外の余白を空けず、オレンジライン、ターゲット線、矩形フレーム断片、ドットグリッド、印刷ノイズ、十字、目盛り、抽象バーコード、クロップマークを分散。リングはゆっくり拡張し、人物はゆっくりカメラを見る。
+[END]ヒーローフレームを維持したまま終了。
+[SOUND]
+ハードなエレクトロニック・ファッションビート。インダストリアルポップ、重いパーカッション、サブベース、メタリックヒット、タイポスラム、紙スナップ。Shot 12を視覚・音楽両面の最大クライマックスにする。
+[NEGATIVE]
+人物変更、独立した別人物への増殖、体型・衣装・靴・アクセサリー変更は禁止。Shot 4、11、12の指定複製表現のみ許可。固定タイポ以外の文字・数字・疑似文字、ブランドロゴ、ウォーターマーク、UI表示、金髪化、可愛いアイドル風、ランジェリー化、ゴシックコスプレ、ピンク／紫／青ネオン、サイバーパンク、武器、炎、実爆発、ファンタジー魔法、過度な美肌補正、完全なベタ黒背景は禁止。
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/ai_lifehack55/status/2106653217094533508)
+
+**Source:** [@ai_lifehack55](https://x.com/ai_lifehack55/status/2106653217094533508) · 32s · 16:9 · Video Editing
+
+---
 ## Dialogue & Sound
 
-### 233. Desert Standoff — 15s single take
+### 248. Desert Standoff — 15s single take
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsabne9r000204la2ozvzj4z"><img src="https://pbs.twimg.com/amplify_video_thumb/2082560936645152769/img/1mJ8RYmFcQdGZZbA.jpg" alt="Desert Standoff — 15s single take" width="700" /></a>
 
@@ -8962,7 +9790,7 @@ POSITIVE LOCKS Exactly one visible person is in frame for the whole take — nob
 **Source:** [@maxescu](https://x.com/maxescu/status/2082563241062875568) · 15s · 16:9 · Dialogue & Sound
 
 ---
-### 234. 1980s open-source family comedy
+### 249. 1980s open-source family comedy
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborgh5002804kzf838scic"><img src="https://pbs.twimg.com/amplify_video_thumb/2083019948671303680/img/02M_fWKQOjMaBUCp.jpg" alt="1980s open-source family comedy" width="700" /></a>
 
@@ -8998,7 +9826,7 @@ No CGI, no digital-looking robots, no morphing, no extra people, no duplicated c
 **Source:** [@BrentLynch](https://x.com/BrentLynch/status/2083020024340693185) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 235. Live-action relationship confession drama scene
+### 250. Live-action relationship confession drama scene
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqjxz000x04kz6r89cirw"><img src="https://pbs.twimg.com/amplify_video_thumb/2082547031676014592/img/Z7cGjkHpS19_35ja.jpg" alt="Live-action relationship confession drama scene" width="700" /></a>
 
@@ -9077,7 +9905,7 @@ Final frame: Hold on the husband as the meaning lands. His hand lowers, and the 
 **Source:** [@NEXUS_TO_NOVA](https://x.com/NEXUS_TO_NOVA/status/2082548512286224793) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 236. Echoes of a Midnight Call `reconstructed`
+### 251. Echoes of a Midnight Call `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb20gvh00090bkyii6lyszi"><img src="https://pbs.twimg.com/amplify_video_thumb/2083122565141372928/img/QYmtLqa12GSUy-LU.jpg" alt="Echoes of a Midnight Call" width="700" /></a>
 
@@ -9116,7 +9944,7 @@ Camera shake, daylight, fast whip pans, exaggerated body motion, upbeat backgrou
 **Source:** [@magnific](https://x.com/magnific/status/2083122600738521398) · 15s · 16:9 · Dialogue & Sound · prompt reconstructed by us
 
 ---
-### 237. Korean Noir Crime Teaser
+### 252. Korean Noir Crime Teaser
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb1g8re00080akmiutbqlrr"><img src="https://pbs.twimg.com/amplify_video_thumb/2082790293515186176/img/dD0I_gut4aCMoCLt.jpg" alt="Korean Noir Crime Teaser" width="700" /></a>
 
@@ -9146,7 +9974,7 @@ Audio: Rain, thunder, jazz crackle, lighter click, intimate silence during dialo
 **Source:** [@doctorwasif](https://x.com/doctorwasif/status/2082790356983447606) · 15s · 16:9 · Dialogue & Sound
 
 ---
-### 238. Porto Francesinha Comedy Recipe
+### 253. Porto Francesinha Comedy Recipe
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborhi9002a04kztx35zzsg"><img src="https://pbs.twimg.com/amplify_video_thumb/2083172712868880384/img/3SQKBDnjoOqfejd8.jpg" alt="Porto Francesinha Comedy Recipe" width="700" /></a>
 
@@ -9168,7 +9996,7 @@ Scene: In Porto, Portugal a crazy chef explains how to do a Francesinha in Portu
 **Source:** [@imagineFERA](https://x.com/imagineFERA/status/2083172752790282615) · 15s · 21:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 239. Handheld Two-Person Argument
+### 254. Handheld Two-Person Argument
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsboqd9p000n04kzu46l4gek"><img src="https://pbs.twimg.com/amplify_video_thumb/2082770937364307968/img/usJDD_Eua58Y7FMu.jpg" alt="Handheld Two-Person Argument" width="700" /></a>
 
@@ -9186,7 +10014,7 @@ Two characters arguing in English. Make the emotion feel very realistic angry, t
 **Source:** [@heydin_ai](https://x.com/heydin_ai/status/2082774662342377881) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 240. Condor Heroes characters teach English word dream
+### 255. Condor Heroes characters teach English word dream
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbork73002e04kzwe7ymhnc"><img src="https://pbs.twimg.com/amplify_video_thumb/2082762661658517504/img/sWd3Bq-GgqUSxt1G.jpg" alt="Condor Heroes characters teach English word dream" width="700" /></a>
 
@@ -9204,7 +10032,7 @@ Two characters arguing in English. Make the emotion feel very realistic angry, t
 **Source:** [@nicekate8888](https://x.com/nicekate8888/status/2082762739697815758) · 15s · 16:9 · Dialogue & Sound · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 241. Pinch the Apocalypse — Anime Meteor Gag
+### 256. Pinch the Apocalypse — Anime Meteor Gag
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2100189410646241626"><img src="https://pbs.twimg.com/amplify_video_thumb/2100188209720508416/img/FsHBsN7V2CbfMEYk.jpg" alt="Pinch the Apocalypse — Anime Meteor Gag" width="700" /></a>
 
@@ -9259,9 +10087,41 @@ No narration, subtitles, captions, speech bubbles, readable text, logos, waterma
 **Source:** [@tokyo_Valentine](https://x.com/tokyo_Valentine/status/2100189410646241626) · 15s · 9:16 · Dialogue & Sound
 
 ---
+### 257. Massage Critical Hit −9999: Vertical Slapstick Short (3-Model Comparison)
+
+<a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106659177904963655"><img src="https://upload.maynor1024.live/file/1791168964795_h3-2106659177904963655.jpg" alt="Massage Critical Hit −9999: Vertical Slapstick Short (3-Model Comparison)" width="700" /></a>
+
+<details>
+<summary><strong>Prompt</strong> — Seedance2.5 VS WAN 3.0 VS MiniMax H3 同一段15秒的提示詞, 究竟三個唔同的AI 模型怎樣理解同演繹它呢? 大家可以看看以下的短片. 及提示詞去比較及感受一下. TopView 年Plan: 720P 15 sec 成本: SD2.5: HKD17.5, WAN…</summary>
+
+~~~~text
+Seedance2.5 VS WAN 3.0 VS MiniMax H3
+
+同一段15秒的提示詞, 究竟三個唔同的AI 模型怎樣理解同演繹它呢?
+
+大家可以看看以下的短片. 及提示詞去比較及感受一下.
+TopView 年Plan: 720P 15 sec 成本:  
+SD2.5: HKD17.5,  WAN 3.0: HKD8.75 , MiniMax H3: HKD3.5
+
+A 15-second high-energy slapstick comedy video with a handheld smartphone aesthetic, 9:16 vertical frame.
+
+[0-4s] In a cozy living room,  AhKit sits on the sofa rubbing his sore neck.  Mia stands behind him, smiling angelically at the camera while playfully rubbing her small fists together. Subtitle: "When she offers a massage..."
+
+[4-9s] Snap zoom. Mia cheerfully taps her small fist onto AhKit's shoulder. Sudden dynamic shockwave impact: AhKit's eyes bulge out in dramatic exaggerated horror, his body recoils violently, and he collapses off the sofa onto the floor in hilarious defeat. Subtitle: "CRITICAL HIT! -9999"
+
+[9-15s] Low-angle tracking shot. Mia's sweet face turns into a sinister, villainous mischievous smirk. She grabs AhKit by one ankle with one hand and effortlessly drags him across the wooden floor toward a bedroom doorway. AhKit lies face down, frantically clawing the wooden floor with both hands like a terrified cat refusing to go into the room, legs sliding helplessly. Subtitle: "Ah Kit: Help... ...!"
+~~~~
+
+</details>
+
+[![Play video](https://img.shields.io/badge/PLAY_VIDEO-F5FF60?style=for-the-badge&labelColor=111)](https://x.com/Langby2/status/2106659177904963655)
+
+**Source:** [@Langby2](https://x.com/Langby2/status/2106659177904963655) · 15s · 16:9 · Dialogue & Sound
+
+---
 ## Animals
 
-### 242. Giant koi park incident
+### 258. Giant koi park incident
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsborh4r002904kzj5tkc550"><img src="https://pbs.twimg.com/amplify_video_thumb/2082744154485075969/img/gJ5WCyroAu3j4rBJ.jpg" alt="Giant koi park incident" width="700" /></a>
 
@@ -9279,7 +10139,7 @@ No narration, subtitles, captions, speech bubbles, readable text, logos, waterma
 **Source:** [@underwoodxie96](https://x.com/underwoodxie96/status/2082747838782386563) · 15s · 16:9 · Animals · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 243. Macaw Scream in Extreme Slow Motion
+### 259. Macaw Scream in Extreme Slow Motion
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsbopyrm000604kz3j5xscmn"><img src="https://pbs.twimg.com/amplify_video_thumb/2083142442266583040/img/t7uwqkC_NFOB8M-D.jpg" alt="Macaw Scream in Extreme Slow Motion" width="700" /></a>
 
@@ -9297,7 +10157,7 @@ No narration, subtitles, captions, speech bubbles, readable text, logos, waterma
 **Source:** [@yuvalav](https://x.com/yuvalav/status/2083143771508592938) · 15s · 21:9 · Animals · via [awesome-minimax-h3-prompts](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ---
-### 244. Giant Lizard on the Gate `reconstructed`
+### 260. Giant Lizard on the Gate `reconstructed`
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-cmsb4zwjg000i04l1f9xhfdui"><img src="https://pbs.twimg.com/amplify_video_thumb/2082548491986067456/img/arUSZ2oq0eQMm3qR.jpg" alt="Giant Lizard on the Gate" width="700" /></a>
 
@@ -9336,7 +10196,7 @@ Unrealistic CGI effects, studio lighting, cinematic color grading, distorted ana
 **Source:** [@mxvdxn](https://x.com/mxvdxn/status/2082549668068966894) · 15s · 16:9 · Animals · prompt reconstructed by us
 
 ---
-### 245. Cat Sneezes the Desktop Icons Loose
+### 261. Cat Sneezes the Desktop Icons Loose
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2101868703482876376"><img src="https://pbs.twimg.com/amplify_video_thumb/2101868371692388352/img/DWQM2XfMDP5DWRMS.jpg" alt="Cat Sneezes the Desktop Icons Loose" width="700" /></a>
 
@@ -9531,7 +10391,7 @@ The final frame should closely match the first frame.
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2101868703482876376) · 10s · 16:9 · Animals
 
 ---
-### 246. Paper Fish Swim Out of the Treat Jar
+### 262. Paper Fish Swim Out of the Treat Jar
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106462029779288376"><img src="https://pbs.twimg.com/amplify_video_thumb/2106461969221918720/img/smrWWjNkqkOU40Nq.jpg" alt="Paper Fish Swim Out of the Treat Jar" width="700" /></a>
 
@@ -9550,7 +10410,7 @@ a small school of folded paper fish swims out of it and circles the kitchen
 
 ---
 
-### 247. Soft Deep Purr From Inside the Box (No Cat Appears)
+### 263. Soft Deep Purr From Inside the Box (No Cat Appears)
 
 <a href="https://tryminimax.asia/minimax-h3-prompts#prompt-x2106439441636335961"><img src="https://pbs.twimg.com/amplify_video_thumb/2106439325801963520/img/LeSJr8qNq4W8Rx23.jpg" alt="Soft Deep Purr From Inside the Box (No Cat Appears)" width="700" /></a>
 
